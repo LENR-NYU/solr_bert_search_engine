@@ -1,0 +1,87 @@
+(I)THE NEW SECOND LAW OF THERMODYNAMICS, THE(law of Coup I ing) = (LOC)
+
+In article(lOL the first law was used to prove
+the qualitative existence of entropy S ( dS = O,
+when oQR = 0) without knowing the dS equation.
+This makes it possible to establish a new second
+law of thermodynamics,the Law Of Coupling(LOC) [1]
+[2],which states: 
+'It is impossible for a simple system to approach a high
+entropy state from a low
+entropy one with evolution
+of heat at the same time!
+.....(Liu' s LOC)
+
+This statement is identical with( ) its 3 branches
+(I) (II) (III) and 5 small branches as shown by (Liu' s
+Branch Theory of LOC), Equation (I-1) wherein P
+Process)
+
+exothermic P
+WITHOUT ENTROPY
+INCREASE (I),
+exothermic P
+WITH ENTROPY
+DECREASE,
+exothermic P
+WITHOUT ENTROPY
+CHANGE.
+Cold Nuclear Fusion belongs to LOC (I-1). (CNF) is an EXOTHERMIC PROCESS with ENTROPY DECREASE.
+
+Entropy S is an extensive function, its value is proportional to the number of mo I es (n): n= 2 for the
+reactants(A+B); and n= l for the product AB with mass
+defect.
+
+(II)DISSIPATION CRITERIA FOR COLD NUCLEAR FUSION(CNF): It was proved by using LOC for the process of
+irreversible charging of an electric cell: This is the first two laws of thermodynamics for this
+irreversible cell process wherein: The meaning of the above two equations is: 
+In the process of charging, the work input to the cell, A' is converted into the increase of free energy.
+
+Equation(II-4) seems to explain the experimental facts published by some authors. However, more experiments are seriously needed, especially the
+method of experiment and treatment of the results
+need serious considerations. 
+
+
+REFERENCES
+
+[1) Shu-I Liu: State-Field Theory for The Laws of
+Thermodynamics: (III} A New Second Law Of
+Th e rm o d y n am i c s : t he Law of Coup 1 i n g an d I t s
+Deductions For Reversible Processes. Progress
+in Physics, Chemistry and Mechanics (PPCM}
+VoL 1 (1988),PPl-19.
+[2] Shu-I Liu: State-Field Theory for the Laws of
+Thermodynamics: (IV) The Set of Inequalities
+for Co-terminal Pair of Processes from the New
+Second Law of Thermodynamics, The Law of
+Coupling. PPCM Vol. 2 (1990.l, PP6-Z5, Hunan Press
+of Science and Technology:
+[3] Shu-I Liu and Meiying Wang: A Comparative
+Critical Analysis of the Deductions from the
+Two Carnot Theorems of Thermodynamics, PPCM
+Vol. 2 0990) PP96-113
+(4) Shu-I Liu: Complete Chinese Text of the Paper:
+From The New Second Law of Thermodynamics,The
+Law of Coupling,to dissipation Criteria in Both
+Directions of Electric Cell Processes. PPCM Vol. 3
+0992), Earthquake Press, Beijing.
+[5] Shu-I Liu and Meiying Wang: Complete Chinese Text
+of The Paper: A New Second Law of Thermodynamics,
+The Law Of Coupling; The State Rule And Two Gas
+Models.PPCM Vol. 3(1992),Ee.rthque.ke Press,Beijing.
+[6] M. Fleischmann and S. Pons, J. Electroanal. Chem.
+Interfacial E!ectroehem., 261 (1989) 301
+[7] Xu-Wu An et al., Thermochimica Acta 183 (1991} 107
+[8] M. Schreiber et al., The First Annual Conference
+on Cola Fusion, March Z8-3L 1990(Salt Lake City,
+Utah, U.S.A. ),Co�feience Proceedings P44
+[9] Ztongl iang Zhang et al., AIP Conference Proceedings
+Z2S( Anomalous Nuclear Effects in Deuterium/Solid
+Systems) Prov-o, UT. U.S. A. (1990)
+[10] Shu-I Liu: State-Field Theory for the Laws of
+Thermodynamics: (I) Direction Uniqueness Theorem
+of Adiabatic Process Vector.Science Exploration,
+i (1987), PPl-12.
+
+
+

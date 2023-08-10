@@ -1,0 +1,102 @@
+1 Introduction 
+
+In 2000, Dr. Roberto Andreani made a speech on closing session of the ICCF-8 (Lerice, Italy) that fusion energy
+is not necessary accompanied with the neutron radiation. He said that the solar energy was originated from
+proton-proton fusion, but there was no neutron accompanied. R. Andreani was the deputy director of the hot fusion
+project in ENEA (Frascati), Italy. He was leaving for Garching, Germany to work as the deputy director of the
+European team for ITER project. However, he paid attention to the cold fusion project from the beginning, and he
+did not refuse the cold fusion. Radiation-less fusion energy is a strong point of “cold fusion”. There was no reason to
+discredit the “cold fusion” just based on lack of neutron radiation. Selective resonant tunneling model was proposed
+in 1995 to explain why the fusion reaction should not be accompanied with neutron radiation. It is interesting to
+investigate how Bethe obtained his solar energy density in 1938, which was one of his merits to win the Nobel Prize
+later in 1967[1] 
+
+
+2 Bethe’s Calculation of the Solar Energy Density 
+
+2.1 Resonance Effect:
+Bethe clearly mentioned resonance twice in his paper [1], and the contribution from the resonance was more
+than one half of the total fusion cross section (see Table I in [1]). It is understandable, because Bethe believed that
+the temperature of solar plasma was 2 keV only which was much lower than the height of the Coulomb barrier
+between two protons. The quantum mechanics tunneling without resonance might not be enough to provide the solar
+energy density in order to meet the observation in astrophysics. 
+
+Bethe assumed a square-well for nuclear interaction, and a pure Coulomb potential outside the nuclear
+interaction region between two protons. Hence, three parameters would be needed in order to determine the wave
+function of the relative motion of two protons in their center of mass system. These parameters were the depth and
+the radius of the nuclear potential,( D and r0, respectively), and the kinetic energy of the incident proton (E ). In
+Bethe’s terminology, resonance just meant the mixture of the regular Coulomb wave function (F0) with the irregular
+Coulomb wave function (G0). The ratio of the mixture was determine by the phase shift of the Coulomb wave
+function (δ0 ). Here the subscript 0 just means the s-partial wave of the wave function. This phase shift, δ0 , might be
+calculated when the abovementioned three parameters were fixed.
+
+Here, v is the relative speed between two protons. Under the Bethe’s approximation, ζ is independent of the incident
+energy, E. Φ and Θ approach 1 when r→0. Tanδ0 depends on energy E through C2
+kr0 only, which is quite small due
+to the Coulomb barrier and the small value of k. This dependence will have a Gamow peak when the Maxwell
+velocity distribution of protons was considered. However, it is interesting to notice that even if the
+Tanδ 0 = 0.0017 at this Gamow peak, the contribution of this G0 to the fusion cross section is more than 50% in the
+final expression for the total cross section (see Table I later). We may see that resonance is an important factor in the
+low energy fusion reaction. Particularly, when the nuclear potential well was assumed such that Tanδ0 >>1; then, the
+resonance effect would reach its maximum value, and dominate the fusion cross section. 
+
+2.2 Weak Interaction 
+Bethe clearly stated that weak interaction played key role for the fusion reactions in the sun. Four protons would
+be eventually combined together to form an alpha-particle and emit two positrons. The energy released is 26.8 MeV.
+Although a chain of reactions might be involved in the whole process, the first reaction was the formation of
+deuterons by proton combination, i.e.
+p + p →d + e+ + νe 
+The Fermi constantfor this weak interaction was a very small number g:
+g=0.9×10-4 sec-1, hence, the perturbation theory was applied to calculate the transition probability from the 2 protons to the ground
+state of deuteron. The cross section for the combination of two protons of relative velocity v was given by
+σ = ψ ψ dτ v g f W p d^2
+Here, f(W)=0.132(the Coulomb correction factor in weak interaction), and
+)( )2(4 )2021 2 32 22 2− + +Λ + Λ + Λ = ∫.
+Here, b=4.37×10-13 cm is about the radius of the deuteron, x0=r0/b. Λ1 is the integration inside the nuclear well; both
+Λ2 and Λ3 are the integration outside the nuclear well. Λ2 is the integration which involver Φ; Λ3 is the integration
+which involves Θ. Hence, Λ3 represents the resonance effect. Based on the Table I in Bethe’s paper[1], we
+calculated the contribution from Λ3 which is more than 50% for his sets of parameters.(see Table I below). 
+
+
+3 Selectivity of the Resonant Tunneling
+
+From the abovementioned discussion, we can see that Bethe’s calculation did not consider the selectivity of the
+resonant tunneling, because Bethe did not consider the effect of the absorption on the wave function. The phase shift,
+Tanδ0, was a real number in Bethe’s calculation. Indeed the phase shift should be a complex number in case of
+fusion reaction. Consequently, the tunneling probability in Bethe’s model did not show any dependence on energy
+other than Gamow factor (2πη exp[-2πη]) and geometric factor (1/k
+2
+); therefore, there was no selectivity in the
+resonant tunneling effect in Bethe’s approximation. 
+
+In Bethe’s approximation, the dependence of cross section of fusion reaction on the energy appeared only in
+C2
+/v. Two dependences on energy are neglected. The first is the k1, which is the wave number inside the nuclear well.
+When nuclear well is deep, and the incident energy is low, |E/D| <<1; hence, k1 is almost independent on E. The
+second is the dependence of Θ on E. In Landau’s approximation [2,3],
+Θ = 1 + y Log y + γ − + h ka 
+
+This weak dependence on ( ) is important for the selectivity of resonant tunneling also.
+
+In the selective resonant tunneling model, an imaginary potential for nuclear well was introduced to make the
+phase shift complex such that[3] 
+] 1 4 Im[{Re[ ]} {Im[ ] 1}4 Im[ ]C krC krCot Cot kCotk + −−= + −− =λ λπ λδ δπ δσ.
+The complex nuclear potential makes λ complex, and those abovementioned two dependences on energy make 
+202 ] 1 Im[] 0 1 Re[k C kr πσλλ⇒ =.
+This feature had been ignored in Bethe’s calculation.
+
+
+4 Concluding Remarks
+
+From Bethe’s early work[1] we may conclude that:
+(1) Resonance effect is necessary to obtain the correct number for the energy density in the sun;
+(2) Weak interaction gives correct order of magnitude for fusion reaction in the sun, although it is very weak;
+(3) Resonant tunneling effect in Bethe’s calculation was not complete. 
+
+
+References
+
+[1] H. A. Bethe, and C. L. Critchfield, “The Formation of Deuterons by Proton Combination”, Phys. Rev. 54 248
+(1938).
+[2] L. D. Landau and E. M. Lifshitz, “Quantum Mechanics,”(Pergamon Press, Oxford,1987), p.571.
+[3] Xing Z. Li, “Nuclear Physics for Nuclear Fusion”. Fusion Science and Technology, 41 63 (2002).

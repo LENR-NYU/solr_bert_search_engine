@@ -1,0 +1,211 @@
+1
+
+It is well known that the truth of cold fusion has been discredited or ignored in the science world since its infancy
+until now. Obviously, the poor reproducibility of cold fusion
+experiments is mostly to blame for this widespread, longlasting denial. However, there is another important reason:
+the fact that the arbitrary refusal or neglect by most of the
+skeptics has prevented them from realizing and reconsidering new findings and progress made by the cold fusioners.
+While they remained on the sidelines, a new paradigm of
+science and technology has developed along with the evolution of cold fusion research. This has monumental significance regarding the explanation and understanding of cold
+fusion. It was their clinging and depending on the old paradigm, their ignorance and refusal to acknowledge the new
+paradigm that trapped cold fusion R&D in so many scientific and political difficulties. The history of cold fusion
+includes the failure of the old paradigm, and the development and success of the new one. The author deeply feels an
+obligation to write this article to present to the scientific
+community this paradigm, with the fervent wish that cold
+fusion will be re-evaluated with a more objective attitude
+rather than shunned away without the due responsibility,
+even in a time when the experimental facts are not yet clear
+and theoretical explanations vary.
+
+Differences between cold fusion and hot fusion are summarized in Table I. The most important difference is the temperature. The working temperature of cold fusion is from
+ambient (the characteristic energy is 0.03 eV) to 200°C (0.05
+eV). Even in gas-discharge or beam-target systems, the particle energy is only a few keV. These temperatures or energies
+are 6 orders less than the hot fusion values, which is on the
+order of 100 MK (10 keV) for D-T fusion, the easiest nuclear
+fusion.
+
+There is an analogy between nuclear fusion and chemical
+reactions. Hot fusion resembles an inorganic chemical reaction. Increasing temperature and pressure to extremely high
+values are traditional procedures to accelerate reaction rates.
+Cold fusion is similar to a biochemical reaction, the reaction
+rate of which is modified through choice of catalyst
+(enzyme), control of the pH, and other subtle conditions.
+This similarity is also embodied in the spectrum of products.
+Hot fusion products are simple, e.g. the ashes of D-T fusion
+are helium and neutron, in addition to tritium and proton
+for D-D fusion. The products of cold fusion are more complicated—they range from helium (the product of D-D
+fusion),1 silver (the product of a reaction involving a palladium cathode),2 to praseodymium and molybdenum (products of multi-body reaction involving surface additives, i.e.
+Cs + 4D → Pr, Sr + 4D → Mo),3 and many sorts of nucleons
+with Miley-type spectra4 even for the Pd-D system, the original and simplest one in this field. Product spectra depend
+on reactants, temperature, impurities and other conditions
+not clear yet today. The way these elements affect the reaction rate is something like the way yeasts affect the flavor of
+wine during brewing, i.e. different yeasts give different
+tastes. Another merit of cold fusion is that the nuclear products are stable nucleons only with trace amount of tritium
+(in ppb order) and neutron (in ppt order); this is in contrast
+to the radioactive nucleons, charged particles, neutrons or γ
+rays in hot fusion or nuclear fission. The green and safety
+nature of cold fusion is similar to that of biochemistry too.
+And these also are the trend of R&D of modern chemical
+engineering, materials and renewable energy.
+
+Another remarkable feature of cold fusion is on engineering and organizing. Hot fusion requires the involvement of
+many scientists and technicians from various backgrounds
+cooperating together for one purpose, as done in the
+Manhattan Project seven decades ago or the Apollo Project
+four decades ago. A hot fusion reactor is always a huge
+device with complicated design. Its operation depends on
+orders from the central control system. Its electrical supply,
+radiation protection and daily maintenance must be carefully arranged and strictly executed. It is no surprise that this
+sort of system has inherent fragility similar to that of a fission plant (e.g., the Chernobyl reactor in Ukraine) or a big
+dam (e.g., Three Gorges Dam in China). Geological and
+meteorological disasters, management defects and wars all
+may result in the sudden interruption or breakdown of the
+regional electricity supply, or even horrible disasters such as
+happened before. In a word, big plants make for big trouble.
+
+For cold fusion, all of these issues are no longer problems.
+Its small scale makes the operation, management and commercialization very easy by comparison. The cooperation in
+R&D of cold fusion depends only on the free will of
+researchers and manufacturers. Application of cold fusion
+will be similar to that of solar and wind energies, i.e. every
+family, community or office will be the consumer and manufacturer at the same time; and the electrical system will be
+the network structure, in which trouble in any unit does not
+affect the stability of the overall system. In light of this, it is
+reasonable to conclude that hot fusion is the technology of
+the industrial era and cold fusion will be the technology of
+the web era.
+
+The technical, administrative and commercial characteristics of these two types of fusion will determine the fate of
+their futures: hot fusion vs. cold fusion in the energy market
+will be similar to the story of the Iridium Satellite
+Constellation vs. the Global System for Mobile communications (GSM) in the wireless communication market, which
+happened about one decade ago.
+
+Because hot fusion falls away from the evolving direction
+of modern science, technology, society and economy, the
+author is sure that this Cold War’s sci-tech plot has no
+future. Its end is only a matter of time and price, i.e. human
+beings (specifically governments of some large countries)
+will not pay much more money on this dead technology.
+This technology will not be the first loser. Similar examples
+were the Analog High-Definition Television Project5 and the
+Robot Project6 in Japan. The phenomenological reasons for
+these two lessons were the mistakes of industrial decisionmaking; the deep reason was the limitation of sci-tech paradigm at that time.
+
+The terms low energy nuclear reaction (LENR) and condensed matter nuclear science (CMNS) are gradually being
+accepted to replace cold fusion in describing the related phenomena in a broader sense. As a scientific field, LENR differs
+from classical nuclear reactions in many ways, as listed in
+Table I and especially in Table II. First of all, beam interactions with target are the classic method to study nuclear
+physics and particle physics since Rutherford established the
+planetary model of the atom by electron backscattering. As
+the research in these fields evolve, beam energies become
+higher and higher, accelerators grow bigger and
+bigger, seemingly with no end in sight. A sidenote
+of this mode is the term high energy physics,
+which has the same meaning as particle physics. A
+sharp contrast hence occurs, i.e. only the maximum accelerator on earth can be used to study the
+physical processes in the minimum scale in the
+universe. The explanatory fact is that some accelerators and their accessories are bigger than the
+extent of small cities, and building a new accelerator is a tremendous undertaking both economically and politically. However, the discovery of
+LENR interrupted this big-small mode. It needs
+only a tabletop device rather than town-size buildings to achieve the high energy process. The truth
+that a mini-size device produces something much
+larger than expected is unprecedented. For example, pyroelectric fusion can achieve D-D fusion
+with a temperature difference of only 40°C,7 and
+laser wakefield can accelerate electrons to GeV
+(109 eV) on a scale of centimeters.8 LENR is the
+leading method in this new tide of discoveries,
+although many scientists, especially physicists, do
+not understand that now. This wave is not only
+revolutionary but also as progressive as that which
+happened in the information industry, e.g. electronic storage and publication will end the ever
+growing need for library buildings. LENR will start
+a new era: an amateur can carry out particle experiments in his/her garage; national laboratories or
+research universities will not be the kings in high
+energy physics. Physics will begin far away from
+politics, thus ending their close relationship
+which was formed in World War II. This process
+also resembles the development of computers: the
+personal computer has replaced the workstation
+and mainframe computer as the mainstream; individuals and families rather than enterprises and
+governments have become the main customers.
+
+Because nuclear reactions take place in scales
+below fm (10-15 m), while angstrom (10-10 m) and
+above are the scale of chemical reactions, nuclear
+reactions release/absorb energies from 1 to 102
+MeV, while the chemical energy is around 1 eV, the irrelevance of chemical environments is the essential feature of
+nuclear reaction. In contrast to classical nuclear reactions,
+LENR depends not only strongly on temperature and reactant concentrations etc., as in chemistry but also on sample
+pretreatments as in metallurgy as discussed above. It means
+that the multi-scale coupling (from 10-10 m to 10-15 m)
+occurs in LENR. This coherent feature is same as that in
+nano-science and biological engineering, and LENR is far
+ahead in this direction.
+
+Although nuclear reactions are quantum phenomenon,
+the key discipline of hot fusion is plasma physics, which is
+confined in classical mechanics (Newton-Maxwell paradigm). The simplicity, stability and certainty are both the
+basis and the purpose; complexity and instability should be
+avoided as far as possible. For example, at least 50 destructive instabilities occur in Magnetic Confinement Fusion
+(TOKAMAK)9; the Raleigh-Taylor instability is also fatal in
+Inertial Confinement Fusion (ICF). In contrast, non-equilibrium and instability are the necessary condition for LENR.
+The LENR mechanism is also related to the cooperative and
+complicated interactions in condensed matter, although
+exact processes are unknown today. These non-linear, nonequilibrium and complexity characteristics are the tendencies of modern science, e.g. chaos, dissipative structure, complex fluid (soft matter) and neuroscience, etc.
+
+Two politics-science decisions can be cited as evidence of
+the present viewpoint in some sense. One is the cancellation
+of the Superconducting Super Collider project (SSC, $11 billion USD cost, $2 billion USD spent) in 1993.10 Another is
+hot fusion. The largest thermonuclear reactor, International
+Thermonuclear Experimental Reactor (ITER), planned as
+early as in 1985, is now being constructed by China, Europe,
+India, Japan, Korea, Russia and the USA. It will cost 11 billion Euro. A meaningful decision is that the U.S. Congress
+passed a bill rejecting the payment of $149 million USD due
+for the project in December 2007.11 Although most reviewers consider these two decisions as only finance issues, the
+author considers them to be signals of failure of the old paradigm in modern society.
+
+One scholar once commented that the cancellation of SSC
+could be described as the extinction of a science dinosaur.
+Without doubt, the ITER is the technology dinosaur in the
+world now. The annihilation of dinosaurs on earth was
+unavoidable. Biological evolution was faster after that. For
+similar reasons, the dinosaurs of science and technology will
+encounter economic and political difficulties sooner or later,
+but human beings will not lose their ways to explore and utilize the nature. The problem with low energy nuclear reactions is whether human beings are willing to suppress their
+prejudices and learn what has been discovered during the
+past 20 years.
+
+
+References
+
+1. Arata, Y. and Zhang, Y.-C. 1999. “Observation of
+Anomalous Heat Release and Helium-4 Production from the
+Highly Deuterated Palladium Fine Particles,” Jpn. J. Appl.
+Phys., 38, L774.
+2. Zhang, W.-S. and Dash, J. 2007. “Excess Heat
+Reproducibility and Evidence of Anomalous Elements After
+Electrolysis in Pd|D2O+H2SO4 Electrolytic Cells,” Proc.
+ICCF13, Dagomys, Sochi, Russia, June 25-July 1, pp. 202-216.
+3. Iwamura, Y., Sakano, M., and Itoh, T. 2002. “Elemental
+Analysis of Pd Complexes: Effects of D2 Gas Permeation,”
+Jpn. J. Appl. Phys., 41, 1A, 4642.
+4. Miley, G.H. 1996. “Quantitative Observation of
+Transmutation Products Occurring in Thin-film Coated
+Microspheres During Electrolysis,” Proc. ICCF6, Hokkaido,
+Japan, October 13-16, p. 629.
+5. http://en.wikipedia.org/wiki/Analog_high-definition_
+television_system
+6. http://search.japantimes.co.jp/member/member.html?nn
+20030820b8.htm
+7. Naranjo, B., Gimzewski, J.K., and Putterman, S. 2005.
+“Observation of Nuclear Fusion Driven by a Pyroelectric
+Crystal,” Nature, 434, 1115.
+8. Leemans, W.P., Nagler, B., Gonsalves, A.J., Toth, C.,
+Nakamura, K., Geddes, C.G.R., Esarey, E., Schroeder, C.B.,
+and Hooker, S.M. 2006. “GeV Electron Beams from a
+Centimetre-scale Accelerator,” Nature Physics, 2, 696.
+9. http://en.wikilib.com/wiki/Instability#Plasma_instabilities
+10. http://en.wikipedia.org/wiki/Superconducting_Super_
+Collider
+11. http://physicsworld.com/cws/article/news/32312

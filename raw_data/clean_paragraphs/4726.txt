@@ -1,0 +1,342 @@
+1. Introduction
+
+Condensed Matter Nuclear Science (CMNS) is a multi-disciplinary academic field which combines nuclear physics
+and condensed matter physics and targets clean and sustainable nuclear fusion energy. CMNS consists of multiple
+subjects, including LENRs. The word “low” in LENRs refers to the input energies to the reactions, the output energies
+may be low or high, depending on the different reactions designed.
+
+CR-39 plastic nuclear track detectors are the most useful track detectors in research. An important physical quantity
+in CR-39 work is the linear energy transfer (LET) lost by a charged ionizing particle traveling through matter, with
+units of keV/µm CR-39 or water. CR-39 detectors are sensitive to high LET particles (≥ 5 keV/µm water) and can
+measure charged particles directly and neutrons through secondary charged particles. The LET spectrum method
+using CR-39 detectors is the best one for high-LET particles research. CR-39 detectors have been used for research on
+CMNSs, including LENRs
+
+Experiments of LENRs indicated that a great variety of charged particles and neutral particles can be generated
+in LENRs at room temperature. For Pd + D experiments using CR-39 detectors, in addition to the primary charged
+particles – protons, tritons, 3He and α particles, secondary charged particles with high LET can be produced by
+neutrons and high energy protons in the CR-39 detectors and can make an important contribution for the detected
+charged particles. All the primary protons and α particles with high LET and secondary high LET particles can be
+measured with CR-39 detectors. Another advantage to use CR-39 detectors is that the primary charged particles and
+neutrons can be fully separated by changing the thickness of absorbing film attached to the surfaces of CR-39.
+
+The energetic particles from LENRs were observed with CR-39 detectors for the gas-loading Pd + D system used
+by the Tsinghua University and co-deposition Pd + D system used by the SPAWAR group. The gas-loading approach
+can avoid the high temperature problem at the boiling point existed for the deposition approach.
+
+The successful Pd + D experiments conducted by the Tsinghua University group [1–7] and US SPAWAR group
+[8–13] using CR-39 detectors have accumulated abundant experimental data and if a better method of data analysis is
+applied the brand new results will be obtained.
+
+However, due to the limitation of previous methods for data analysis, the physical results for the Pd + D reactions
+before are mainly photos of nuclear tracks in CR-39 detector, track cone comparisons and statistics of track parameters,
+all these results cannot provide us with important physical quantities – energy loss, energy and charge for the LENR
+particles. Therefore, in order to obtain quantitative results for LENR experiments, LET spectrum method using CR-39
+detectors should be introduced and data re-analysis should be conducted. LET spectrum method using CR-39 has
+been widely used for research on radiation at aviation altitudes and in space [14–16]. Radiation at aviation altitudes
+dominated by atmospheric neutrons (∼ 0.1 − 20 MeV) was successfully measured with LET method. This is a
+convincing reason to employ the LET method in LENR research. For our LET work, the original data of LENR
+particles were scanned and provided by the previous US Navy SPAWAR group, data analysis was conducted by Zhou
+at NASA-JSC using LET spectrum method [16]. Research on the properties and physical quantities of LENR particles
+is an important task in LENR research. The re-analysis work using LET spectrum method for the SPAWAR data was
+conducted successfully and some brand new results were obtained, including LET value.
+
+
+2. Concepts on CR-39 Track Detectors
+
+2.1. CR-39 nuclear track detectors:
+With chemical components C12H18O7
+′CR-39 detectors are sensitive to particles with high LET (≥5 keV/µm water).
+High LET particles are charged particles (primary and secondary). In LENR experiments, primary particles are produced by LENRs. Secondary charged particles are short range recoils and fragments produced in nuclear reactions.
+Therefore, CR-39 detectors can measure high-LET charged particles directly and neutrons through secondary charged
+particles. To decrease background radiation and to protect the surface of CR-39, a thin polyethylene film (hereafter
+referred as PE film) of ∼ 60 µm is covered on the surface of CR-39.
+
+2.2. Physical principle of CR-39 detectors:
+When charged particles pass through CR-39 detector, they break molecular bonds of CR-39 polymer to form high
+chemical reactive paths along their trajectories. The particle trajectories can be revealed as etched cones in CR-39
+detectors by chemical etching of CR-39 plates. Nuclear tracks form ellipse openings on CR-39 surfaces.
+
+LET spectrum and other physical quantities can be determined with LET method using CR-39 detectors, based on
+LET calibration for the CR-39 detectors. The LET threshold of CR-39 detectors is about 5 keV/µm water, enabling
+protons of energy up to ∼ 10 MeV and, high charge and high energy particles (HZEs) to be detected directly. Secondary
+charged particles produced by high energy protons and neutrons with high LET are also detectable.
+
+2.3. Restricted energy loss (REL):
+The restricted energy loss is the portion of the total energy loss that produces delta rays of energy less than specified
+value, E0 and only this part of energy loss is relevant to the nuclear track formation. The Benton model of restricted
+energy loss in CR-39 detector [17] takes into account the secondary ionizations produced by low energy delta rays and
+is given by (
+dEdx)E<E0=C1Z2effβ2[ln ( wmaxE0I2)− β2 − δ − U],
+where C1, I and δ are the detector constants, Zeff the effective charge of incident particle, wmax= 2mc2β
+2γ2, m the electron mass, β = v/c, ve particle velocity, U low velocity correction and E0 is usually taken as 200 eV for CR-39.
+
+Quantity (dE/dx)E<E0
+is also called Linear Energy Transfer (LET). Studies have shown, a critical LET exists below that etchable tracks are not formed. LET spectrum method will adopt the REL model to generate LET calibration.
+The restricted energy loss is often written as LET∆ and the unrestricted energy loss as LET∞.
+
+2.4. Bulk etch and etch rate ratio: Define bulk etch B as the thickness etched off on one surface of the CR-39 detector. Bulk etch can be calculated with
+the Henke formula [18].
+
+Define the track etch rate as VT = L0/t, where L0 is the length from pre-etch surface to the cone tip measured
+along the particle’s trajectory, t is the etch time. Similarly, bulk etch rate is defined as VB = B/t and the etch rate ratio
+is S = VT /VB. The etch rate ratio can be calculated with the Somogyi formula [19]:
+S =√1 + 4 ( D2B)2/[1 −(d2B)2]2,
+where D and d are the ellipse major and minor axes of the track cone opening on the CR-39 surface.
+
+
+3. LET Method Using CR-39 Detectors
+
+The LET spectrum method using CR-39 detectors have been used for research on radiation at aviation altitudes and in
+space [14–16, 20–24]. The LET spectrum method using CR-39 detectors is as below: experimental design for particles
+exposures and measurements; exposures of CR-39 detectors to radiation particles to be detected; detectors recovery;
+chemical etch for CR-39 detectors; measurements and calculations for bulk etch and etch rate ratio; events recognition,
+data scan and acquisition with optical microscope; data analysis and calculation to obtain differential and integral LET
+spectra (fluence, etc.) and other important physical quantities.
+
+3.1. Experimental designs: Detector configuration should satisfy the experimental requirements. The issue of the PE film on CR-39 surface should
+be considered carefully, the film can be removed before experiment or remained. If the film was removed, the LENR
+particles will incident on the CR-39 surface directly, therefore, the incident energy equals to the observed. If the film is
+remained, the LENR particles must pass through the film before hitting CR-39 surface, therefore, the energy incident
+on the film is the energy observed with CR-39 plus the energy absorbed by the film. In order to measure as many
+LENR particles as possible the film should be removed. PE films can also be used for separating charged particles and
+neutrons.
+
+3.2. Chemical etch of CR-39 detectors:
+After exposures to LENR energetic particles, CR-39 detectors were chemically etched with NaOH solution, the temperature, solution concentration and the etching time can be adjusted so as to obtain better etching effects.
+
+3.3. Data scan and acquisition:
+Data scan can be conducted with optical microscope, events were identified and the major and minor axes of track
+cone opening on the CR-39 surface were measured and collected. The collected events from CR-39 detectors exposed
+in LENR experiments include LENR particles and background radon α particles. Comparing to LENR particles,
+background is very low and can be ignored.
+
+3.4. Data analysis and LET spectra generating:
+For each scanned event the LET value was calculated using LET calibration for CR-39, LET value was binned, then
+differential spectrum of fluence was generated. The differential fluence for LENR particles recorded with CR-39
+detectors can be simplified and expressed as
+F = dN(i)/[A × d LET(i)],
+where F is in 1/(cm2
+.keV/µm CR-39), A is the scanned area of CR-39 detector, dN(i) is the number of particles in the
+ith LET bin LET(i) with a bin width of dLET(i). The net differential fluence is obtained by subtracting the background
+from the total differential fluence.
+
+3.5. Charge and energy distributions:
+The LET values for protons, α particles and particles with higher charges are different, therefore particle’s charge can
+be classified by LET. After the determination of LET and charge, the particle’s energy can be calculated. Then, the
+LET spectrum, charge distribution and energy distribution can be obtained.
+
+3.6. LET Calibration for CR-39 detectors:
+LET calibration – the relationship between LET200 CR-39 and etch rate ratio S, is a key part in LET spectrum method
+and can be obtained by exposing CR-39 detectors to accelerator-generated protons and heavy ions and the LET calibration of CR-39 detectors obtained by NASA-JSC (Johnson Space Center) researchers [21] can be used.
+
+
+4. Low Energy Nuclear Reactions
+
+Different LENRs were observed since 1990s [1–13]. The approach used by the Tsinghua University group and US
+Navy SPAWAR group is the Pd + D system.
+Electrochemical reactions occurring at the cathode:
+Pd2+ + 2 e− → Pd0,
+D2O + e− → D0 + OD−.
+
+The result is, metallic Pd is deposited in the presence of evolving D2. A variety of different particles can be
+produced in the Pd + D experiments. The primary reactions that occur in DD fusion are:
+D + D → T (1.01 MeV) + p (3.02 MeV),
+D + D → n (2.45 MeV) + 3He (0.82 MeV).
+
+The secondary reactions in plasma fusion are:
+D + T (≤1.01 MeV) → α (6.7–1.4 MeV) + n (11.9–17.2 MeV),
+D + 3He (≤ 0.82 MeV) → α (6.6–1.7 MeV) + p (12.6–17.5 MeV).
+
+In addition to the primary high-LET charged particles, secondary high-LET charged particles (short range recoils
+and target fragments – heavy charged particles) may be generated through nuclear interactions of protons with higher
+energies (>∼10 MeV) and neutrons in the CR-39 detectors. All the primary and secondary charged particles with high
+LET can be detected with CR-39 detectors. After the experiment, the PE film was removed and the CR-39 detectors
+were chemically etched. The etched CR-39 detector was scanned using an automated scanning track analysis system.
+
+
+5. Results of Pd + D Experiments
+
+5.1. Photos of nuclear tracks in CR-39 detectors:
+Figure 1 shows photos of nuclear track cones on CR-39 surfaces produced by particles from Pd + D experiments.
+
+Figure 1. Photos of nuclear tracks in CR-39 produced by LENRs. (a) (left) All particles (Tsinghua University) [1–7]. (b) (right) Triple alphas
+(SPAWAR) [8–13].
+
+5.2. LET Spectra of energetic charged particles:
+The original data of nuclear tracks in CR-39 were scanned from CR-39 detectors employed for 10-5-07 and 10-6-07
+experiments, the scanned surfaces are denoted as “bottom” – facing the cathode or near the cathode and “top” - far
+from the cathode, the scanned area is 2.7×10−3cm2 and the LET bin width is 0.25 keV/µm CR-39.
+
+Figure 2a,b shows LET spectra of differential fluence for detected charged particles. The conjunction point of LET
+around the maximum LET for protons and the minimum LET for alphas was determined as 31 keV/µm CR-39 using
+the minimum range of protons – the bulk etch of 8–9 µm and the maximum energy 17.2 MeV of alphas (the maximum
+energy of neutrons). Therefore, in the figures particles with LET ≤ 31 keV/µm CR-39 are protons and particles with
+LET ≥31 keV/µm CR-39 are α particles. Figure 2 indicates that LET values of protons and α particles measured is
+from ∼ 3 to ∼ 150 keV/µm CR-39; LET spectrum for protons has several peaks and the major peak is at ∼ 3.25–3.50
+keV/µm CR-39.
+
+Number of charged particles observed with CR-39 detectors for the Pd + D experiments are collected in Table 1.
+Data indicate that: (a) for the bottom surface of CR-39 detectors, the average ratio of events number is ∼ 96.3% (Z= 1,2) and ∼ 3.7% (Z ≥ 3); (b) for the top surface of CR-39 detectors, the average ratio of events number is ∼
+86.4% (Z = 1,2) and ∼ 13.6% (Z ≥ 3).
+
+Figure 2. (a) LET spectra of differential fluence (bottom surfaces of CR-39 detectors). (b) LET spectra of differential fluence (top surfaces of
+CR-39 detectors).
+
+The differential LET spectra of fluence presented in Fig. 2, the data on events number and particle’s charge
+collected in Table 1 indicate that LENR experiments of the Pd + D co-deposition system were repeated excellently.
+
+Figure 3. (a) Energy distribution of particles (bottom surfaces of CR-39, total energy). (b) Energy distribution of particles (top surfaces of CR-39,
+observed energy).
+
+5.3. Energy distributions of energetic particles: As showed by above results, LENR particles measured with CR-39 are mainly protons and α particles, therefore,
+particle’s energy can be calculated through LET.
+
+Figure 3a,b shows the energy distributions of particles produced by Pd + D experiments and measured with CR-39.
+In the figures energy is total for the bottom CR-39 surfaces and observed for the top CR-39 surfaces.
+
+There was a PE film with a thickness of ∼60 µm between the cathode of the Pd + D system and the surface of
+CR-39 detector, when protons and α particles produced in LENRs pass through the film, the energy loss ∼2 MeV/n,
+i.e., the minimum energy needed to pass through the film is ∼2 MeV for protons and ∼8 MeV for α particles. This
+fact indicates that α particles observed in CR-39 detectors are secondary particles produced by high energy primary
+protons and neutrons. Therefore, in Fig. 3(a) for the bottom surfaces, the energy for protons is total (the minimum
+energy of 2 MeV + energy observed) and the energy for α particles is observed.
+
+For top surfaces of CR-39, energy absorption by CR-39 must be considered. The CR-39 thickness is ∼1000
+µm, and the minimum energy needed to pass through CR-39 is ∼10 MeV for protons and 40 MeV for α particles.
+If particles observed at the top surfaces of CR-39 are primary charged particles, the total energy (minimum energy
+absorbed by PE film + minimum energy absorbed by CR-39 + observed energy) for both protons and α particles will
+be too high and contradict with the theoretical predictions. Therefore, majority particles observed at top surfaces of
+CR-39 detectors must be secondaries and energy for both protons and α particles in Fig. 3(b) are values observed.
+
+There are some peaks for proton number in Fig. 3, the major peak is at ∼11.5–12 MeV for the bottom CR-39
+surfaces and ∼9.75 MeV for the top CR-39 surfaces, consistent with the theoretical predictions for the LENRs of Pd +
+D system. The distribution of α particles is nearly uniform because they are mainly secondary particles. The energies
+carried by the energetic LENR particles can be calculated precisely based on the energy distributions. For the 10-5-07
+and 10-6-07 experiments, the calculated energies for the measured protons and α particles are collected in Table 2.
+The total energies of protons and α particles observed in an area of 2.7 × 10−3cm2 are 3.2 × 105, 4.3 × 105, 5.0 × 103 and 5.4 × 103 MeV for 10-5-07 (bottom1), 10-6-07 (bottom), 10-5-07 (top) and 10-6-07 (top), respectively.
+
+Because those particles scanned and analyzed are only part of the total particles generated in LENRs, the actual
+total energy carried by all LENR particles with high LET should be much higher than that calculated from the scanned
+events. Now considering the factor that part of the detected charged particles are produced through the interactions
+between neutrons and CR-39 material, and that detection efficiency of CR-39 detectors for neutrons with energies from
+∼ 1 to 20 MeV is ∼10−4 to 10−3 , the actual number of particles entered the CR-39 detector is then much higher than
+the number showed in Fig. 3.
+
+If protons and neutrons can be separated completely, the total energy carried by charged particles and neutrons can
+be calculated separately and accurately. Results presented in this section on the LET spectra, the energy distributions
+and the energies carried by the LENR particles are strong evidence for the generation of energetic particles and energy
+in LENRs.
+
+
+6. Events of Triple Alpha Particles
+
+Triple tracks originated from the same incident particle were observed with CR-39 detectors for the particles produced
+in the Pd + D co-deposition experiments. Triple α particles can be produced through the nuclear interaction between
+high energy neutrons and carbon nuclei of CR-39 material. For the triple track events reported [9,11], the LET and
+energy calculated with LET method are presented and discussed briefly as below.
+
+(1) LET of triple particles are from ∼115 to ∼135 keV/µm CR-39, too high to be generated by protons with range
+larger than bulk etch value of ∼9 µm and the only reasonable explanation is that triple tracks are α particles.
+
+(2) The total energy of the three α particles are ∼7.5 MeV, considering the threshold energy of 9.6 MeV for nuclear
+reaction 12C(n,n’)3α [25], the total energy of the parent neutron incident on the CR-39 detector is ∼17.1 MeV,
+consistent very well with the theoretical predictions made for LENRs of Pd + D system. The results obtained
+using LET method indicate that high energy neutrons are produced in the Pd + D system and these neutrons
+can shatter carbon nuclei in CR-39 to form triple α particles.
+
+(3) Because the energy required for generating triple α particles is near the highest energy for neutrons generated
+by Pd + D system and that probability to produce triple alphas is low, therefore triple track events are very few.
+
+(4) Triple α particles can also be generated from nuclear reaction 12C(p,p’)3α with a threshold energy of ∼12.7
+MeV [26], in which 3.1 MeV is the Coulomb potential energy. Therefore, for the same triple tracks observed,
+if generated by protons, the total proton energy is (7.5 + 12.7) = 20.2 MeV, higher than the maximum value
+17.5 MeV for protons in Pd + D system. This is why triple α particles are generated by high energy neutrons
+with energies of ∼17.1 MeV, not by protons ≤ 17.5 MeV.
+
+The analysis for triple α tracks observed with CR-39 detectors convinced us that high energy neutrons are produced
+in Pd + D experiments. This is definitely another very strong evidence for the generation of LENRs.
+
+
+7. Conclusions and Discussions
+
+(1) LET spectra and energy distributions for particles produced by LENRs of Pd + D co-deposition system were
+obtained with the LET method using CR-39 detectors.
+
+(2) All the results (LET and spectra, energy and distributions, high energy protons and neutrons and triple alphas
+are agree well with those predicted theoretically and then are very strong evidences for the energy generating
+from D + D and Pd + D nuclear reactions.
+
+(3) The LET method using CR-39 detectors and the results measured for LENRs are reliable and can used for the
+quantitative data analysis on energetic LENR particles.
+
+As mentioned earlier, radiation at aviation altitudes is dominated by atmospheric neutrons, as showed in Fig. 4
+[27,28]. In the figure, radiation is calculated with LUIN (solar minimum, high latitude). To satisfy measurements for
+radiation field dominated by neutrons, CR-39 and other detectors were selected and the radiation field was successfully
+measured using LET and other methods by the international co-operation team supported by the European Commission
+for a completed solar cycle [14–16,28–31]. Results measured with CR-39 are consistent well with those measured by
+other methods and simulated theoretically using FLUKA [14], LUIN and CARI [32]. CR-39 results were also intercompared every year with results from other detectors for the CERN-CERF neutron reference field which is dedicatedly
+designed to simulate radiation field at aviation altitudes. These investigations prove that CR-39 detectors are the best
+passive detectors sensitive to neutrons, protons and heavy ions and can be used for research on the energetic particles
+from LENRs.
+
+
+References
+
+[1] X.Z. Li, S.Y. Dong, K.L. Wang et al., AIP Conf. Proc. 228,Anomalous Nuclear Effects in Peuterium/Solid Systems, Provo,
+UT, US, Jones, SE (Ed.), 1990, pp. 419–429.
+[2] X.Z. Li, D.W. Mo, L. Zhang et al., Anomalous nuclearphenomena and solid state nuclear track detector, Nucl. Tracks Radiat.
+Meas. 22 (1993) 599–604.
+[3] G.S. Qiao, X.L. Han and L.C. Kong, Nuclear Products in a Gas-Loading D/Pd and H/Pd System, Proc. 7th Int. Conf. on Cold
+Fusion, Eneco Ed., Vanco., Canada, 1998, pp. 314—318.
+[4] A.G. Lipson, A.S. Roussetski, G.H. Miley et al., Proc. of the9th Int. Conf. on Cold Fusion, X.Z. Li (Ed,) Tsinghua Univ.
+Press, Beijing, China, 2002, pp. 218–223.
+[5] A.G. Lipson, A.S. Roussetski, G.H. Miley et al., 10th Int. Conf. Cold Fusion, Condensed Matter Nuclear Science, MA, USA,
+2003, http://www.LENR-CANR.org
+[6] S.Y. Dong, K.L. Wang, Y.Y. Feng et al., Precursors to cold fusion phenomenon and the detection of energetic charged particles
+in deuterium/solid systems, Fusion Technol. 20 (1991) 330—333.
+[7] Z.M. Dong., C.L. Liang, B. Liu et al., J. Cond. Matter Nucl. Sci. 5 (2010) 1–13.
+[8] P.A. Mosier-Boss, S. Szpak, F.E. Gordon et al., Use of CR-39 in Pd/D co-deposition experiments, Eur. J. Appl. Phys. 40
+(2007) 293–303.
+[9] P.A. Mosier-Boss, S. Szpak, F.E. Gordon et al., Triple tracks in CR-39 as the result of Pd/D co-deposition: evidence of
+energetic neutrons, Naturwissenschaften 96 (2009a) 135–142.
+[10] P.A. Mosier-Boss, S. Szpak, F.E. Gordon et al., Characterization if Tracks in CR-39 Detectors Obtained as a Result of Pd/D
+Co-deposition, Eur. Phys. J. Appl. Phys., 46, pp. 30901-30912, 2009b.
+[11] P.A. Mosier-Boss, J.Y. Dea, L.P.G. Forsley et al., Comparison of Pd/D co-deposition and DT neutron generated triple tracks
+observed in CR-39 detectors, Eur. Phys. J. Appl. Phys. 51 (2010) 20901–20911.
+[12] P.A. Mosier-Boss, It’s not low energy – but it is nuclear, 17th ICCF, South Korea, Aug. 2012.
+[13] L.P. Forsley, P.A. Mosier-Boss et al., Charged particle detection in the Pd/D system: CR-39 SSNTD vs. real-time measurement
+of charged particle stimulated Pd K shell X-rays, Electronchimeca Acta 88 (2013) 373–383.
+[14] D. O’Sullivan, D. Zhou et al., Cosmic rays and dosimetry at aviation altitudes, Radiat. Meas. 31 (1999) 579–584.
+[15] D. O’Sullivan, D. Zhou et al., Dose equivalent, absorbed dose and charge spectrum investigation in low Earth orbit, Adv.
+Space Res. 34 (2004) 1420–1423.
+[16] D. Zhou, Invited book CR-39 Plastic Nuclear Track Detectors in Physics Research, Nova Science, New York, 2012.
+[17] E.V. Benton, On latent track formation in organic nuclear charged particle track detectors, Radiat. Effects 2 (1970) 273–280.
+[18] R.P. Henke and E.V. Benton, On geometry of tracks in dielectric nuclear track detectors, Nucl. Instr. Meth. 97 (1971) 483–489.
+[19] G. Somogyi, Processing of plastic track detectors, Nucl. Track Detect. 1 (1977) 3–18.
+[20] D. Zhou, D. O’Sullivan, E. Semones et al., Radiation field of cosmic rays measured in low Earth orbit by CR-39 detectors,
+Adv. Space Res. 37 (2006) 1764–1769.
+[21] D. Zhou, E. Semones, M. Weyland et al., LET calibration for CR-39 detectors in different oxygen environments, Radit. Meas.
+42 (2007) 1499–1506.
+[22] D. Zhou, D. O’Sullivan, E. Semones et al., Radiation dosimetry for high LET particles in low earth orbit, Acta Astron. 63
+(2008) 855–864.
+[23] D. Zhou, E. Semones, D. O’Sullivan et al., Radiation measured for Matroshka-1 experiment with passive dosimeters, Acta
+Astron. 66 (2010) 301–308.
+[24] D. Zhou, D. O’Sullivan, E. Semones et al., Radiation of cosmic rays measured on the international space station, 32nd ICRC
+(Beijing, China, Aug. 2011), Proc.: #1248.
+[25] S.A.R. Al-Najjar, A. Abedel-Naby and S.A. Durrani, Fast neutron spectrometry using the triple-reaction in the CR-39 detector,
+Nucl. Tracks 12 (1986) 611–615.
+[26] A.M. MacLeod and G.R. Milne, Proton nuclear reaction cross sections in carbon and the 12C(p,p’3α) reaction mechanism at
+13 MeV, Phys. A: Gen. Phys. 5 (1972) 1252–1261.
+[27] K. O’Brien, The exposure of aircraft crews to radiation of extraterestrial origin, Radiat. Prot. Dosim. 45 (1992) 145–162.
+[28] K. O’Brien, LUIN 97, Personal Communication, 1997.
+[29] G. Reitz, Radiation environment in the stratosphere, Radiat. Prot. Dosim. 48 (1993) 5–20.
+[30] D. O’Sullivan, D. Zhou, Overview and present status of European commission research programme, Radiat. Prot. Dosim. 86
+(1999) 279–284.
+[31] D. Zhou, Radiation of cosmic rays at aviation altitudes and dosimetry, Ph.D. Thesis, Dept. of Experimental Physics, University
+College, Dublin, National University of Ireland.
+[32] K. O’Brien, CARI, 2013: http://jag.cami.jccbi.gov/cariprofile.asp
+
+
+
+

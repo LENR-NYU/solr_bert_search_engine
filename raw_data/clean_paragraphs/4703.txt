@@ -1,0 +1,238 @@
+1 Introduction
+
+After the successful public demonstrations of excess heat in Pd|D2O+H2SO4
+electrolytic cells at Boston (ICCF10) in 2003 [1,2], we confirmed this anomalous effect
+using a more accurate calorimeter: a Seebeck Envelope Calorimeter (SEC). The SEC is a
+cube; the electrolysis cell is placed inside it. The SEC converts the heat flux through the
+six walls of the cube into a voltage signal using many thermocouples distributed
+uniformly in the walls. Many problems of isoperibolic calorimetry and mass flow
+calorimetry can be avoided by this method [3,4].
+
+In this report we present the calorimetric results for the Pd|D2O+H2SO4 electrolytic
+cell, results with Ti added to the D2O+H2SO4 electrolyte, and the results of analysis of the
+Pd cathodes.
+
+
+2 Experimental set-up
+
+Closed cells are similar to that used before [1,2] except that the height is less in order
+to fit into the SEC as shown in Fig. 1(a) and described below. The electrolytic cell is a
+Pyrex cylinder (capacity is about 280 ml, in = 50.7 mm and out = 57.0 mm, wall
+thickness = 3.2 mm, h = 142 mm). A PTFE female top cap is 65 mm × 20 mm outside
+dimensions and 57 mm × 16 mm of inside. It has two holes, 0.5 mm diameter each, for
+the electrode lead wires. A PTFE plate (50 mm × 8 mm) is used to suspend the
+recombination catalyst above the electrode. It has many holes of 0.8 mm, and also has
+two holes, 1 mm diameter each, for the electrode lead wires. A PTFE rod is fastened to
+the perforated plate and the top cap ensures that the perforated plate is at a fixed distance
+above the electrolyte. A gasket (in = 35 mm, out = 57 mm, wall thickness = 2.5 mm)
+made of ethylene propylene (resistant to sulfuric acid) is used to seal the top cap against
+the top edge of Pyrex cylinder.
+
+The Pd cathode is cut from a 99.9% palladium foil with 0.5 × 10 × 10 mm3 (Alfa
+Aesar, Stock #11514). It is then cold rolled to the desired thickness. The platinum anode
+is a foil 37.5 × 23.8 × 0.12 mm3. Pt leads are made of wire (1 mm × 150 mm) covered
+with heat-shrink Teflon tube.
+
+The electrolyte is heavy water (99.9 at.%, Aldrich catalog #347167) mixed with
+96.4% H2SO4 (J.T. Baker, Lot # K10030) by the volume ratio of 6.7:1.
+
+Two types of catalyst were used in these experiments, one contains 0.5% Pd on
+coconut charcoal (United Catalysis); another contains 0.5% Pt on 1/8 inch diameter
+alumina pellets (Alfa Aesar). Before each experiment, the catalyst was thoroughly dried in
+an oven at 88C in order to drive out the liquid adsorbed during previous electrolysis.
+
+A schematic of the calorimetry system is shown in Fig. 1(b). The SEC (Thermonetics
+Corp.) has inner dimensions of 18.3 18.3 18 cm3 (W D H). A fan (Panaflo®,
+Model FBA08A12H1A, 80 80 25.5 mm3, DC12 V, 173 mA, 2.08 W) is used to
+eliminate temperature gradients in the SEC [3]. The temperature of the SEC wall (TSEC
+wall) is controlled by a constant temperature bath (NESLAB, RTE-111); the temperature
+stability is 0.1C. The SEC is covered with Styrofoam to avoid the influences of room
+temperature fluctuations on calorimetry.
+
+An HP 6267B DC power supply (0 to 40 V, 0 to 10 A) is used for galvanostatic
+electrolysis. The electrolysis current is measured with a shunt resistor, which is a standard
+resistor of 0.1 with 0.04% precision (Leed & Northrup 4360). The electrolytic cell is
+placed in the center of the SEC. Eight K-type thermocouples are used to monitor
+temperatures: one is for ambient temperature outside the SEC; one is for air temperature
+in the SEC; two are attached on the outside of the cell wall at the middle height of
+electrolyte; four are attached on the wall at the middle height of catalyst. All data are
+monitored by a Keithley 2000-20+scan digital multimeter. The data are automatically
+logged every minute using TestPoint 3.3 software.
+
+The mass of the cell was measured before and after electrolysis using a My Weigh
+i500 balance (max. 500 g, d = 0.1 g). After Jan 1, 2005 this was replaced with an Ohaus
+D54 balance (max. 2000 g, d = 0.01 g). The Pd sample is weighed with a Mettler H70
+(max. 160 g, d = 0.01 mg).
+
+Calibration experiments are conducted using a Pt|H2O+H2SO4 electrolysis cell, a pure
+resistor, or a dummy cell with a resistor in it. Calibrations are carried out before and after
+every electrolysis experiments.
+
+Surface topography and element analysis of the palladium cathode surface is
+performed using an ISI-SS40 scanning electron microscope (SEM) with an attached
+Oxford model 5565 energy dispersive spectrometer (EDS).
+
+
+3 Results
+
+3.1. Calorimetric results: Firstly, we present calibration results. A resistor provided by the SEC manufacturer
+was placed at the center of the SEC. TSEC wall was the same as that used for the
+experimental Pd|D2O electrochemical cell calorimetry. After the calorimeter reached
+steady state with the fan turned on, the background signal was stable. Then, power was
+applied to the resistor. After the output signal reached steady state, the power was turned
+off. The output signal was monitored during the cool down. The device constant is the
+quotient of average stable input power to the average net output signal at steady state. The
+net output signal is the gross output signal minus the signal produced by the power
+supplied to the fan. For input power of 11 W, the fan power decreases by 23 ± 3 mW (1.4
+%) during calibration or calorimetry. The decrease in fan power during calibration is the
+same magnitude as the decrease during calorimetry, so there should be no net effect on
+the calculated excess power. One calibration requires about 12 hours.
+
+Figure 2(a) shows the results of one of the calibration experiments. It gave the device
+constant of 182.34 0.20 W/V. The time constant is 15 minutes here. Due to the large
+inner volume (6 liter), the time constant of the SEC is mostly determined by the heat
+capacity and conductivity of the sample under test, rather than the SEC itself.
+
+Figure 2. (a) An example of calibration (Exp. No. 051005); (b) calibrations at different input power, where 2
+is the sum of squared residuals; R2 is the coefficient of determination (Exp. No. 041228).
+
+Calibrations were performed at input power ranging from about 1 to 20 W. In this
+range, the device constant changes only slightly, as shown by the equations in Fig. 2(b).
+This means that the SEC behaves as an ideal calorimeter. The slight non-linear term of the
+device constant with increasing power is caused by the nonlinear increase in
+electromotive force produced by the SEC thermocouples. However the device constant
+varies. For example, there were 11 calibration runs during December 2005. The device
+constant ranged from 180.6 to 181.8 W/V, a variation of less than 1%. The before-andafter
+calibrations for an experiment typically give device constants which differ by less
+than 0.5%. The actual device constant used for calculating the excess power and energy is
+the average value of those obtained before and after the electrolysis with the same power
+input as that used in electrolysis.
+
+Besides the resistor, a Pt|H2O+H2SO4 electrolytic cell or a dummy cell with a resistor
+in it was also used to calibrate the SEC. Both of these cells have the same dimensions as
+that used for Pd|D2O+H2SO4 electrolysis; this arrangement could exclude the errors
+induced by the difference between temperature distributions of working cell and
+calibration resistor. The results showed that those three different calibrations gave the
+same device constant within experimental error.
+
+Seven Pd samples have been tested in experiments; four of them gave reproducible
+excess heat. The calorimetric results for the best sample, Pd-A, are presented here in
+detail. The sample Pd-A (9.0 × 37.2 × 0.35 mm3, total area of 7.08 cm2, weight 1.3418 g)
+was cold rolled from 0.5 mm to 0.35 mm thickness. One example of excess heat
+production and related parameters are shown in Fig. 3.
+
+Fig. 3(a) shows that the power input decreases rapidly in the first two hours because
+the input power heats the cell, as shown in Fig. 3(b); therefore the electrolyte conductivity
+increases and overvoltages on the two electrodes decrease with time. These factors make
+the cell voltage decrease correspondingly.
+
+Another phenomenon is that the catalyst temperature (indirectly measured on the
+outer wall of the cell) has some fluctuation possibly because of the coarse grains of
+charcoal (about 2 3 6 mm3) and the inhomogeneous properties of the solid/gas
+reaction. Fine particles of catalyst produced by pulverizing the large grains can improve
+the stability and uniformity of temperature. However this method does not improve the
+catalysis and it makes the catalyst more difficult to handle.
+
+Figure 3. An example of electrochemical calorimetry on the Pd|D2O+H2SO4 cell for sample Pd-A (Exp. No.
+050110), (a) power signals and (b) temperatures. Parameters: total current is 3.65 A, average current density is
+0.52 A cm2, total input heat is 474.40 kJ, excess heat is 19.46 kJ, average input power is 11.980 W, average
+excess power is 0.492 ± 0.015 W (without including mass loss) to 0.753 ± 0.053 W (including mass loss of 0.7
+g).
+
+Figure 4. Other examples of excess heat produced in the Pd|D2O+H2SO4 cell for sample Pd-A. (a) The
+maximum excess power in Exp. No. 041125. Parameters: average current density is 0.42 A cm2, total input
+heat is 592.24 kJ, excess heat is 44.05 kJ, average input power is 13.143 W, average excess power is 0.978 ±
+0.032 W (without including mass loss) to 1.273 ± 0.065 W (including mass loss of 0.9 g). (b) An example of
+heat bursts during excess power production in Exp. No. 041122.
+
+Part of the water produced by the recombination of oxygen and deuterium gases is
+adsorbed by the catalyst. The fraction of the water adsorbed depends on electrolysis
+current and time, and the temperature and activity of the catalyst. It is from 40% to 80%
+in our experiments.
+
+Heat bursts have been observed from sample Pd-A, in addition to the stable excess
+heat, in three different experiments. One example is shown in Fig. 4(b).
+
+The excess heat was measured at different SEC wall temperatures; one set of results
+is shown in Table 1 and Fig. 5. We have conducted calorimetry with TSEC wall at 40C,
+which causes the electrolyte temperatures to approach boiling. Therefore the mass loss is
+great due to the evaporation increase at higher temperature, and the excess power
+calculation is not accurate. Therefore, the highest temperature listed here is 35C.
+
+Figure 5. Dependence of excess power on temperature of SEC wall for Sample Pd-A, the current is 3 A (the
+corresponding current density is 0.42 A cm2); the input power is 11 to 13 W.
+
+Beside the dependence of excess power on temperature, the excess power is
+proportional to the current density up to at least 0.5 A cm2 as illustrated in Table 2 and
+Fig. 6. Our set-up now cannot identify the excess power at higher current more than 4 A
+because the catalyst cannot recombine all of the off gases produced by higher currents.
+These results also agree with the reported behavior of excess power found as early as
+1989 [5].
+
+Figure 6. Dependences of excess power on current density for sample Pd-A (Exp. No. 041115).
+
+From October 2004 to November 2005, we have conducted electrochemical
+calorimetry on Pd|D2O+H2SO4 systems for 7 Pd samples; the results are summarized in
+Table 3. In the 7 samples, sample Pd-A, Pd-E and Pd-F gave excess heat in 70% of the
+experiments with Ti in the electrolyte. Pd-F uses two almost identical cells with Pd
+cathodes connected in series. Sample Pd-B produced excess heat in the first experiment
+only. Samples Pd-C and Pd-D have never given any excess heat.
+
+The electrolyte used for samples Pd-A and Pd-B was electrolyte previously used for
+Ti|D2O+H2SO4 electrolysis. Therefore, some titanium was dissolved in the electrolyte [7].
+To identify the effects of titanium additive on the excess heat, we dissolved titanium in
+electrolyte from experiments involving sample Pd-D. Its effects on excess heat are also
+shown in Table 3. The concentration of titanium is expressed by the mass of titanium per
+unit volume of electrolyte. The data in Table 3 indicate that titanium in the electrolyte
+enhances excess heat production [7].
+
+3.2. Scanning electron microscopy measurements:
+We analyzed Pd sample surfaces before and after electrolysis, and we found changes
+in the characteristic X-ray spectra. In particular Pd Lβ/Lαratio is higher on the Pd
+cathode after electrolysis. As noted previously this may be due to the occurrence of silver
+after electrolysis [2], because Ag Lαoverlaps with Pd Lβ. For comparison, we present the
+blank results firstly. Fig. 7 shows the SEM and corresponding characteristic X-ray
+spectrum with an EDS for a Pd sample before electrolysis. We find the surface is very
+smooth and the Pd Lβ/Lαratio is 0.41, compared with 0.42, the ratio expected for pure
+Pd.
+
+Figure 8 shows the surface pictures of sample Pd-A after electrolysis for 429 hours.
+The cathode bends towards the anode during electrolysis as observed previously [6]. The
+photo and SEM picture both indicate that the Pd electrode is covered with a deposit. The
+EDS results of Table 4 show that this deposit is mostly Pt, which dissolves from the
+anode.
+
+Figure 9 shows part of the characteristic X-ray spectrum from the dark spot S2 in Fig.
+8(b). Spot S2 is from a hole in the surface. It should be the bare Pd surface. Bright spot
+S3 is at the edge of the hole, where the Pt is deposited. It seems likely that the holey
+regions are places where palladium-deuterium electrode reactions occur after some time
+electrolysis. Fig. 9 shows an increase in Pd Lβ/Lα. Using deconvolution software, it is
+found that S2 has 6.5 atomic% Ag and S3 has no Ag. Other results in our group show that
+Pd Lβ/Lαmay be 1 or greater on the Pd cathode after electrolysis in heavy water. This is
+convincing evidence of the presence of localized concentrations of Ag [7].
+
+Besides sample Pd-A, we also measured silver on other Pd samples after electrolysis. Another example is shown in Figure 10 and Table
+5; this sample also produced excess heat. Because the results are qualitatively the same as those of sample Pd-A, we will not discuss them in
+detail.
+
+
+Discussion and Conclusion
+
+Our SEC calorimetric results showed that excess heat is produced in a Pd|D2O+H2SO4 electrolytic cell, thus confirming the positive
+results obtained by isoperibolic calorimetry. The excess heat was qualitatively reproducible for some samples. Ti additions to the electrolyte
+improved reproducibility of excess heat, possibly by depositing on the cathode and catalyzing reactions which produce excess heat.
+Localized changes in the surface topography of the Pd cathodes correlate with changes in the characteristic X-ray peaks of Pd. As before,
+these are interpreted in terms of localized concentrations of Ag, which is thought to be produced during electrolysis.
+
+
+References
+
+1. A. Ambadkar, J. Dash: “Electrolysis of D2O with a palladium cathode compared with electrolysis of H2O with a platinum electrode:
+procedure and experimental details”, see: http://www.newenergytimes.com/Library/2003DashJ-ColdFusionRecipe.pdf
+2. J. Dash, A. Ambadkar, Proc. ICCF11, Marseille, France, Oct 31-Nov 5, 2004, p. 477.
+3. E. Storms, Proc. ICCF10, Cambridge, MA, USA, Aug 24-29, 2003, p. 183.
+4. B. Bush, J.J. Lagowski, Proc. ICCF7, Vancouver, Canada, Apr 19-24, 1998, p. 38.
+5. F. Fleischmann, S. Pons, M Hawkins, J. Electroanal. Chem. 26, 301 (1989).
+6. S. Miguet, J Dash, J. New Energy 1, 23 (1996).
+7. Q. Wang, J. Dash, this proceedings.
+

@@ -1,0 +1,155 @@
+1. Introduction
+
+Since the discovery of the anomalous excess heat in the Pd|D2O electrolytic system [1],
+there have been continuing controversies on this result in the scientific community; one of
+the problems is the calorimetric method. As predicted by Storms in an extensive review [2],
+the isoperibolic calorimetry used by Fleischmann and other researchers introduces some
+uncertainty and complexity, e.g. the problems of inhomogeneous distribution of
+temperature in the electrolyte, recombination of D2 and O2 gas in the cell and effect of the
+stagnant water layer at the cell wall on the thermal conductivity of the wall etc. Strictly
+speaking, the isoperibolic calorimeter usually measures overall heat but not power at any
+time in a process. Another widely using method in cold fusion experiments, the mass-flow
+calorimetry, is adapted but not preferred means in power measurement at present. On the
+other hand, the Calvet calorimetry has been used in thermokinetics for more than a half
+century. It not only provides a high sensitivity but also depends weakly on the thermal
+homogeneity (the isoperibolic assumption) in the measuring vessel. The great differences
+between these three methods can be demonstrated by the magnitudes of the minimum 
+value of current density for excess heat production in the Pd|D2O electrolytic system.
+Based on the results measured by the isoperibolic and mass-flow calorimetry, Fleischmann
+et al [1], McKubre et al [3] and other researchers all mentioned that the minimum current
+density (known as the ‘threshold value’) is 100–150 mA/cm2. Nevertheless, Bush and
+Lagowski [4], and our results showed that 10–50 mA/cm2 is enough to produce excess heat
+using the Calvet calorimetry. This fact indicates that the anomalous excess heat can be
+easily detected, in other words the critical requirement for reproducibility of the anomalous
+excess heat can be ‘cut down’, by using high sensitivity calorimetry.
+
+Starting in 1989, our group has been continually involved in studying the anomalous
+excess heat in the Pd|D2O (H2O) electrolytic system by the Calvet calorimetry [5] as well
+as some material and electrochemical characteristics of Pd|D (H) electrode [6]. In the
+present paper, we report some of the result obtained in the last experiment.
+
+
+2. Experimental
+
+The electrolytic cell consisted of a glass vessel (inner f 12 ¥ 40 mm) and electrodes in
+the LiNO3 + D2O solution as shown in Fig. 1. The cathode was made of a palladium wire
+(f 0.2 ¥ 50–90 mm, 99.9% purity) wound round a PTFE rod, each cathode end was spot
+welded to two platinum leads (f 0.2 ¥ 50 mm) for measuring atomic ratio of D/Pd by the
+resistance method. The anode was made of a platinum wire (f 0.02 ¥ 100 mm) wound
+round another PTFE rod. All platinum wire leads were covered with thin-walled PTFE
+tubes to minimize their contact with electrolyte and catalysis of D2 + O2 combination. Both
+the cathode and anode were partially inserted in an appropriately machined PTFE piece,
+which ensured good permanent positioning of the electrodes and fixed distance (ca. 2 mm)
+between them. A diaphragm made of a PTFE plate with thin holes in it was used in the cell
+to separate the cathode and anode compartments and to prevent from D2 and O2 gas
+bubbles mixing. The 5 M LiNO3 heavy water solution was prepared by dissolving LiNO3
+(No. 3 reagent plant of Shanghai, AR) in D2O (Beijing chemical plant, 99.8% isotopic
+purity). The cell was filled with about 2 ml of the electrolyte solution.
+
+The electrolytic cell was coiled with an isolated resistance wire as a calibration heater
+and placed in a stainless steel container (inner f 16.9 ¥ 60 mm). An appropriate amount of
+silicon oil was filled in the space between the glass vessel and stainless steel wall for good
+heat conductivity.
+
+Figure 2 shows the experimental apparatus. A microcalorimeter, LKB 2107 made in
+Sweden, was employed in our work, it is a kind of instrument used to determine the heat
+flow evolved or absorbed in a process undergoing in a system and it is used widely in
+thermokinetic studies. The overall thermal flux produced in the system converts to
+electromotive force, and has a simple linear relationship to the output signal in voltage.
+This sort of calorimetry avoids the problem of inhomogeneous distribution of temperature
+in the isoperibolic calorimetry, and has much more sensitivity than the mass-flow
+calorimetry. The effect of slight temperature fluctuation around the calorimeter is
+eliminated by the twin cell design. The temperature in the air bath in which the calorimeter 
+is mounted was maintained at 40.00 ± 0.02 °C.
+
+With multiplexed computer data acquisition, the data associated with the input power,
+output power and D/Pd ratio were displayed in real time on the computer monitor and also
+stored on disc using a software package.
+
+Finally, all electrolysis was carried out under the galvanostatic condition, the applied
+current was typically between 25 and 30 mA, which was measured as a voltage drop across
+a standard resistor. The light water solution was used in blank experiments for comparison.
+
+
+3. Results and discussion
+
+In order to verify the accuracy and reliability of the calorimeter, a number of calibration 
+experiments were performed with Joule heating after the temperature in the air bath and
+calorimetric experimental zero were stable. It was found that the precision was better than
+± 2% with the applied power being just about that of the electrolysis and the device
+constant did not change within the error 1% before and after the electrolysis.
+
+A run of calorimetric experiment on the Pd|D2O (H2O) electrolytic system was always
+carried out over several days. In general, the calorimetry on the electrolytic system lasted
+about 20 hours. Between two calorimetric experiments, the calorimeter was calibrated and
+heavy water (light water) was added into the electrolytic cell to compensate the D2O (H2O)
+consumption in electrolysis and the evaporation in the gas stream escaping from the cell
+although the latter was very small.
+
+The excess power is calculated from the input, output and water electrolysis powers:
+ Pex = Pout + IVth - IV
+where Pout is the output power measured by the calorimeter; I is the applied current; V is
+the measured potential drop across the electrolytic cell; Vth is the thermoneutral potential in
+the water electrolysis, Vth = 1.524 and 1.478 V at 40 °C for D2O and H2O, respectively.
+
+There have been seven runs of calorimetric experiment on Pd|D2O (H2O) electrolytic
+systems being performed in two months period. Most of Pd|D2O systems exhibited excess
+heat in different magnitudes of excess power and sustaining time. Two runs of calorimetric
+results throughout the experiments for Pd + D2O and Pd + H2O systems are shown in Figs.
+3 and 4, respectively. Each figure shows the output power and excess power calculated
+according to Eq. (1) in less than one-day period. The applied current, resistance ratio of
+PdHx to Pd (R/R0) and loading ratio of D/Pd are noted in each figure.
+
+By Figs. 3 and 4, we find that both the D2O and H2O systems exhibit excess heat (ca.
+500-800 J) at the beginning of electrolysis. Because it is greater than the enthalpy of
+palladium deuteride (hydride) formation (£ 5 J) and any chemical process associated with
+LiNO3 is endothermic, so we only attribute it to unknown chemical process, which needs
+further research in future. Subsequently, both these two systems experience the trivial time
+of no excess heat. The distinction between them appears at the latter time, we find the
+excess heat is produced in the Pd|D2O system on the third day and it lasts for 4 days;
+otherwise, the Pd|H2O system exhibits no any excess heat during the rest time and it also
+provides a calibration for the calorimeter in some sense. These results clearly indicate that
+the Pd|D2O electrolytic system produces anomalous excess power.
+
+For result in Fig. 3, the average excess power over 79 hours is 0.025 W which
+corresponds to a volume excess power of 8.75 W /cm3 Pd or a surface power of 0.044 W/cm2 Pd. The maximum excess power shown in Fig. 3 is 0.035 W, the ratio of excess power
+to input power ranged from 48% to 83%. The overall excess heat corresponds to 2.48
+MJ/cm3 Pd or 228 eV/atom Pd which appears to be well beyond any chemical process can be expected to release.
+
+Our calorimetric results showed an excess power that was quite in line with other
+positive results reported up to now. In particular, if we consider the excess power per unit
+electrode surface area as a function of the current density, our result is beyond the general
+behavior pointed out by Storms [2] by considering many calorimetric measurements on the
+Pd|D2O system in various laboratories. The applied current density for production of the
+excess heat in Fig. 3, 44–53 mA/cm2
+, is lower than the ‘threshold’ value 100–150 mA/cm2
+mentioned by Fleischmann, McKubre and other researchers [1,3,7]. However, it is
+consistent with the result of Bush and Lagowski [4] who found 10–30 mA/ cm2
+ is enough
+to produce excess heat using the Calvet calorimetry. At the same time, the loading ratios
+accompanying the excess heat production in Fig. 3 are between 0.51–0.68 D/Pd which are
+lower than the ‘threshold’ value, 0.83–0.92 D/Pd, first mentioned by McKubre et al [3] and
+Kunimatsu et al [7]. Both results indicate the ‘threshold’ current density and D/Pd ratio for
+anomalous heat production may be ‘cut down’ using a high sensitivity calorimeter. Of
+course, our experiment was performed at a higher temperature (40 °C) than before used
+(20–30 °C), this difference may cause the triggering condition of the excess heat being
+modified. On the other hand, these results are qualitative and the quantitative relation of
+excess power vs. current density and loading ratio needs further research in future works.
+
+
+References
+
+[1]FLEISCHMANN M., PONS S. AND HAWKINS M.: J. Electroanal. Chem., 261, (1989)
+301; errata, J. Electroanal. Chem., 263, (1989) 187.
+[2]STORMS E.: Fusion Tech., 29, (1996) 261; Infinite Energy, vol. 5, #21, (1998) 15.
+[3]MCKUBRE M.C.H., CROUCH-BAKER S., RILEY A.M., SMEDLEY S.I. AND
+TANZELLA F.L.: in Frontiers of Cold Fusion, Proc. 3rd Int. Conf. on Cold Fusion,
+edited by H. IKEGAMI, Nagaya, Japan, October 21-25, 1992, (Universal Academy
+Press, Tokyo) 1993, p. 5.
+[4]BUSH B.F. AND LAGOWSKI J.J.: in Proc. 7th Int. Conf. on Cold Fusion, Vancouver,
+British Columbia, Canada, April 19-24, 1998, p.38.
+[5]ZHANG Z.L. et al: AIP Conf. Proc. 228, Provo, UT, 1990, p. 572; Fusion Facts, 1994,
+#2, p. 27; J. Thermal Analysis, 45, (1995) 99.
+[6]ZHANG W.S. et al: J. Electroanal. Chem., 434, (1997) 31; 445, (1998) 55; 458, (1998)
+107; 474, (1999) 123 & 130; 481, (2000) 13; J. Alloys Comp., 302, (2000) 258.
+[7] KUNIMATSU K. et al: in Ref [3], p. 31.

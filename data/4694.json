@@ -1,0 +1,28 @@
+{
+    "index": 4694,
+    "document_link": "http://lenr-canr.org/acrobat/ZhangWSelectroche.pdf",
+    "abstract": "Additional resistances contributed to that of PdHx electrode in an electrolyte using the direct current method are calculated. It is found that an electrode with a large ratio of length to radius, an active surface, a surrounding electrolyte with high conductance and high electrolysis current will induce substantial additional resistances.",
+    "all_authors": [
+        "Zhang, W.-S.",
+        "Zhang, Z.-F.",
+        "Zhang, Z.-L."
+    ],
+    "pdf_path": "ZhangWSelectroche.pdf",
+    "title": "Electrochemical effects on the resistance measurements of Pd/H electrode",
+    "publisher": "The 9th International Conference on Cold Fusion, Condensed Matter Nuclear Science",
+    "year_published": "2002",
+    "volume": "1",
+    "date_uploaded": "2003-07-09",
+    "keywords": [
+        "Pd",
+        "H2O",
+        "resistivity",
+        "PdH"
+    ],
+    "text_content": [
+        "It has long been recognized that the electrical resistance of PdHx (taken to include PdDx, as below) is a function of x. This relationship has been used to infer the loading ratio in the electrolysis experiments.[1−8] However, the in-situ resistance measurement (ISRM) has inherent defects, e.g. the non-uniform distribution of H concentration, temperature, electrolyte and applied currents all influence the measured value. In this paper, we will discuss the electrochemical effects on the ISRM in the direct current (dc) situation.",
+        "It must be pointed out that ΔEE appears instantly while ec is applied; whereas ΔEPdHx,C delays by a time interval which depends on the electrode diameter and surface properties.[2]",
+        "Results here are mainly theoretically, their qualitatively aspects are consistent with available experiments. [1,2,4] The quantitative verifications need to be carried out in future experimental works.",
+        "[1] C.A. Knorr, E. Schwartz, Z. Elektrochem. 39 (1933) 281; 40 (1934) 36. [2] A.W. Carson et al., Naturwiss 46 (1959) 374; T. Faraday Soc. 56 (1960) 1311; 1324. [3] D.J. Gillespie, G.N. Kamm, A.C. Ehrlich, P.L. Mart, Fusion Tech. 16 (1989) 526. [4] T.A. Green, T.I. Quickenden, J. Electroanal. Chem. 368 (1994) 121. [5] M.C.H. McKubre et al., ib id. 368 (1994) 55; A. Wark et al., ib id. 418 (1996) 199. [6] A. De Ninno, A. La Barbera, V. Violante, J. Alloy. Compd. 253-254 (1997) 181. [7] T. Senjuh et al., J. Alloy. Compd. 253-254 (1997) 617. [8] A.M. Riley et al., J. Electrochem. Soc. 139 (1992) 1342. [9] W.S. Zhang, X.W. Zhang, H.Q. Li, J. Electroanal. Chem. 434 (1997) 31."
+    ]
+}

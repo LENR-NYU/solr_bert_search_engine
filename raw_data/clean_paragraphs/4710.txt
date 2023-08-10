@@ -1,0 +1,349 @@
+1. Introduction
+
+Heat-flow calorimeters (HFCs), or heat-conduction calorimeters, are widely utilized for measurements of power and enthalpy
+change during physicochemical reactions in basic research and
+technical applications. Among these sorts of devices, Tian–Calvet
+microcalorimeters are frequently used for tiny samples (<101 cm3)
+and low powers (10−1 W) [1]. For larger samples and higher
+power, other types are more suitable. One option is the Seebeck
+Envelope Calorimeter (SEC) made by Thermonetics Corporation
+[2]; however, this sort of device has some intrinsic defects in the
+author’s experience [3]:
+
+(1) The heat insulator around the calorimeter is insufficient; thus
+the baseline and output signals oscillate daily with the ambient
+temperature and drift with human activities.
+
+(2) The device constant, the quotient of thermal power P to the output emf (electromotive force) of thermoelectric pile V, D1 = P/V,
+is unstable. The author found that it shifted by 20% in three
+months; the SEC had to be calibrated before and after every
+measurement.
+
+(3) The isothermality is not good. Although Tian–Calvet
+microcalorimeters are semi-isothermal, the temperature
+difference between the sample under test and its environment
+is generally very small (<10−4 ◦C) because of small sizes and
+low powers of samples. However, the isothermality may become a problem for samples of decimeter-size due to slow
+heat transfer in samples, and/or across the barrier (interlayer between measuring vessel and outer layer at constant
+temperature, including the thermoelectric pile and junction
+parts). For example, the thermal conductance of the barrier
+ = 2.44W◦C−1 for a Thermonetics SEC, this means the temperature difference reaches about 4.1 ◦C for 10W of thermal
+power liberated. This non-isothermality makes the working
+temperature differ prominently from the set value and this
+disagreement should be avoided or reduced.
+
+(4) The nonlinearity of the device constant is remarkable. The
+device constant of Thermonetics SEC is 187.4W V−1 at 1W and
+186.0W V−1 at 20W in linear approximation. This should be
+partly caused by the non-isothermality of this device.
+
+In the literature, there were also reports on large-scale custommade heat-flow calorimeters for special purposes [4,5]. These also
+had, to some extent, defects like the Thermonetics SEC. Some
+researchers used mass flow calorimeters [6–9]; however, this type
+of calorimeter has more parameters to determine the power than
+the Tian calorimeter. In this paper, we will describe a new heat-flow
+calorimeter with large measuring volume and a wide power range.
+Its merits are simplicity, stability, accuracy, and fewer defects than
+the Thermonetics SEC. It will be useful in research on thermokinetics and thermal behavior of systems in decimeter-size.
+
+
+2. Construction of calorimeter
+
+Fig. 1 shows a schematic of the HFC. The calorimeter core consists of two embedded boxes made of an aluminum alloy. The
+inner box is the measuring vessel with interior dimensions of
+26 cm × 26 cm × 26 cm (17.576 dm3). The thicknesses of the inner
+and outer box walls are 4 and 6 mm, respectively. Thermoelectric
+modules (TM, 5.4 mm × 40 mm × 40 mm) each with 127 thermocouples, are mounted between the inner and outer walls with
+screws. Thermal conductive silicone is wiped on both sides of each
+TM for improving thermal conductivity. 25 TMs are distributed uniformly on each wall except for 2 facing sidewalls which have 24 TMs
+because there is one hole in the center of each wall. Altogether,
+148 TMs with a total of 18,796 thermocouples are used in this
+calorimeter. All TMs are connected in series. The heat flow released
+or absorbed during experiments is proportional to the measured
+emf of TMs.
+
+The two holes ( = 2 cm) in the two sidewalls mentioned above
+permit multi-functionality of this calorimeter, i.e., controls of
+mechanical, pressure and circulation of working fluid, measurements of temperature, internal resistance and voltage of the
+unit-under-test (UUT). The thermal emf of the calorimeter and
+other signals of UUT are measured with a Keithley 2000 multimeter
+which is connected to a PC through a GPIB card, to automatically
+register the data obtained using software.
+
+The outer aluminum alloy box is wired with copper tubing
+(in = 8 mm, out = 10 mm). Thermal conductive adhesive (Good
+Friend®, working temperature = −3 to 235 ◦C, thermal conductivity > 1.2W m−1 ◦C−1) is used to mount the copper tubing and the
+aluminum alloy walls. The outlet of copper tubing is connected with
+the hose of a refrigerating/heating circulator (PolyScience 9112).
+The temperature range of this circulator is −20 to 200 ◦C; the temperature stability is ±0.01 ◦C, the flow rate of the working fluid is
+15–22 dm3 min−1. The inlet of the copper tubing is connected with
+a small cylindrical thermostatic bath (in 20 mm × hin 50 mm); a
+remote temperature probe of the circulator is placed in it. This
+arrangement of temperature probe ensures the fluctuation of ambient temperature does not affect the calorimetry. The inlet of the
+small bath is connected to the circulator with another hose. All
+these hoses are wrapped with foam tubing to prevent heat losses.
+
+The calorimeter core is placed in a larger box with interior
+dimension of 70 cm × 70 cm × 70 cm. Heat insulation materials fill
+in the gap between these two boxes. The inner surface of the large
+box is covered with aluminum film, and the inner and outer walls
+of the calorimeter core are connected with ground to avoid electromagnetic interference.
+
+
+3. Calibration of calorimeter
+
+Before calibration, we tested the baseline stability (noise) with
+two modes of temperature control. One is remote control as
+described above; another is local control, i.e. the temperature probe
+was in the circulation bath but not in the HFC. We found the latter mode gave more stable baselines than the former in a short
+time range and some ambient temperature dependent baselines
+in a long time range, as expected. For example, the baseline was
+−1.06 ± 1.23 mV at night (10 h) and −1.15 ± 2.95 mV for a 24 h day
+(bath temperature was 25.00 ◦C; room temperature was 22–26 ◦C).
+The remote control gave a baseline of 8.07 ± 3.81 mV over 32 h (bath
+temperature was 25.00 ◦C; room temperature was 28–31 ◦C). For an
+ideal calorimeter, the baseline signal should be zero or very small;
+however, heat exchanges between the calorimeter and its environment cause the HFC to have a non-zero baseline, and its value drifts
+slightly with room temperatures. Its magnitude can be stabilized
+through control of room temperature using an air conditioner.
+
+The calibration was conducted with a 3.6  electric heater. The
+heater is made of Tophet® alloy A wire ( 0.3 mm) wound around a
+cylindrical heat sink with fins, which were located at the center of
+the measuring vessel. This configuration ensures a uniform distribution of temperature in air and between the heat sink and air. The
+heater was connected to a DC power source (ITECH, IT6921). The
+four-wire Kelvin bridge method was used to eliminate lead resistance in the measurements. Applied current was measured with a
+0.1  (±0.01%) standard resistor as shunt.
+
+A Sanyo Denki brushless fan (12 V × 0.21 A, 2.5W) with another
+DC power supply (ITECH, IT6322), and a 1  (±0.01%) shunt was
+used to homogenize the temperature distribution in the measuring vessel as illustrated in Fig. 1. The power of the fan was also
+measured in a similar manner.
+
+The calorimeter was calibrated from 0.1 to 50W; it gave good
+linearity between thermal power and responses. One series of calibration is shown in Fig. 2. These results are simulated by a quadratic
+equation: P = D0 + D1V + D2V2 = −0.0451 ± 0.0046 + (5.8954 ± 0.0025) V − (0.0019 ± 0.0003) V2 with the residual sum of squares 2 = 1.2 × 10−4 and the adjusted
+R-square R2 = 1. Where P is the input power in Watts, and V is the
+output emf in Volts. This simulation gives the uncertainty of 6.9%
+at 0.1W, 0.6% at 2W and 0.06% at 50W. The time constant of the
+HFC,  = 501.7 ± 3.2 s.
+
+In Eq. (1), the first term D0 corresponds to the baseline signal, it
+can be removed by deducting the baseline from the output emf and
+its value does not affect the magnitudes of D1 and D2. The device
+constant in the second term, D1 = 5.8954 ± 0.0025W V−1, or about
+30 times more sensitive than the Thermonetics SEC in Ref. [3]. The
+device constant did not change more than 0.6% in two years. The
+quadratic term is very small, D2V/D1 = 0.3% at 50W. By comparison,
+the contribution of nonlinearity: D2V/D1 = 3% for a Thermonetics
+SEC [3] and 2% in Ref. [4] when the thermal power is extrapolated
+to 50W.
+
+The effect of thermal heterogeneity in the measuring vessel on
+the calorimetry was tested. A heater made of straight Tophet®
+alloy A wire with resistance of 6  clung to one sidewall when
+power to the fan was off. The resulting device constant was
+6.1071 ± 0.0176W V−1 up to 24W, which was 3.5% greater than
+5.8954 ± 0.0025W V−1. This location dependence of the device constant means uniform distribution of temperature in the measuring
+vessel is important for precise measurements of thermal power.
+
+The effective heat capacity of the calorimeter was determined
+by changing its outer wall temperature, C = 5.30 ± 0.02 kJ ◦C−1 from
+25 to 26 ◦C, as shown in Fig. 3. In measurements of heat capacity of samples, this figure is the background of the actual value
+and it should be deducted from the measured quantity. The fullwidth at the half-maximum of the pulse in Fig. 3 is 658.4 s, which
+is also the response time of the HFC. The decaying part is simulated
+using an exponential function. The corresponding time constant is
+543.9 ± 9.0 s. These two time constants are longer than  due to
+thermal processes in the outer walls being included here. Although
+the above three different characteristic time constants have different values, they are close to each other and in the range of
+500–660 s.
+
+According to Ref. [1], the thermal conductance of the barrier in a Tian calorimeter is: = C  = 10.56 ± 0.11W ◦C−1
+
+The measured value of  = 11.65 ± 0.25W◦C−1 when thermal
+power changed from 2.13 to 12.58W at 25.00 ◦C. These two values are the same within the error of 10%. Their difference arises
+from the measured  including not only heat capacity in a Tian
+calorimeter but also thermal diffusion in HFC as mentioned above.
+This reason makes the measured thermal conductance greater than
+the theoretical value in Eq. (2). The  for HFC is about 5 times
+that of a Thermonetics SEC. This means that this device has better
+isothermality than the latter. Generally speaking, there is a balance
+between sensitivity and isothermality for any calorimeter; however, the HFC has better both sensitivity and isothermality than a
+Thermonetics SEC.
+
+
+4. Nonlinearity of the calorimeter
+
+The HFC described here, compared with a Tian calorimeter, has
+larger measuring volume and higher power. This makes the nonlinearity of P–V relation prominent when the thermal power is high,
+as shown in Eq. (1). This phenomenon can be understood from
+the temperature dependence of Seebeck effects. For simplicity, the
+Seebeck coefficient can approximate to: a ≈ a0 + a1T
+
+For most thermocouples, ˛ increases with T around room temperature [10], i.e. ˛1 > 0. Therefore the output emf of the HFC is:
+V = N˛T ≈ N˛0T + N˛1T2 where N = 18,796, the number of thermocouples used in HFC. T is
+the temperature difference across the thermal barrier. Because the
+thermal power is proportional to the temperature difference:
+P = T. Eq. (4) can be expressed as
+V ≈ N˛0 P + N˛1 2 P2
+
+Solving P and expanding it to the second order gives: P ≈ N˛0V − ˛1 N2˛3 0 V2
+
+Two constants in Eq. (3) can be obtained by combining Eqs.
+(1) and (7) and parameters above: ˛0 = 0.1051 ± 0.0023 mV◦C−1
+and ˛1 = 67 ± 16 nV◦C−2. Besides HFC here, Thermonetics SEC
+and Storms’ calorimeter also exhibited negative values of D2 in
+quadratic approximations [3,5].
+
+Referring to Eq. (7), the ratio of the quadratic term to the linear
+term in Eq. (1) is:
+D2V2D1V = ˛1VN˛20≈ ˛1˛0P in the first order approximation. It is 0.27% at 50W here, one order
+less than that reported in Refs. [3–5]. Eq. (8) predicts that an ideal
+linearity of a HFC relies on a small temperature dependence of the
+Seebeck coefficient (low value of ˛1/˛0) and good thermal conductance of the calorimeter (high value of a).
+
+
+5. Test of the calorimeter
+
+5.1. Thermal behavior of a rechargeable battery:
+Calorimetry is a useful tool for measurements of heat dissipation
+during charge/discharge of rechargeable batteries [11,12]. The large
+volume and high power range of this calorimeter make it suitable
+for studying thermal behaviors of batteries and battery modules. A
+Sony 26650, MFC07P, 2700 mAh, 3.7 V, Li-ion rechargeable battery
+( 26 mm × 65 mm) was used to test the calorimeter. The battery
+was placed on a foam block, and one K-type thermocouple was
+attached on the top center of its cylindrical surface to measure temperature. The fan in the HFC was off in the test to simulate the heat
+transfer of natural convection. The induced error of thermal power
+measurement is less than 3.5%, as discussed in Section 3. For evaluating the battery, over-charge and over-discharge were applied in
+the experiments.
+
+The heat dissipation during charge and discharge in the galvanostatic mode with 0.9 A (C/3) is shown in Fig. 4 and Table 1. The
+surface temperature of the battery decreases in the initial period
+of charge (see insert to Fig. 4(a)); this heat absorption is induced
+by the entropy change and it would be observed if the charging
+current was much lower than here, as illustrated in Ref. [12]. The
+thermal power was less than 0.2W before the quantity of charge
+reached 4500 mAh. The heat released increased sharply when the
+actual charge quantity approached 5400 mAh (2 times the nominal capacity). It appeared that the battery would be in thermal
+run-away, the charging was stopped intentionally.
+
+The discharge was conducted the next day after charging with
+the same current, 0.9 A (C/3), and the thermal power released was
+always about 0.6W. The thermal power and temperature increased
+sharply when the discharge electric quantity approached 4950 mAh
+(11/12 of the charged capacity in the previous day), and the discharge was then stopped intentionally.
+
+By comparison of parameters in charge and discharge processes,
+it is found that the thermal power during discharge is about 2.5
+times of that in charge. The efficiency in discharge is lower than
+that in charge as shown in Table 1.
+
+5.2. Calorimetry of Pd-D2O electrolytic cell: Thermal power is less than 1W in the above experiments.
+Results will now be presented on an electrochemical process that
+produced power one order higher than that of the Li-ion battery. The primary purpose of these experiments was to repeat
+Fleischmann–Pons effects as was done in one earlier work [3];
+however, some trivial results demonstrated the accuracy of this
+calorimeter. One example of these will be presented here.
+
+The electrolytic cell is a cylinder of borosilicate glass (in
+42 mm × out 45 mm × h 142 mm). A PTFE male cap is tapered from
+a hexagonal prism with side length 32 mm and thickness 13 mm at
+the top, and  41 mm × 24 mm at the bottom. A groove of 4 mm
+width and 2.5 mm depth was made for O-ring in the middle of
+bottom part. The O-ring (in = 31.5 mm, width = 3.55 mm) made of
+nitrile butadiene rubber (NBR, resistant to acid) is used to seal the
+top cap against the top inner wall of glass cylinder. The top cap has
+two holes, 1 mm diameter each and 20 mm apart, for the electrode
+lead wires. A PTFE plate ( 41 mm × 8 mm) is used to suspend the
+recombination catalyst above the electrode. It has 57 holes of
+2 mm to pass gases (D2 and O2) and vapors (D2O). A PTFE rod (
+6 mm × 40 mm) is fastened to the perforated plate and the top cap.
+This ensures that the perforated plate is at a fixed distance above
+the electrolyte.
+
+The cathode is palladium foil, 11 mm × 31 mm × 0.5 mm, the
+anode is platinum foil, 31 mm × 43 mm × 0.02 mm. Two electrode
+lead wires made of Pt ( 0.8 mm × 145 mm) are covered with heatshrink teflon tubing. The electrolyte contains 51.5 g of heavy water
+mixed with 8.115 g of D2SO4. Catalyst (3 g), which contains 0.5% Pt
+on 1/8 inch diameter alumina pellets, is used in the cell to recombine the D2 and O2 which evolves during electrolysis. O2 gas at 1
+atmosphere was flowed into the cell to accelerate catalysis. A metal
+frame was used to clamp the PTFE cap onto the cell. These arrangements ensure that the electrolytic cell is a closed system. Energy
+exchange occurs only during electrolysis.
+
+The electrolysis was carried out in galvanostatic mode (3 A)
+using a DC power source (ITECH IT6921), which was also used
+during calibration. Fig. 5 shows the input electrolytic power
+and output thermal power. The input and output powers are
+8.9556 ± 0.0029 and 8.9552 ± 0.0264W, respectively, during the
+stable period (5–8 h of electrolysis time). They are consistent with
+each other within 0.004%, although the calorimetric error is 0.29%.
+
+The input and output energies are 262.38 ± 0.05 and
+261.83 ± 0.88 kJ, respectively. Before and after electrolysis, the cell
+was weighed with Mettler PM1200; the mass loss in this run was
+0.022 g. If this loss was caused by poor catalytic recombination,
+the corresponding energy correction is 0.33 ± 0.03 kJ. The output
+energy after correction is 262.16 ± 0.90 kJ; the resulting excess
+energy is −0.22 ± 0.90 kJ, corresponding to (−0.08 ± 0.34)% of the
+input energy. It means there was no excess heat produced in the
+electrolytic cell and this calorimeter gave good accuracy (better
+than 0.1%) at power around 9W running for 8 h.
+
+
+6. Discussions
+
+Besides applications in battery studies presented in Section
+5.1, side reactions and their mechanisms in batteries can also be
+studied using this calorimeter. For modules of Ni-MH rechargeable batteries, this HFC can be used to evaluate the self-discharge
+directly through thermal power measurement. Furthermore, this
+calorimeter can be utilized in safety and abuse evaluations of
+Li-ion rechargeable battery using methods of punctuation and
+short-circuit. The heat released during such processes can be measured quantitatively through making a mechanical or electric link
+between the battery in the measuring vessel and control parts outside of HFC.
+
+At the same time, this calorimeter can be used for other samples or systems in decimeter-size, e.g. fuel cells, animals, plants and
+radioactive materials, to study their physiochemical, biological and
+nuclear processes through thermal power measurements.
+
+On the basis of the construction and application of HFC presented here, its advantage and uniqueness of large volume and
+wide power range are obvious by comparison with a Tian–Calvet
+calorimeter. Of course, the twin-cell design used in the Tian–Calvet
+calorimetry [1] cannot be applied directly here due to the large volume of the measuring vessel. By comparison with a Thermonetics
+SEC, its stable device constant, good isothermality and linearity are
+markedly superior. At the same time, there are still defects in this
+HFC; one of them is the prominent baseline signal especially when
+the thermal power is less than 0.1W. This problem will be solved
+in the next version of HFC.
+
+
+References
+
+[1] E. Calvet, H. Prat, Recent Progress in Microcalorimetry, Pergamon Press, Oxford,
+1963 (Chapters 3 and 4).
+[2] Thermonetics Corporation, 7834 Esterel Drive, La Jolla, CA 92037, USA,
+http://www.thermoneticscorp.com.
+[3] W.-S. Zhang, J. Dash, Q. Wang, Condensed matter nuclear science, in: A. Takahashi, K.-I. Ota, Y. Iwamura (Eds.), Proc. 12th Int. Conf. Cold Fusion, Yokohama,
+Japan, November 27–December 2, 2005, World Scientific Pub., Singapore, 2006,
+p. 86.
+[4] A.A. Pesaran, D.J. Russell, J.W. Crawford, R. Rehn, E.A. Lewis, Proceedings of
+the 13th Annual Battery Conference: Applications and Advances, Long Beach,
+California, January 13–16, 1998, p. 127.
+[5] E. Storms, Condensed matter nuclear science, in: A. Takahashi, K.-I. Ota, Y. Iwamura (Eds.), Proc. 12th Int. Conf. Cold Fusion, Yokohama, Japan, November
+27–December 2, 2005, World Scientific Pub., Singapore, 2006, p. 108.
+[6] K.L. Shanahan, Thermochim. Acta 387 (2002) 95.
+[7] K.L. Shanahan, Thermochim. Acta 428 (2005) 207.
+[8] E. Storms, Thermochim. Acta 441 (2006) 207.
+[9] K.L. Shanahan, Thermochim. Acta 441 (2006) 210.
+[10] D.M. Rowe (Ed.), CRC Handbook of Thermoelectrics, CRC Press, Boca Raton,
+1995 (Section D).
+[11] Z.-L. Zhang, M.-H. Zhong, F.-M. Liu, F.-P. Zhong, F. Wu, J. Power Sources 70
+(1998) 276.
+[12] Y. Saito, J. Power Sources 97–98 (2001) 688
+
+
+
+
+
+
+

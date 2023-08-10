@@ -1,0 +1,178 @@
+Introduction
+
+Recently, much research work on the calorimetric measurement of electrolysis process of water (or heavy water) were reported, because it was believed that
+the electrolysis could induce a nuclear fusion [ 1-6]. Therefore, if the controlled
+nuclear fusion could be realized at room temperature a powerful and clear energy source could be obtained easily. As we know well, the project was started
+from an announcement made by Fleishmann and Pons who found the 'excess
+heat' generated in the electrolysis of heavy water in 1989. Since then there are
+many scientists, in the world, who are still trying hard to materialize this aspiration. 
+
+Now, one hopes to have clear answers on the following problems:
+a.) Does the 'excess heat', or 'anomalous heat' generated during the electrolysis process really exist?
+b.) Were these heat phenomena fabricated by some persons?(!) 
+
+Up to now, many scientists working in many laboratories in countries, such
+as USA, Japan, Italy, Russia and China, have carried out thousands of experimental runs in this field, and obtained results which may give a clear answer:
+the 'excess heat' can be obtained in the electrolysis of heavy water (even light 
+the 'excess heat' can be obtained in the electrolysis of heavy water (even light
+water)! But nobody can definitely give an incontestable answer: the excess heat
+generated during electrolysis of heavy water must be accompanied by convincing nuclear fusion. 
+
+In this case, it is very important to understand the processes causing the 'excess heat', or 'anomalous heat' generated during electrolysis of heavy (or light)
+water and the factors, such as the electrolysis current, affect heats taking place. 
+
+
+Experimental
+
+Calorimeter: 
+A Calvet type of microcalorimeter was also used in this work. Figure 1
+shows a schematic diagram of the electrolysis cell, and the experimental circuit
+in the open system. A microcomputer was used to acquire and digitize the experimental and the reference signals at millisecond intervals from the thermopile of the calorimeter. It was also used to register the electrolysis voltage
+and current at the same time intervals. 
+
+Fig. 1 Experiment circuit. 1-Kw2; 2-power supply; 3-simulated resistance; 4-standard resistance; 5-electrolysis cell; 6-Kwl; 7-to the recorder/computer
+
+Electrolysis cell and calorimetric chamber:
+The closed system: Figure 2 shows the closed electrolysis cell. It was constructed of glass with
+an internal diameter of 1.4 cm and height of 7.2 cm. The cell contained 2.5 ml
+of 0. I M NaOH solution. The palladium (>99.9%) rod was used for cathode
+and the platinum (>99.9%) wire for anode as before [5]. The cell was sealed 
+with a rubber stopper 1 cm thick which incorporated feedthroughs for the electrical connections to the anode and cathode, and a fine Teflon tube filled with
+sufficient water. The tube was used to close the cell system and to monitor the
+change of pressure in cell. Recombination of the evolved hydrogen and oxygen
+in this work was achieved using a ball of very fine Pt wire platinized. Before the
+calorimetric experiments of electrolysis running it should be sure that the recombiner works without pressure change in the electrolysis cell during the operation of it at high (at least higher than 40 mA) current over several weeks.
+Manganin wire was coiled on the cell to be a calibration heater. The cell with
+the heater coil was placed in a gilded copper cylindrical vessel filled with silicon oil. 
+
+Fig. 2 Diagram of electrolysis cell. 1-Pd cathode; 2-Pt anode; 3-recombiner catalyst;
+4-TTFE pipe; 5-glass tube; 6-rubber plug 
+
+The open electrolysis system:
+The construction of electrolysis cell used in the open system was totally the
+same as that in the closed system but without recombiner and with an empty
+outlet tube. 
+
+
+Procedure:
+Calibration of calorimeter: The microcalorimeter was calibrated by applying varying amounts of electrical power to the coil heater and measuring the resulting changes of thermoelectromotive force (T.E.F) from the calorimeter with microcomputer acquisition
+and digitalization system (D). The calibration constant E (D/mW) of the microcalorimeter was thus determined. It was found that the calibration curve of D
+vs. input power was linear over range 0.6-48 mW (Fig. 3). 
+
+Electrolysis:
+An electric power pulse, with intervals wide enough to obtain experimental
+results, was produced in the electrolysis system. The electrolysis voltage applied
+on cell was in the range of 1.81 to 3.92 V, and electric current density was
+changed from 7.95 mA/cm 2 to 38.6 mA/cm 2, in the closed system. In the open
+system the cell voltage applied was varied from 1.81 to 2.83 V, and the current
+density was changed from 3.1 mA/cm 2 to 32.1 mA/cm 2. In the calorimetric
+measurements of electrolysis of heavy water, the cell voltage used was varied
+from (3.51_+0.13) V to 5.98_+0.48) V, and the current density was varied from
+1.90 mA/cm 2 to 5.70 mA/cm 2. 
+
+
+Results and discussion 
+
+The closed system:
+The results of the heat measured by microcalorimeter during electrolysis in
+closed system and the electric work input into the electrolysis cell are presented
+in Table 1. Each of the ratio of heat measured to electric work input vs. the current density during the electrolysis is almost equal to 1.0. It is very clear that 
+there is no change in the ratio. Therefore, no excess heat was observed during
+the electrolysis of water in the closed system. 
+
+The open system:
+In the electrolysis of HaO:
+Table 2 shows that the same ratio, as mentioned above, of power measured
+(Wm~) by calorimeter to electrical power (W~,) released into the electrolysis cell
+system as Joule heating in open system varies with the electrolysis current density. 
+
+The curves (- [] -, - ~ -, - • - )shown in Fig. 4 represent the results of
+the ratio. 
+
+The value of W~. was calculated using a common method [1] from the equation 
+Win = l(Ec~ - Eth) 
+where I is the cell current, Eco is the potential difference across the cell and E~
+in the thermoneutral potential for the electrolysis of water. The value of Eth for
+H20 at 25~ is 1.48 V and 1.53 V for D20. It was found that there is a clear
+nonlinear relationship between the ratio and the electrolysis current density. By
+the usual calculation, the excess power (W~x) should be given by
+Wox = Wmo- Wm
+
+The results of the excess power are shown in Table 3. It is clear, from Table 3, that the excess power generated during electrolysis of H20 in the open
+system varies with the current density (or voltage). 
+
+In the electrolysis of D20, Table 4 shows the results obtained in the electrolysis of D20. The increase in
+the excess heat with current density is conspicuous. 
+
+Energy consumption in electrolysis of water
+The cell voltage is a complex quantity made up of a number of terms [7], i.e
+Ec~ = (Ec - Ea) + rla + rl~ + "l~mt "+" IR~ = Er~v + rl~ + rk + ~mt "]- IRr 
+where Ea and E~ are the equilibrium potentials for the anode and the cathode reactions respectively. The subscripts c, a and mt refer respectively to the activation overvoltages at the cathode and anode, and the polarization overvoltage due
+to mass transport of gaseous products away from the electrode surfaces. Rc~ is
+the cell resistance. The total energy consumption is
+Wr = IEc~ 
+
+As we know well, the free-energy change (AG) for an overall cell reaction at
+constant temperature and pressure may be calculated [9] by
+AG = -nF (Ec - Ea) = -nFEr. 
+
+According to the law of thermodynamics, AG under the same conditions should
+be
+AG = AH - T AS (6)a
+AG = AG ~ + RT lnQ AG = AH ~ - TAS ~ + RT lnQ (6)b 
+
+For a complete cell reaction of electrolysis process of water, as
+2H20 (/) --> 2Hz (g) + 02 (g)
+Under standard state conditions (1 atm., and 25~
+(dECJdT) is (+0.846) mV.K -1 and
+AH ~ ~ ~ or
+(7)
+is (-1.229) V and
+(8)a
+AH o : -nF[E~ T (dE~ / d 7)] (8)b
+Therefore, the Eta should be
+Eta : -AH ~ / nF (9)
+For the reaction of electrolysis of water, the Eta= 1.48 V.
+
+From the Eqs (3), (5), (6), and (9), the electric work dissipation (W,0 during electrolysis should be
+W.,~ : W~l : I (Eoe - Eta) or (10)a
+Wel : I [TAS ~ / nF - (RT/nF)lnQ] + (qa + qc + T]mt + Igce) (10)b
+
+It is very clear that the Eq. (10) does not represent such a simple linear relationship between the electrical work dissipation and the current density in
+electrolysis. The reason is that the We~ is a nonlinear function of the electrolysis
+current density according to the right-hand side of the Eq. (10).
+
+Therefore, it may be noted that the W~, is equal to We~ and the 'excess heat'
+(Wex) is a nonlinear function of the electrolysis current density. There are many
+results of calorimetric measurements of the heat generated during an electrolysis of H20 (or D20) [1-6] which can be applied to prove this relationship. This
+is a preliminary discussion on the heat generated during an electrolysis by general thermodynamics. 
+
+
+Conclusion
+
+This work involved the Calvet type microcalorimeter to search for a low
+level 'excess heat' generated during electrolysis of water at palladium cathode
+in the closed and open systems. It is clear that the ratio of heat measured to electric work input in the closed system is almost equal to 1. That ratio is always
+greater than 1 in the open system. And it varies with electrolysis current density
+(or voltage). 
+
+According to the discussion on the heat generated during electrolysis by general thermodynamics and electrochemistry in this work, it was understood that
+the 'excess heat' (W~x) should be a nonlinear function of the electrolysis current
+density. 
+
+
+References
+
+1 M. Fleischmann, S. Pons and M. Hawkins, J. Electroanal. Chem., 261 (1989) 301.
+2 R. C. Kainthla, O. Velev, L. Kaba, G. H. Lin, N. J. C. Paekham, M. Szldarezyk, J. Wass and
+J. O'M. Boekris, Electrochim. Acta, 34 (1989) 1318.
+3 D. Lewis and K. Skold, J. Electroanai. Chem., 294 (1990) 278.
+4 K-S. Yun, J-B. Ju, B-W. Cho, W-I. Cho and S-Y. Park, J. Eleetroanal. Chem., 306 (1991)
+279.
+5 Zhongliang Zhang et al., AlP Conf. Proc., 228 (1990) 572.
+6 Xu-Wu An, Hai-Ke Tan, Bu-xing Han, Da-Jun Guo, De-Yin Xie, Qi-He Zhu and Ri-Heng
+Hu, Thermochim. Acta, 183 (1991) 107.
+7 F. Gutmann and O. J. Murphy, 'Modern Aspects of Electrochemistry', No. 15, Edited by R.
+E. Whire et al., ISBN 0306-41287-x (1983).
+8 Derek Pletcher, ' Industrial Electrochemistry' ISBN 0 412 16500 7, University Press, Cambridge.
+9 Peter A. Rock, 'Chemical Thermodynamics', ISBN 0-935701-12-1.

@@ -1,0 +1,52 @@
+1. Introduction
+
+What are key factors for
+reproducibility of excess heat?
+(1) Temperature increment ΔT
+(2) Pre-electrolysis
+
+First run should be the activation
+process.
+This process is intended utilized in
+excess heat reproducibility.
+
+
+2. Experimental setup
+
+2.1. Calorimetric system: Schematic of calorimetry system; Photo of system; Photo of Seebeck
+Envelope Calorimeter
+(SEC)
+
+2.2. Electrolytic Cell: Schematic of Pd|D2O+D2SO4 electrolytic cell
+(φin4.2 ×14 cm2); Photo of cell (φin4.2 ×14 cm2); Photos of Pd #1 (0.25 × 25 × 25 mm2)
+before (left) and after (right) electrolysis.; Photo of Pd|D2O cell in SEC
+
+
+3. Calorimetric Results
+
+3.1. Calibration and contrast
+experiments:
+3.1.1. Calibration using resistance heater;
+3.1.2. Pt|D2O electrolysis;
+3.1.3. dead Pd|D2O electrolysis;
+3.1.4. Pd|H2O electrolysis
+
+3.2. Excess heat from Pd plate:
+3.2.1. Excess powers on pretreatments;
+3.2.2. Excess powers for different samples;
+3.2.3. Excess powers and cell’s resistance:
+(1) R vs. T (no excess heat)
+(2) R vs. T (excess heat)
+R = cell’s resistance,
+T = cell’s temperature.
+
+
+4. Conclusions
+
+(1) Clear evidence of excess heat in Pd|D2O +
+D2SO4 electrolytic system.
+(2) Pre-electrolysis in open cells is an easy way
+to reproduce excess heat in subsequent
+electrolysis in closed cells.
+(3) Cell’s resistances change irreversible with
+cell’s temperature when excess heats appear.

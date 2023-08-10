@@ -1,0 +1,560 @@
+1. Introduction
+
+Migration of hydrogen interstitials in metals and alloys
+has been studied widely in science and technology
+[1–4]. It is well known that a time-lag is necessary for
+a diffusion wavefront to be detected at the downstream
+side of a foil while the hydrogen is charged at the upstream
+side. In 1980s, Lewis et al. found that self-stresses
+produced by hydrogen insertion into metals and alloys
+induce the up-hill diffusion (UHD) at the downstream
+side before the time-lag of the diffusion process [5–17].
+Since then, the self-stress effects of hydrogen in metals
+and alloys have been studied extensively [5–21]. Recently,
+this phenomenon has been interpreted by the
+self-stress theories in thin shells and plates [22–25]. However,
+another anomalous phenomenon of hydrogen
+transport has been found for 35 years, which has not attracted
+much attention and which was misinterpreted in
+past works. It is that the hydrogen pressure inside a tube
+increases (or decreases) almost simultaneously with the
+outer H2 gas pressure increasing (or decreasing) [13–
+17,26], we call it super fast diffusion (SFD); it lasts a very
+short time and appears before the UHD and Fickian diffusion
+waves. However, this phenomenon does not occur
+in processes of electrochemical charging and
+discharging [5–12].
+
+Hickman [26], Lewis and coworkers [13,14] have explained
+the SFD as a result of external stress induced
+by the outer pressure imposed during hydrogen charging
+and it was named as ‘‘mechanically induced memory effects’’.
+Although external stress does exists under gas
+charging, our analysis indicates this effect is too small
+to explain the SFD. On the other hand, the self-stress
+theory for free-plates of metal–hydrogen system has
+presented this effect [27], however, it cannot explain
+other phenomena, e.g., UHD in electrochemical charging,
+the time course of internal pressure change, and
+the acceleration of permeation rate on interruption of
+hydrogen charging [5–12].
+
+In this paper, we will interpret the SFD by a thermokinetic
+model. The reaction energy of hydrogen absorption
+heats up the metallic tube and causes the tube wall
+to desorb hydrogen at the downstream side; therefore
+the pressure inside the tube increases at the beginning
+of hydrogen charging. A similar process exists during
+hydrogen discharging.
+
+
+2. Model
+
+Consider a vertical metallic tube with the bottom
+sealed and the top connected to a glass tube [6,17],
+which is open to a gauge for pressure measurement
+as presented in Fig. 1. Similarly to previous works
+[22,24], we use a one-dimensional model to simulate
+the actual processes, the coordinate z is along the
+thickness direction; the outer and inner surfaces of
+the metallic tube wall (MTW) are at z = 0 and L,
+respectively.
+
+The stress in MTW is [22]:
+Eq. (1), with
+Eq. (2),
+where nH is the atomic ratio of hydrogen to metal (M);
+C0 is the concentration of H in M corresponding to
+nH = 1, C0 = 0.113 mol cm 3 for Pd; VH is the partial
+molar volume of H in M, VH = 1.6 cm3 for fcc metals
+and alloys [28,29]; E and m are Young s modulus and
+Poisson s ratio of the metal, respectively; r is the radius
+of tube; pout and pin are the pressures outside and inside
+the tube, respectively. The first term on the right-handside
+of Eq. (1) is the self-stress produced by hydrogen
+insertion [22]; the second term is caused by the external
+static load (pressure difference here) on thin cylindrical
+shells [30].
+
+The hydrogen diffusion flux for the dilute solid-solution
+phase of H in M has the form [22]:
+Eq. (3), where D0 exp( Ea/RT) = D(T) is the diffusion coefficient
+of H in M at temperature T in K, D0 and Ea are
+the pre-exponential factor and activation energy, respectively,
+and R is the molar gas constant.
+
+Applying the mass balance condition to the flux
+expression of Eq. (3) yields:
+Eq. (4), with boundary conditions:
+Eq. (5), where the input and output fluxes are expressed as:
+Eq. (6) and 
+Eq. (7), respectively. In Eqs. (6) and (7), k is the rate constant of
+the M–H2 reaction: 1
+2 nHH2 þM $ MHnH, DE is the
+activation energy; nH and r take values just below the
+surface (z = 0 or L); subscripts 0 and L are for z = 0
+and L, respectively; subscripts + and   are for reactions
+of hydrogen absorption and desorption, respectively. At
+equilibrium, these two equations are equivalent to:
+Eq. (8), with
+Eq. (9) and
+Eq. (10), where DH is the enthalpy change of the hydrogen
+absorption reaction. Eqs. (6) and (7) are the simplest
+expressions for the M–H2 reaction, steps of H2 molecules
+adsorption and dissociation on the metal surface
+and penetration of H atoms from the surface into the
+bulk are incorporated into a single step. Eq. (8) is the
+isotherm of hydrogen absorption by fcc metals or alloys
+under stress r [4,7,29], bexp( DH/RT) is the Sieverts
+parameter.
+
+The pressure change inside the tube is:
+Eq. (11), where T is the temperature of MTW and gas inside the
+tube; p0 and T0 are initial values of p and T, respectively;
+AM = 2prh is the area of MTW; h is the tube height; Vg
+is the collection volume in which hydrogen gas is sealed.
+
+The energy balance equation of the MTW is:
+Eq. (12), where VM = 2prLh is the volume ofMTW; cM is the specific
+heat of MTW, cM = 2.47 to 2.94 J cm 3 K 1 for Pd,
+Ag and Pt, therefore, cM of their alloys used experimentally
+[13–17] has a value around this range; a is the transfer
+factor of thermal convection; eM is the total
+emittance of metallic tube surface, we choose the value
+of Pt black, eM = 0.91 [31], as that of Pd black coated
+on the surface [13–17]; rS B = 5.67032 · 10 12 W cm 2
+K 4, the Stefan–Boltzmann constant; rG, LG, 2prGLG
+are radius, thickness and cross-section of glass tube wall
+(GTW); jG is the thermal flux in the GTW near the top
+of MTW (x = 0 in Fig. 1).
+
+On the right-hand side of Eq. (12), the first term is the
+heat power produced by exothermic reaction of hydrogen
+absorption; the second one is the heat loss on surface
+by natural convection; the third term is the radiation
+power; the fourth term is the heat loss along the axial
+direction by thermal conduction in the GTW. The isothermal
+assumption within tube is used in Eq. (12) since
+the relaxation time of thermal transport inMTWis much
+less than that in GTW or that of hydrogen diffusion in
+MTW. At the same time, thermostresses in MTW are
+omitted because of the same reason.
+
+The heat transfer factor in Eq. (12) has the form:
+Eq. (13), with
+Eq. (14) and
+Eq. (15), where Nu and Ra are Nusselt and Rayleigh numbers,
+respectively; constants c and n depend on the magnitude
+of Ra [32], c = 1.18, n = 1/8 for 10 2 6 Ra < 104
+and c = 0.54, n = 1/4 for 104 6 Ra < 109, there is no
+value of Ra greater than 109 in this model; g is the
+gravitational acceleration; gg is the absolute viscosity
+of H2 gas; kg is the thermal conductivity of H2 gas;
+qg is the density of H2 gas; cg is the specific heat of
+H2 gas.
+
+For convenience, quantities changing with temperature
+and pressure in Eq. (15) are expressed as reduced
+values relative to those at normal temperature and pressure
+(25  C, 1 atm), thus we have [33]:
+Eq. (16), 
+Eq. (17), 
+Eq. (18), where the quantities with the subscript N indicate the
+values at normal temperature and pressure. The heat
+convection in Eq. (12) can be expressed as
+Eq. (19), with 
+Eq. (20), where qg,N = 8.234 · 10 5 g cm 3, g = 979.75 cm s 2,
+cg = 14.301 J g 1 K 1, hN = 1 cm, gg,N = 8.93 · 106 Pa
+s, kg,N = 1.81 · 10 3 W cm 1 K 1. Therefore,
+Cg = 5.12 · 10 3 W cm 2 K 1 for 10 2 6 Ra < 104 and
+Cg = 5.62 · 10 3 W cm 2 K 1 for 104 6 Ra < 109. Combining
+Eqs. (15)–(18) and above quantities, we have:
+Eq. (21) for H2 gas.
+
+The energy balance equation in GTW is
+Eq. (22), with boundary conditions:
+Eq. (23), where x is the coordinate along the axial direction as
+shown in Fig. 1; aG = 3.4 · 10 3 cm2 s 1 and cG = 2.2 J cm 3 K 1 are the thermal diffusion coefficient and specific
+heat of glass, respectively. a(T   T0) corresponds to
+the thermal convection around GTW same as that in
+Eqs. (12) and (19); the third term corresponds to the
+radiation; eG = 0.94 is the total emittance of glass [31].
+
+The initial condition is the homogenous distribution
+of hydrogen concentration in MTW, equilibrium of
+hydrogen chemical potential is reached between the solid
+and gas phases before the initial time (t = 0), when
+the external hydrogen pressure changes from p0 to p1
+as presented in Fig. 1:
+Eq. (24), where nH,0 corresponds to p0 and T0 according to
+Eq. (8).
+
+For comparison, we also discuss the situation of
+electrochemical charging. The internal stresses and
+boundary conditions are the same as before, the M–H2
+surface process is replaced by the Pd–H electrode reaction
+as treated earlier [22,24,34]; the only emphasized
+point here is that the heat convection in Eqs. (12) and
+(22) being replaced by
+Eq. (25), with 
+Eq. (26), where qw = 1 g cm 3, cw = 4.181 J g 1 K 1,
+gw = 8.554 · 10 4 Pa s and kw = 6.104 · 10 3 W cm 1
+K 1 at room temperature. Therefore, Cw = 7.62 · 10 2
+W cm 2 K 1 for 10 2 6 Ra < 104 and Cw = 0.369 W
+cm 2 K 1 for 104 6 Ra < 109. The corresponding Rayleigh
+number is:
+Eq. (27) for H2O.
+
+In this work, we present results of a numerical procedure
+reported earlier [34], where the various differential
+equations are solved by a finite difference method. In the
+calculation, the time step is 10 4 and the space step is
+10 2, the precision is 104.
+
+
+3. Results
+
+An example of hydrogen gas charging process is
+shown in Fig. 2. The initial and applied H2 pressures
+correspond to nH = 0.145 and 0.545 at room temperature,
+respectively; dimensions of MTW are taken from
+[13–17]. From Fig. 2(a), we find that the internal pressure
+changes simultaneously with outer pressure applied
+and it increases firstly up to a maximum value then decreases
+to a minimum less than the initial pressure because
+of UHD, finally the internal pressure rise
+monotonically. This physical picture is the same as
+found experimentally [13–17].
+
+There are three factors, the heat production and
+loss, the self-stress and the concentration gradient of
+H in M, competing and inducing the complicated
+behavior of the pressure change. At the start, the
+MTW absorbs hydrogen at upstream; this exothermic
+reaction heats up the MTW as shown in Fig. 2(d).
+The heated MTW desorbs hydrogen at downstream
+in a very short initial time as illustrated in the insert
+in Fig. 2(b). The temperature increase and output flux
+together modify the internal pressure as indicated in
+Eq. (11). For the maximum value of pressure change
+in Fig. 2(a), contributions from temperature increment
+and hydrogen desorption are 17% and 83%, respectively.
+After some time, the heat dissipation exceeds
+the heat production and the tube temperature begins
+to decrease as presented in Fig. 2(c) and (d).
+
+When the temperature increases slowly, the self-stress
+effect dominates the kinetics of hydrogen transport. The
+MTWabsorbs hydrogen through its inner surface as discussed
+previously [22], therefore the direction of Jex
+changes and the internal pressure decreases as shown
+in Fig. 2(b) and (a), respectively. After an enough long
+time, the flux wavefront of hydrogen interstitials reaches
+the downstream, Fickian behavior dominates the transport
+kinetics and the pressure increase monotonically
+(see Fig. 2(a) and (b)).
+
+Fig. 2(c) shows the heat dissipation and shares of different
+contributions, the heat dissipation is proportional
+to the temperature difference between the tube and environment
+as expected. Although contributions from convection,
+radiation and conduction vary with time in the
+overall process, they approach stable values of 53%,
+41% and 6% of the overall heat dissipation, respectively,
+after a short initial time. These results also indicate that
+the length of the glass tube does not affect the qualitative
+characteristics of pressure change because the thermal
+diffusion coefficient of glass is a negligible value.
+
+Fig. 3 shows effects of initial and applied pressures on
+SFD, it is found that the maximum amplitude of Dp/p0
+in SFD decreases with p0 while p1 is fixed (see
+Fig. 3(a)) because the corresponding hydrogen content
+step on the outer surface decreases; however, the absolute
+change of maximum Dp in SFD, Dpmax, has the
+maximum value at p0 = 30.4 Torr as shown in the insert
+in Fig. 3(a) and Dpmax may increase or decrease with p0
+in different ranges of initial pressure as observed experimentally
+[15]. The amplitude of Dp/p0 in SFD increases
+with rising of p1 because the hydrogen content rises on
+the outer surface as illustrated in Fig. 3(b) and demonstrated
+experimentally [14].
+
+Fig. 2. An example of hydrogen gas absorption into a metallic tube: (a) Pressure change inside tube; (b) the output flux at downstream side; (c) the
+heat production and dissipation, and parts of different contributions to heat dissipation; (d) temperature change of the metallic tube. The parameters
+are: r = 0.4 cm, L = 0.04 cm, h = 7 cm; Vg = 23 cm3, p0 = 2 Torr, p1 = 100 Torr, T0 = 298.15 K; D0 = 1.5 · 10 3 cm2 s 1, Ea = 22 kJ mol 1,
+2V 2
+HEC0=3ð1   mÞ ¼ 50 kJ mol 1; DE0,+ = DEL,+ = 25 kJ mol 1, DE0,  = DEL,  = 75 kJ mol 1; k0,+ = 1 mol cm 2 s 1 torr 1,kL,+ = 1 mol cm 2 s 1
+Torr 1, b = 5 · 10 6 Torr 1/2, k0,  and kL,  are deduced from Eq. (9); cM = 2.7 J cm 3 K 1; aG = 3.4 · 10 3 cm2 s 1, cG = 2.2 Jcm 3 K 1; rGLG/
+rL = 2, hG = 15 cm.
+
+Fig. 4 shows effects of various parameters on the
+SFD and UHD. Firstly, we discuss influences of the
+heat transfer factor in natural convection. Because
+Eq. (19) is only suitable for a vertical tube with infinite
+length, it is applied here by using l/r = 17.5. We change
+the value of Cg in Eq. (19) two times, i.e., the value of
+Cg is 1/2 or 2 times of that in Eq. (20). It is found that
+the qualitative characteristics are the same as Fig. 2(a)
+because the convection is only a part of heat dissipation
+as demonstrated in Fig. 2(c). The only difference
+is the magnitude of SFD and UHD, this means that
+a strong convection suppresses the SFD and enhances
+the UHD.
+
+Fig. 4(b) shows influences of the rate constant of the
+outer surface reaction on the SFD and UHD. Low values
+of the rate constant, which correspond to deactivated
+outer surfaces of MTW, reduce the absorption
+rate, changes of temperature and hydrogen concentration
+in MTW remarkably. Therefore, effects of SFD
+and UHD are not prominent. This conclusion is consistent
+with experimental results, i.e., the SFD and UHD
+only appear when sample surfaces are catalytically activated
+by electrodeposition of palladium black [14]; otherwise,
+it is difficult to observe both effects if the surface
+is deactivated by immersions of sample in a solution of
+I2 in KI [14].
+
+Fig. 4(c) shows effects of the hydrogen diffusion coefficient
+on the SFD and UHD. For large diffusion coefficients,
+we find that the SFD is prominent and the UHD
+may be concealed by the SFD as was shown by experimental
+results [26]. Otherwise, the SFD disappears and
+UHD is prominent while hydrogen diffusion coefficient
+decreases due to the reaction heat has enough time to
+dissipate.
+
+Influences of the MTW thickness are similar to that
+of the diffusion coefficient as shown in Fig. 4(d). For a
+thin tube wall, the temperature rises drastically and
+the UHD is concealed by the SFD; therefore, only tubes
+with suitable thickness may exhibit both SFD and UHD
+clearly.
+
+Fig. 5 shows a trivial situation with initially hydrogen-
+free wall (nH,0 = 0). We find that both SFD and
+UHD phenomena all vanish as observed experimentally
+[17], the only difference is that the diffusion is faster for
+practical situation than the isothermal assumption.
+
+In experiments, the SFD only appears in gas charging
+processes and it has not yet been observed during electrochemical
+charging [5–12]. To compare these two situations,
+we simulate the electrochemical charging in Fig. 6
+with the electrochemical reaction and boundary conditions
+as discussed earlier [34].We find that the maximum
+increment of temperature, DT/T0 = 4.73 · 10 3 is much
+less than 3.57 · 10 2 in Fig. 2(d) by 7.5 times for the reason
+that the heat loss is much faster for water than
+hydrogen gas. Of course, there is a very small increment
+of pressure, Dp/p0 = 2.75 · 10 3 after short time, D(T0)t/
+L2 = 9.31 · 10 5 as shown in the insert in Fig. 6 and this
+small SFD is generally neglected experimentally. Therefore,
+only the UHD effect is prominent in electrochemical
+charging experiments [5–12] and the SFD effect is
+notable in gas charging processes [13–17].
+
+Comparing Fig. 2(a) with Fig. 6, we find that the
+hydrogen transport is generally faster in gas charging
+than in electrochemical charging because of temperature
+increasing. Similar difference occurs between the nonisothermal
+and isothermal situations in Fig. 5. These results
+mean that measured diffusion coefficients may be
+greater than the actual one in charging process. It is also
+indicated that the induced hydrogen concentration step
+must be small enough in diffusion coefficient measurements
+so that the heat release and self-stress effect are
+not prominent; otherwise, the isothermal assumption is
+not always satisfied.
+
+The SFD has been associated with the net pressure
+difference across the MTW [13,14,26]. To simulate this
+effect, we consider an additional 100 Torr pressure of inert
+gas (e.g., argon gas in [14]) being applied to the outer
+surface of tube with initial H2 pressure of 2 Torr. It is
+found that the MTW desorbs hydrogen and the internal
+pressure increases under the external compressive stress
+as expected, however, the maximum Dp/p0 is much smaller
+than that in Fig. 2(a) by three orders of magnitude
+and cannot match experimental results in [13–17]. Besides
+the external-stress, another factor is the pure
+mechanical effect, i.e., an external pressure makes the
+MTW shrink and the internal volume Vg decrease, and
+then the internal pressure increases. However, the maximum
+amplitude of pressure change is less than that in
+Fig. 2(a) by six orders of magnitude and this effect has
+been verified experimentally using argon gas [14].
+
+We also find that the SFD occurs in the hydrogen
+desorption process as observed experimentally [13–17].
+The physical picture is similar to that in charging processes
+and it will not be discussed in detail.
+
+
+4. Comparison with experimental results
+
+In order to test the validity of the present treatment,
+we compare the theoretical results with experimental
+data. There is much evidence indicating the existence
+of SFD [13–17,26], we chose one that has enough data
+for our analysis as is plotted in Fig. 7. In this figure,
+we use a simpler model than that in the above section,
+the last term on the right-hand-side of Eq. (12) is removed
+because GTWs contribution to heat loss is small
+as shown in Fig. 2(c); and the heat transfer factor in
+Eq. (12) takes a fixed value but not the form of Eq. (19) for convenience of comparison. We find that
+the numerical results give good agreement with the
+experimental data [14]. Because our model is a more
+simplified one, many complicated factors are omitted;
+therefore this comparison is only a guide to the eye
+rather than based on the strict thermodynamic and kinetic
+parameters measured experimentally.
+
+Fig. 5. Effect of heat production on hydrogen diffusion with initial
+condition of zero hydrogen content in the tube wall, the dash curve is
+the result under the isothermal assumption. The parameters are the
+same as those in Fig. 2 except the initial pressure of p0 = 0 Torr.
+
+Fig. 6. An example of hydrogen absorption into a metallic tube during
+electrochemical hydrogen charging under potentiostatic condition. The
+parameters are the same as those in Fig. 2 except the convection heat
+loss through H2 being replaced by that of H2O. For comparison, the
+initial and applied electrode potentials induce the same nH values as
+those of p0 and p1 in Fig. 2, respectively.
+
+Of course, the present conclusion can be verified
+experimentally by measurement of temperature of
+MTW during hydrogen charging and/or discharging
+processes. We hope our results can stimulate the interest
+on this subject.
+
+
+5. Discussion
+
+For convenience, we deal with the heat dissipation
+using a simplified form of Eq. (12). The term of heat
+convection is only suitable for the steady state temperature
+profile. For the non-steady state, heat convection
+equations include temperatures of tube and environment,
+distributions of density and velocity of gas, and
+transports of mass and energy in the laminar area.
+Although the results may differ quantitatively from here,
+the physical picture should be the same as in this work.
+
+For simplicity, our treatment is focused on the elastic
+situation and the plastic deformation being accompanied
+with large change of hydrogen concentration is
+omitted. The plastic strain will affect the distribution,
+concentration and transport of H in M and other properties.
+We will discuss it in a forthcoming paper.
+
+We only consider the ideal solid-solution of H in M,
+the interaction between hydrogen atoms in metals and
+alloys, which causes the enthalpy DH changing with
+nH and emerging of a hydride phase, is neglected. This
+non-ideality will lead to amplitudes of pressure change
+and time interval being modified, however, the qualitative
+characteristics of pressure change should be the
+same as here.
+
+Finally, although the present model is simple, it provides
+the appropriate physical picture of hydrogen
+transport in metals and alloys. At the same time, the
+present treatment could be extended to other interstitials
+in solid samples, e.g., lithium in Li-ion batteries, small
+atoms and molecules in polymers, etc. Of course, effects
+of enthalpy change and self-stress on other interstitial
+transports depend on specific situations and must be
+dealt with specifically.
+
+
+6. Conclusion
+
+Our model indicates that the pressure change during
+hydrogen gas diffusion into a tube is a nonequilibrium
+phenomenon induced by a combination of a chemical
+reaction, self-stress, heat and mass transports. These
+factors interact with each other and exhibit the super
+fast diffusion and up-hill diffusion before the emergence
+of Fickian diffusion. Appearances of super fast diffusion
+or up-hill diffusion depend on some parameters, e.g. the
+tube wall thickness, the surface activity, diffusion coefficient
+of hydrogen in metals and heat transport parameters;
+only appropriate parameter windows can exhibit all
+of these phenomena simultaneously. Our results also
+indicate that the isothermal assumption in the transport
+experiments is not appropriate unconditionally.
+
+
+References
+
+[1] Richter D, Hempelman R, Bowman Jr RC. Dynamics of
+hydrogen in intermetallic hydrides. In: Schlapbach L, editor.
+Hydrogen in intermetallic compounds II, surface and dynamics
+properties, applications. Topics in applied physics, vol. 67. Berlin:
+Springer; 1992 [chapter 3].
+[2] Wipf H, editor. Hydrogen in metals III, properties and applications.
+Topics in applied physics, vol. 73. Berlin: Springer; 1997.
+[chapters 2 and 3].
+[3] Fukai Y. The metal–hydrogen system: basic bulk properties. Berlin:
+Springer; 1993 [chapter 5].
+[4] Kirchheim R. Prog Mater Sci 1988;32:261. p. 261.
+[5] Lewis FA, Magennis JP, McKee SG, Seebuwufu PJM. Nature
+1983;306:673.
+[6] Lewis FA, Tong XQ, Kandasamy K. Int J Hydrogen Energy
+1993;18:481.
+[7] Baranowski B. J Less-Common Met 1989;154:329.
+[8] Sakamoto Y, Tong XQ, Lewis FA. Scripta Metall Mater
+1991;25:1629.
+[9] Kandasamy K, Lewis FA, Magennis JP, McKee SG, Tong XQ. Z
+Phys Chem NF 1991;171:213.
+[10] Tong XQ, Kandasamy K, Lewis FA. Scripta Metall 1990;24:1923.
+[11] Tong XQ, Bucur RV, Kandasamy K, Lewis FA. Z Phys Chem
+NF 1993;181:225.
+[12] Tong XQ, Lewis FA. Int J Hydrogen Energy 1995;20:641.
+[13] Lewis FA, Baranowski B, Kandasamy K. J Less-Common Met
+1987;134:L27.
+[14] Tong XQ, Lewis FA. J Less-Common Met 1991;169:157.
+[15] Tong XQ, McNicholl R-A, Kandasamy K, Lewis FA. Int J
+Hydrogen Energy 1992;17:777.
+[16] Kandasamy K, Tong XQ, Lewis FA. J Phys Conden Mater
+1992;4:L439.
+[17] Dudek D, Baranowski B. Polish J Chem 1995;69:1196.
+[18] De Ninno A, Violante V, La Barbera A. Phys Rev B
+1997;56:2417.
+[19] Legawiec B, Zoltowski P. J Phys Chem B 2002;106:4933.
+[20] Zhang WS, Zhang XW, Zhang ZL. Phys Rev B 2000;62:8884.
+[21] Zhang WS, Zhang XW, Zhang ZL. J Alloys Compd 2000;
+302:258.
+[22] Zhang WS, Zhang ZL, Zhang XW. J Alloys Compd
+2002;336:170.
+[23] Zhang WS, Zhang ZL, Zhang XW. J Alloys Compd
+2002;346:176.
+[24] Zhang WS. J Alloys Compd 2003;356–357:314.
+[25] Adrover A, Giona M, Capobianco L, Tripodi P, Violante V. Int J
+Hydrogen Energy 2003;28:1279.
+[26] Hickman RG. J Less-Common Met 1969;19:369.
+[27] Baranowski B. Diffusion in elastic media with stress fields. In:
+Sieniutycz S, Salaman P, editors. Advances in thermodynamics
+flow diffusion and processes, vol. 6. New York: Taylor Francis;
+1992. p. 168.
+[28] Baranowski B, Majchrzak S, Flanagan TB. J Phys F Met Phys
+1971;1:258.
+[29] Kirchheim R. Acta Metall 1986;34:37.
+[30] Timoshenko S. Strength of materials: part II advanced theory and
+problems. 3rd ed. Princeton, NJ: D. Van Nostrand Company
+Inc; 1956. p. 125.
+[31] Eckert ERG, Drake RM. Analysis of heat and mass transfer.
+Columbus, OH: McGraw-Hill; 1972 [chapter 15].
+[32] Kutateladze SS. Analysis of similarity in thermo-physics. Novosibirsk
+USSR: Science Publishers Siberian Division; 1982 [chapter
+4 (in Russian)].
+[33] Assael MJ, Mixafendi S, Wakeham WA. J Phys Chem Ref Data
+1986;15:1315. p. 1315.
+[34] Zhang WS, Zhang ZL, Zhang XW. J Electroanal Chem
+1999;474:130.
+
+
+
+

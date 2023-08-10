@@ -1,0 +1,150 @@
+1. Introduction
+
+In 1989, Fleischmann and Pons reported anomalous excess heat in the electrolytic system of LiOD heavy water solution
+with a Pd cathode [1]. Since then, for more than 30 years, many researchers around the world have focused on this
+system [2]−[5]. Recently, our lab explored excess heat in a Pd-LiOD+D2O open system, similar to that used by
+Fleischmann-Pons [1] and Miles [2], with Seebeck envelope calorimetry. During open electrolysis, it was found
+that the LiOD concentration decreased, while the cell voltage increased with time in the constant current mode. To
+quickly determine the LiOD concentration, and to understand the electric and thermal behaviors of electrochemical
+cells, the electrolyte conductivities of LiOD heavy water solutions under different concentrations and temperatures
+must be obtained first. However, there was only data of 0.1 mol·L
+1 LiOD solution, from 1990 [7]. In this paper, the
+conductivities of LiOD heavy water solution at various concentrations and temperature are measured. At the same
+time, the molar conductivities are also given. We hope these data can support future works on the Pd-LiOD+D2O
+electrolytic system.
+
+
+2. Experimental
+
+The LiOD heavy water solution is made before conductivity measurements. The method is as follows. First, weigh
+0.14524 g Li2O powder (Alfa, 99.5%, Order #41832; Lot #S23G011) with balance (Mettler Toledo XPR205R. max.
+220 g, d = 0.01 mg) and put it into a 5 mL beaker, then add heavy water (J&K, 99.8 at.%D, Order #261750; Lot
+#L240U16) and ultrasonically mix for 10 minutes to ensure that Li2O is completely dissolved. Finally, transfer the
+solution from the beaker to a volumetric flask with capacity of 10 ± 0.02 mL at 20◦C and add heavy water to the
+graduation line. After these procedures, we get 0.9721 mol·L−1 LiOD heavy water solution. Solutions of 0.07279, 0.1126, 0.1215, 0.2411 and 0.4867 mol·L−1 are obtained by diluting the 0.9721 mol·L −1 LiOD solution. The solution
+of 0.1126 mol·L−1 is further diluted to that of 0.01409, 0.02816 and 0.05630 mol·L−1, respectively. In the end, nine
+different concentrations of LiOD heavy water solutions are obtained.
+
+Each solution is placed in a centrifuge tube, which is immersed in a water bath (PolyScience AP15R-30-A12E)
+with temperature stability of ± 0.005◦C. The conductivity of the solution is directly measured by Mettler Toledo S230
+conductivity meter equipped with InLab®731-ISM using a 4-ring graphite electrode. Its measurement range is 0.01
+to 1,000 mS·cm−1 at temperature of 0 ∼ 100◦C (The unit of conductance is S (Siemens), which is the inverse of Ω
+(Ohm), i.e., 1 S = 1 Ω−1).
+
+The measurement is started at 10◦C and heated at a rate of 1◦C per minute, then the temperature is kept at a
+constant value for 25 minutes at 10, 20, 30, 40, 50, 60 and 70◦C, respectively, as shown in Fig. 1. The conductivity
+meter is set to measure every 5 minutes and it automatically saves the data.
+
+Before the formal measurement, the conductivity meter was calibrated with a conductivity standard solution of 111.3 mS·cm−1 at 25◦C (Shanghai Inesa Scientific Instrument Co., Ltd, Order #624101; Lot #9028N002102F00023).
+
+Table 2. Conductivities (κ/mS·cm−1) and activation energies (Ea) of LiOD heavy water solution at different temperatures and concentrations
+
+Then we measured another standard solution with conductivity of 12.88 mS·cm−1 ± 1.5% at 25◦C (Mettler Toledo
+InLab® Solutions, Order #51350094; Lot #1F325A). The result was 13.28 ± 0.01 mS·cm−1
+at 25◦C and it is consistent
+with the standard value within 3.1%.
+
+At the same time, we made a LiOH aqueous solution by mixing Li2O and H2O and measured conductivities
+at two different LiOH concentrations at 25◦C as shown in Table 1. We found that our results are consistent with
+the interpolated values based on data in [8] within 6.5%. This means our measurement method is reliable and the
+sample preparation of LiOD heavy water solution using Li2O instead of lithium metal as in [2]−[7] is not a problem.
+However, conductivities of 0.1 and 0.5 mol·L−1 LiOH aqueous solution measured by Ritley et al. [7] are 34% and 8%,
+respectively, less than the accepted values in [8]. Therefore, their results of the LiOD heavy water solution are only for
+reference here.
+
+
+3. Results
+
+3.1. Conductivity: The conductivities κ of LiOD heavy water solution at different temperatures T and concentrations c are listed in Table 2
+and shown in Fig. 2.
+
+Although the linearity is not obvious on the logarithmic scale, it can be observed from Fig. 2(a) that the electrical
+conductivity increases linearly with increasing temperature at a constant concentration as described by:
+κ = a0 + a1T
+
+In addition, we find that a quadratic function can be used to express the relationship between conductivity and LiOD
+concentration at a constant temperature as shown in Fig. 2(b) and described by:
+κ = b1c + b2c2
+
+Considering the simultaneous influences of temperature and concentration, the relationship between these three parameters can be expressed as:
+κ = d1c + d2c2+d3cT + d4c2T
+
+where d1, d2, d3 and d4 are constants. A program is used for fitting the data listed in Table 2 and we obtain the
+expression:
+κ = 60.56c − 14.25c2 + 2.514cT − 0.5459c2T
+with T in ◦C, R2 = 0.9997 and RMSE = 0.7193. The fitting results are shown in Fig. 3, where X, Y and Z axes refer
+to the LiOD concentration (mol·L−1), temperature (◦C) and conductivity (mS·cm−1), respectively.
+
+At 25◦C, Eq. (4) can be simplified to: κ = 123.41c − 27.90c2.
+The conductivity of 0.1 mol·L−1 LiOD heavy water solution at 25◦C is 12.08 mS·cm−1. It is ∼ 40% lower than the
+conductivity of LiOH aqueous solution at the same alkali concentration as listed in Table 1. On the other hand, this
+value is 37% higher than 8.8 mS·cm−1in [7]. Because their conductivity at 0.1 mol·L−1 LiOH aqueous solution is
+34% less than the accepted value in [8], this means their results have prominent negative shifts both for LiOH+H2O
+and LiOD+D2O solutions.
+
+The LiOD concentration can be determined from conductivity based on Eq. (5) at 25◦C:
+c = 8.1031×10−3κ + 1.484×10−5κ2.
+This equation can be used to calculate the LiOD concentration from conductivity data in experiments. In crude
+estimation, the first term is sufficient for dilute solutions.
+
+On the other hand, the increase of electric conductivity of LiOD+D2O solution with temperature can be described
+by the Arrhenius law [9], whose logarithmic form is:
+lnκ = lnκ0 − Ea/RT,
+where κ0 is the pre-exponential factor, Ea, the activation energy, R, the universal gas constant and T, the absolute
+temperature in K. Fig. 4. shows the experimental data and the fit of Eq. (7) at 0.02816 mol·L−1. The slope of line
+enables the determination of activation energy, 13.863 kJ·mol−1. As listed in the last column of Table 2, Ea = 13.2 ∼
+13.6 kJ·mol−1 while c = 0.01409 ∼ 0.9721 mol·L−1, which are greater than the estimated value of 12.6 kJ·mol−1 for LiOH aqueous solution in [9].
+
+3.2. Molar Conductivity:
+Molar conductivity Λ refers to the electrical conductivity of a solution of different concentrations converted to unit
+molar concentration:
+Λ = κ/c
+
+Table 3 lists the calculated molar conductivity at different temperatures and concentrations based on data in Table 2.
+
+The limiting molar conductivity (Λ0) is defined as the molar conductivity of a solution at infinite dilution. The
+molar conductivity of a strong electrolyte solution has a linear relationship with the square root of the concentration
+[10] is: Λ = Λ0 − β√c. where β is constant in S·cm2·L1/2·mol−3/2. Λ0 can be obtained by extrapolation to infinite dilution as shown in Fig. 5.
+The limiting molar conductivities Λ0 and slopes k obtained from these curves are listed in Table 4.
+
+It can be seen from Fig. 5 and Table 4 that with the increase of temperature, the limiting molar conductivity and
+the slope of the fitting increase at the same time.
+
+
+4. Summary
+
+We measured the conductivity of LiOD heavy water solution at temperatures of 10 ∼ 70◦C and concentrations of
+0.01409 ∼ 0.9721 mol·L−1, and obtained a quadratic relationship among the conductivity, the temperature, and the
+concentration. The LiOD concentration can be calculated by equations we obtained using temperature and conductivity. This provides a method for understanding the properties of the Pd-LiOD+D2O solution in electrolysis experiments.
+
+
+References
+
+[1] M. Fleischmann, S. Pons and M. Hawkins, Electrochemically induced nuclear fusion of deuterium, J. Electroanal. Chem. 261
+(1989) 301−308 and errata in 263, 187.
+[2] M.H. Miles, R.A. Hollins, B.F. Bush, J.J. Lagowski, and R.E. Miles, Correlation of excess power and helium production
+during D2O and H2O electrolysis using palladium cathodes, J. Electroanal. Chem. 346 (1993) 99−117.
+[3] M.C.H. McKubre, S. Crouch-Baker, A.M. Riley, S.I. Smedley and F.L. Tanzella, Excess power observations in electrochemical studies of the D/Pd system; the influence of loading. Proc. ICCF3. Nagoya, Japan, Oct. 21–25, 1992, pp. 5−20.
+[4] E. Storms, C. Talcott. Electrolytic tritium production, Fusion Tech. 17 (1990) 680−695.
+[5] F. Celani, A. Spallone, P. Tripodi and A. Nuvoli. Measurements of excess heat and tritium during self-biased pulsed electrolysis of Pd-D2O. Proc. ICCF3. Nagoya, Japan, Oct. 21–25, 1992, pp. 93−105.
+[6] M.H. Miles, H.D. Arman, J.D. Carrick, C.K. Gren, K.A. Haggerty, H.Y. Kim, A.G. Ky, J.E. Markham, C.F. Meeks and
+D.E. Noga. The elevation of boiling points in H2O and D2O electrolytes. Proc. ICCF9, Beijing, China, May 19−24, 2002,
+pp. 246−249.
+[7] K.A. Ritley, P.M. Dull, M.H. Weber, M. Carroll, J.J. Hurst and K.G. Lynn. The behavior of electrochemical cell resistance; a
+possible application to cold fusion experiments, Fusion Tech. 17 (1990) 699−703.
+[8] L.S. Darken and H.F. Meier, Conductances of aqueous solutions of the hydroxides of lithium, sodium and potassium at 25◦
+,
+J. Am. Chem. Soc. 64 (1942) 621−623.
+[9] D.N. Bennion, E.L. Littaue, Mathematical-model of a lithium-water electrochemical power cell, J. Electrochem. Soc. 123
+(1976) 1462−1469.
+[10] C. H. Hamann, A. Hamnett, W. Vielstich. Electrochemistry, 2nd, completely revised and updated edition(2007). John Wiley
+& Sons
+
+
+
+
+
+
+
+
+

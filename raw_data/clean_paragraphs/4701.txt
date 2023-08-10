@@ -1,0 +1,555 @@
+1. Introduction
+
+Since the discovery of the up-hill di'usion (UHD) e'ect
+in hydrogen permeable metals by Lewis et al. [1], there
+has been much theoretical work concentrated on the aspects
+of stresses induced by the hydrogen (interstitials) di'usion
+in metals (solids) [2–8]. However, the appropriate physical
+pictures of self-stress e'ects in practical shapes of material
+have only been given recently [9–12].
+
+In earlier works, we presented models describing
+self-stresses and related e'ects produced by hydrogen interstitials
+in thin shells and circular plates [9–11]. The
+UHD phenomena, the time courses of pressure change in a
+tube during hydrogen absorption and interruption of steady
+di'usion [1,2,13–24] were demonstrated and interpreted
+by these theories. Besides these phenomena, it has been
+found that self-stresses lead to changes of apparent di'usion
+coe6cient (ADC) if traditional relations are applied in experiments
+[1,2,13–26]. This is one of the reasons that ADCs
+of H in metal (alloy) hydrides di'er from one work to another.
+Because self-stresses are produced by the nonhomogeneous
+concentration distribution of hydrogen in metals and
+this is a necessary condition for di'usivity measurement, so
+self-stresses must a'ect di'usion processes, hence the di'usivity
+measurements. Therefore, it is important to diminish
+or subtract this e'ect in experiments. On the other hand, effects
+of self-stress on the transport of hydrogen in metals
+(alloys) are an important problem in corrosion kinetics, hydrogen
+storage and other related problems. All these issues
+form the academic and technological backgrounds of the
+present subject; we will discuss it using numerical methods
+based on the model established earlier [9–11].
+
+
+2. Model
+
+Similar to the previous paper [9], the chemical potential
+of hydrogen interstitials in a metallic lattice (M) under a
+stress   for a dilute solid solution can be expressed as
+Eq. (1) where  0H
+denotes the chemical potential of hydrogen under
+the reference state; nH is the atomic ratio of hydrogen
+to metal; and VH is the partial molar volume of H in M.
+Referring to Baranowski et al. [27] and Fukai [28], VH =
+1:7 cm3 mol−1 for fcc metals and alloys while nH¡0:75.
+
+Considering hydrogen di'usion across a thin tubular
+membrane, the induced stress for homogeneous materials
+is [9] Eq. (2) with the average H atomic ratio Eq. (3) 
+where E is the Young’s modulus, E=100–200 GPa;   is the
+Poisson’s ratio,  =0:3–0.4; C0 is the concentration of H in
+M corresponding to nH =1, C0 =0:1–0:15 mol H cm−3 for
+materials used experimentally [1,2,13–26]; L is the membrane
+thickness; z is the coordinate along the thickness direction,
+the upstream side is z = 0 (outer surface) and the
+downstream side is z=L (inner surface). The hydrogen 9ux
+has the form Eq. (4) with Eq. (5)
+where D0 is the stress-free di'usion coe6cient (SFDC) of
+H in M; u  is the self-stress factor and is a dimensionless
+material constant, u  =13–33 at room temperature utilizing
+the aforementioned parameters. Applying the mass balance
+condition to the 9ux expression, one gives
+Eq. (6).
+
+In this report, we discuss mainly the absorption process.
+The initial condition is the homogeneous distribution of hydrogen
+with concentration nH;0 in the tube wall and the equilibrium
+of hydrogen chemical potential approaches between
+the solid and gas phases in the tube:
+Eq. (7)
+where  H2;0 is the initial value of the chemical potential of
+H2 gas.
+
+The boundary conditions depend on the experimental
+technique applied. For the gas/membrane/gas situation, i.e.
+only the gas and solid phases are involved [17–22], the
+boundary condition at the outer surface is [2]:
+Eq. (8)
+where n∗
+H is the H/M ratio under the stress-free condition,
+ H2 is the chemical potential of the external H2 gas. We name
+this situation as the chemopotential-step 1 and it is equivalent
+to the Prst boundary condition (concentration-step) in
+the stress-free case. It corresponds to pressure step and potentiostatic
+charging for the gas phase and electrochemical
+hydrogen absorption, respectively.
+
+In the discussions below, we suppose that the inner volume
+of the tube is large enough that the chemical potential
+of hydrogen at the downstream side almost does not change:
+Eq. (9)
+
+Of course, this isobaric assumption di'ers from the isometric
+condition in experiments. However, we must conPne
+our discussion to this ideal situation; otherwise, the di'used
+9ux, boundary condition and other kinetic parameters will
+depend on the tube volume if it is small.
+
+In the electrolyte/membrane/gas situation, i.e. the outer
+surface of the tube is in contact with an aqueous solution,
+there are two extreme boundary conditions depending on the
+manner of hydrogen charging in experiments. For the potentiostatic
+charging, the chemopotential-step condition of Eq.
+(8) is appropriate with  H2 =2 being replaced by the chemical
+potential of hydrogen adsorbed on the outer surface. For the
+galvanostatic charging as used experimentally [1,2,13–16],
+the corresponding boundary condition is
+Eq. (10)
+where J0 is the applied charging current density. The boundary
+condition at z = L is the same as Eq. (9) for all these
+situations.
+
+The amount of hydrogen di'used across the tube wall and
+collected at the downstream side can be measured by the
+pressure change in the tube:
+Eq. (11)
+where Jex = J (L; t) is the di'used 9ux at the exit side, p0
+is the initial hydrogen pressure, A is the area of tube wall
+involved in the di'usion process, V is the volume into which
+the di'used hydrogen is collected and the other parameters
+have their usual meanings.
+
+For the purpose of analytical and numerical treatments,
+further analysis is carried out in terms of dimensionless variables
+and equations. Introducing of the following symbols:
+Eq. (12),
+Eq. (13) and
+Eq. (14).
+Eqs. (4) and (6) simplify to
+Eq. (15) and
+Eq. (16), respectively. Using Eqs. (1) and (2), Eq. (8) is expressed as
+Eq. (17). Eq. (10) is transferred to
+Eq. (18) where j0 = LJ0=D0C0. The quantity of di'used hydrogen
+across the tube wall is expressed by
+Eq. (19) with jex = j(1;  ). Thus, Eq. (11) simpliPes to
+Eq. (20).
+
+Generally, there are four principal time characteristics to
+determine the di'usion coe6cient under stress-free conditions
+in experiments as shown in Table 1 [29–32]. The well
+known is the time-lag  L which is dePned as the intercept
+of Q on the  -axis while the di'usion time is long enough
+and the permeation 9ux approaches the steady value j∞.
+Another is the half-rise time  1=2 at which the permeation
+9ux reaches half the value of the steady state. The other two
+characteristic values, the in9ection-point and break-through
+times, depend on the in9ection of current (d2jex=d 2 = 0)
+and its tangent with time, their values under stress-free conditions
+are shown in Table 1 as well.
+
+In self-stress cases, the concepts of  L and  1=2 are valid
+as shown in Fig. 1, but their values di'er from those in
+Table 1. Hence, a value of ADC obtained from Table 1
+generally di'ers from the SFDC (D0). In experiments,
+the applicability of time characteristics is determined by
+the techniques employed. For gas/membrane/gas and electrolyte/
+membrane/gas situations,  L is easily acquired by
+the measurement of pressure change; therefore, the time-lag
+method has been used widely [1,2,13–24]. If an electrolyte
+
+is introduced in the tube [16],  L can be estimated from
+the potential change and  1=2 can be evaluated from the anodic
+current, which re9ects the di'used 9ux. ADCs determined
+by the time-lag and half-rise methods are dePned
+as
+Eq. (21), 
+Eq. (22) respectively.
+
+On the other hand, although the in9ection-point still exists
+in self-stress experiments, it will induce negative values
+of ADC using the traditional dePnition in Table 1 as
+shown in Fig. 1. Therefore, we do not discuss  i and  b
+afterwards.
+
+In this work, we give only the numerical results based on
+Eqs. (15)–(19) and using the frame reported earlier [33].
+In the calculation, the time step is 10−6 and the space step
+is 10−2, and the precision is 10−4. The time-lag under the
+concentration-step condition is 0.16664 which gives a relative
+error of 1:6 × 10−4 in comparison with the standard
+value of 1/6. In the determination of  L and  1=2,   = 3 is
+long enough to make the 9ux approach the steady value.
+
+
+3. Results
+
+In this section, we discuss the e'ects of various parameters
+on ADCs under di'erent boundary conditions. Firstly,
+we concentrate on the chemopotential-step situation for experiments
+of gas/membrane/gas [17–22] under pressure-step
+in gas phase absorption or electrolyte/membrane/gas under
+potentiostatic charging in electrochemical absorption.
+Secondly, the 9ux-step for electrolyte/membrane/gas with
+galvanostatic charging is discussed [1,2,13–16]. Finally,
+general situations between these two extreme cases are
+considered.
+
+3.1. Chemopotential-step:
+The e'ects of various parameters on ADCs under
+chemopotential-step boundary conditions are shown in
+Fig. 2. Fig. 2(a) demonstrates an example, it is easily
+found that the self-stresses make jex and Q decrease in the
+initial period of hydrogen absorption (i.e. UHD) and their
+increase in tube delays in comparison with the stress-free
+case,  L = 0:214 and  1=2 = 0:149 are all greater than the
+stress-free values and DL =0:779D0 and D1=2 =0:926D0 are
+all less than D0.
+
+Fig. 2. E'ects of various parameters on ADC under chemopotential-step boundary conditions. (a) An example of di'usion 9ux and di'used
+quantity for the self-stress (solid curves) and stress-free situations (dashed curves); (b) the e'ects of self-stress factor u ; (c) contour map
+of DL vs. nH;0 and QnH; (d) contour map of D1=2 vs. nH;0 and QnH. The parameters are nH;0 =0:1, QnH =n∗
+H
+−nH;0 =0:1, u  =20 except
+for independent variables in each Pgure.
+
+Fig. 2(b) shows the e'ects of self-stress factor u ; we
+Pnd that ADCs decrease with increasing u  due to the UHD
+e'ects. For one sort of metal (or alloy) and a Pxed hydrogen
+concentration, the partial molar volume of hydrogen VH is
+constant, so the stress-factor only changes with temperature
+as indicated by Eq. (5). In other words, ADCs approach
+the SFDC while the temperature is high enough and ADCs
+depart from the SFDC while the temperature is low.
+
+In9uences of initial hydrogen concentration nH;0
+and chemopotential-step, which is expressed by the
+concentration-step under a stress-free condition QnH=n∗
+H−
+nH;0, are shown in Fig. 2(c) and (d). We Pnd that ADCs
+increase with increasing QnH and decrease with increasing
+nH;0 as observed experimentally [20–22]. Contrary to one’s
+expectation, ADCs are greater than the SFDC while nH;0
+approaches zero and QnH is large as observed experimentally
+[20–22], the reason for this will be given in Section 4.
+When nH;0 → 0 and QnH → 0, we Pnd that DL and D1=2
+approach D0 as expected.
+
+3.2. Flux-step:
+The 9ux-step situation is shown in Fig. 3. Because jex
+increases more rapidly under self-stress than the stress-free
+case after the initial period of hydrogen absorption (see
+Fig. 3(a)),  L = 0:434 and  1=2 = 0:333 are all less than
+the stress-free values; the corresponding DL =1:152D0 and
+D1=2 = 1:138D0 are all greater than D0. At the same time,
+ADCs increase with increasing u  as shown in Fig. 3(b).
+This trend is contrary to the chemopotential-step case.
+
+Changing of ADC with nH;0 and j0 is similar to the behaviors
+of nH;0 and QnH in chemopotential-step cases as
+shown in Figs. 3(c) and (d), i.e. ADCs decrease with increasing
+nH;0 and increase with increasing j0. Another feature
+is that ADCs are greater than the SFDC as indicated in
+electrolyte/membrane/gas experiments [13–24]. Similar to
+Fig. 2(c) and (d), DL and D1=2 → D0 if only both nH;0 → 0
+and j0 → 0; otherwise, ADCs depart from the SFDC.
+
+It must be pointed out, that although the time-lag method
+under 9ux-step has been available for some years [29–32],
+utilizing the value 1/6 but not 1/2 as  L has still appeared in
+galvanostatic charging experiments [2,13,20]. This is one of
+the reasons why the di'usion coe6cients of H in Pd under
+electrolyte conditions are less than the value in the gas phase
+experiments by about three times. However, this misleading
+does not a'ect the conclusion here.
+
+3.3. General situations:
+The chemopotential- and 9ux-step are the extreme situations
+based on the presumption that the surface processes are
+so fast that the permeation kinetics is under di'usion control;
+they can be realized by subtle surface treatments and
+parameter controlments in experiments. The actual metal
+(alloy) surface and bulk processes are complex [11,32–35],
+for example, surface reactions (e.g. the Tafel and Heyrovsky
+steps) at electrode will diminish the permeation 9ux during
+hydrogen absorption [11]. This means that the surface processes
+must be considered in general situations; these factors
+in conjunction with the stress e'ects will induce
+the measured di'usion coe6cient depart prominently from
+the actual values. Sometimes, numerical simulation has to
+be used to determine the di'usivity. This is the reason why
+we do not compare our results with speciPc experimental
+data in this work.
+
+In the stress-free situation, we have 1=66 L61=2 and
+0:1386 1=260:379 as shown in Table 1. From Figs. 2
+and 3, we also Pnd that the above conclusions are valid except
+for some special situations (small nH;0 and large QnH).
+This means the order of di'usion coe6cient value can be
+estimated even if the self-stress e'ects are involved for dilute
+solid solutions (nH;0¡0:1 here).
+
+Another similar characteristic for both boundary conditions
+is that DL=D0¿1 and D1=2=D0¿1 when the applied
+QnH (or j0) is large but nH;0 is very small, which means that
+measurements of di'usion coe6cient must be taken with
+caution even for dilute solid solutions.
+
+
+4. Discussion
+
+Changes of ADC are controlled by two opposite and
+competitive factors. The Prst one is the term u nH shown
+in Eq. (4) or (15), which accelerates the di'usion process
+and makes ADCs greater than the SFDC [33,36]. Although
+the term nH is the local value of hydrogen content
+in solid, only the increment (i.e. QnH) has contributed to
+the 9ux because the contribution of background (i.e. nH;0)
+has been canceled out by the boundary condition. This conclusion
+has also been proved by numerical simulation of
+hydrogen absorbing into a plate under galvanostatic charging
+[33]; it indicated that self-stress makes half-absorption
+time is less than the stress-free case although some details
+of the model di'er from here. This could explain the
+fact ADCs increase with increasing QnH and j0 (see Figs.
+2 and 3). Another factor that a'ects ADCs is the UHD,
+which makes a metal membrane absorb hydrogen from gas
+phase at the downstream side and the front of hydrogen 9ux
+in the membrane is delayed correspondingly; thus, ADCs
+may be less than the SFDC. Because self-stresses depend
+on the nonuniform distribution of hydrogen content, and
+the chemopotential-step will make hydrogen content at the
+surface increase faster than the 9ux-step case, it is easily
+understood that the chemopotential-step will have a more
+prominent UHD e'ect than the 9ux-step situation. Because
+the UHD e'ects increase with increasing nH;0, so ADCs
+decrease with nH;0 as shown by Eq. (16) in Ref. [9].
+
+Fig. 3. E'ects of various parameters on apparent di'usion coe6cients under 9ux-step boundary conditions. (a) An example of di'usion 9ux
+and di'used quantity for the self-stress (solid curves) and stress-free situations (dashed curves); (b) the e'ects of self-stress factor u ; (c)
+contour map of DL vs. nH;0 and j0; (d) contour map of D1=2 vs. nH;0 and j0. The parameters are nH;0 = 0:1, j0 = 0:1, u  = 20 except for
+independent variables in each Pgure.
+
+From Figs. 2 and 3, we Pnd that the 9ux-step with a small
+charging current gives the minimum errors in measurements
+of di'usion coe6cient at a nonzero of nH;0. This means that
+we can obtain an ADC value close to the SFDC by this
+method. In experiments [1,2,13–16], the hydrogen electrode
+reaction is along the fast Volmer-slow Tafel mechanism on
+Pd surface and j0 is the same as the applied current while
+it is small [34]. On the other hand, the assumption of large
+volume V in Eqs. (11) and (20) are easily satisPed for small
+current. Therefore, usage of small current in the determination
+of di'usivity of hydrogen changing with hydrogen
+content is a practical method.
+
+Although we discuss only the absorption processes,
+the present methods can be extended to desorption processes
+with boundary conditions adopted. The qualitative
+conclusion should be the same as here except for some quantitative
+modiPcations.
+
+In the experiments, the behavior of j and Q may be complicated
+by the isometric nature of vessels besides the boundary
+conditions discussed in Section 3. The pressure does not
+change linearly with   while it is long enough. Actually, the
+di'used 9ux will reduce to zero and the pressure in the tube
+will approach a steady value when the di'usion time is long
+enough [11]. In the experiments, if Qp=p0 1 is not satis-
+Ped while   ∼ 3, the measured ADC will di'er prominently
+from the SFDC.
+
+Another factor omitted is the interaction between hydrogen
+atoms in metals (alloys) due to the conPnement of
+discussion on the dilute solid solution here; otherwise, this
+factor will induce the di'usivity changing with the hydrogen
+concentration and the UHD e'ects will mix with the nonideal
+interaction in di'usivity measurements for the metal
+hydride situation [33].
+
+On the other hand, the present theory is aimed at the
+situation of tube conPgurations. For the circular plates used
+widely in experiments [32,36–41], we have proved that this
+model is appropriate as a primary approximation [10]; the
+detailed discussion on this conPguration will be presented in
+the future. For other conPgurations, e.g. spheres, cylinders
+and plates, self-stresses must be treated separately according
+to the speciPc situations.
+
+
+5. Conclusion
+
+In this paper, we numerically calculate ADCs of hydrogen
+in thin tubular membranes determined by the time-lag
+and half-rise methods under chemopotential- and 9ux-step
+boundary conditions to simulate di'usivity measurements of
+hydrogen in experiments based on the self-stress theory for
+interstitial solutions in thin tubular shells established earlier
+[9]. It is found that ADCs di'er from the SFDC when either
+the initial concentration or the chemopotential (or 9ux) step
+is large. Generally, ADCs are less than the SFDC under the
+chemopotential-step, i.e. the pressure-step for gas absorption
+or potentiostatic charging for electrochemical absorption.
+However, ADCs are greater than the SFDC under the
+9ux-step, i.e. the galvanostatic charging. At the same time,
+we Pnd that the self-stress e'ects are proportional to the
+partial molar volume of hydrogen in metals but inversely
+proportional to temperature. Our results indicate that ADCs
+approach the SFDC only if the initial concentration and
+concentration-step (or 9ux-step) are small enough or the
+temperature is high enough. In measurements of di'usion
+coe6cient with nonzero hydrogen concentration (nH  = 0),
+the e'ective technique is using the galvanostatic charging
+with small current. Finally, our theoretical results are consistent
+with the available experimental data.
+
+
+References
+
+[1] Lewis FA, Magennis JP, McKee SG, Ssebuwufu PJM.
+Hydrogen chemical potentials and di'usion coe6cients in
+hydrogen di'usion membranes. Nature 1983;306:673–5.
+[2] Baranowski B. Stress-induced di'usion in hydrogen
+permeation through Pd81Pt19 membranes. J Less-Common
+Metals 1989;154:329–53.
+[3] Baranowski B. Flow, di'usion and rate processes.
+In: Saniutycz S, Salomon P, editors. Advances in
+thermodynamics, vol. 6, New York: Taylor & Francis; 1992.
+p. 168–88.
+[4] Kandasamy K. In9uences of self-induced stress on permeation
+9ux and space–time variation of concentration during di'usion
+of hydrogen in a palladium alloy. Int J Hydrogen Energy
+1995;20(6):455–65.
+[5] Simon AM, Grzywna ZJ. On the LarchVe–Cahn theory for
+stress induced di'usion. Acta Metall Mater 1992;40(12):
+3465–73.
+[6] Simon AM. A criticism of the postulated quadratic steady-state
+concentration proPle for strain gradient induced hydrogen
+di'usion in metallic membranes. Int J Hydrogen Energy
+1997;22(1):27–30.
+[7] Zhang W-S, Zhang X-W, Zhang Z-L. Steady concentration
+distribution of hydrogen in elastic membranes during
+hydrogen di'usion. J Alloys Compounds 2000;302:258–60.
+[8] Zhang W-S, Zhang X-W, Zhang Z-L. E'ect of self-induced
+stress on the steady concentration distribution of hydrogen
+in fcc membranes during hydrogen di'usion. Phys RevB
+2000;62(13):8884–90.
+[9] Zhang W-S, Zhang Z-L, Zhang X-W. E'ects of self-induced
+stress in tubular membranes during hydrogen di'usion.
+J Alloys Compounds 2002;336:170–5.
+[10] Zhang W-S, Zhang Z-L. E'ects of hydrogen self-stress in
+thin circular-plates with clamped edges. J Alloys Compounds
+2002;346:176–80.
+[11] Zhang W-S. E'ects of electrochemical reaction and
+self-stress on hydrogen di'usion in tubular membranes
+during galvanostatic charging. J Alloys Compounds 2003;
+356–357:314–7.
+[12] Adrover A, Giona M, Capobianco L, Tripodi P, Violante
+V. Steady-state concentration proPles of hydrogen in
+tubular metallic membranes. Int J Hydrogen Energy
+2003;28(11):1279–84.
+[13] Tong XQ, Kandasamy K, Lewis FA. In9uences of lattice
+strain gradients on hydrogen permeation through palladium
+membranes containing hydrogen contents in  ,   +   and
+  phase concentration ranges. Scr Metall Mater 1990;24:
+1923–8.
+[14] Tong XQ, Bucur RV, Kandasamy K, Lewis FA. Strain
+gradient related uphill di'usion phenomena in Pd77Ag23Hn.
+Z Phys Chem (NF) 1993;181:225–32.
+[15] Kandasamy K, Lewis FA, Magennis JP, McKee SG, Tong XQ.
+Correlations with p–c(n)–T relationship of strain gradient
+dependent hydrogen di'usion in Pd81Pt19Hn membranes. Z
+Phys Chem (NF) 1991;171:213–30.
+[16] Sakamoto Y, Tong XQ, Lewis FA. E'ects of non-Fickian
+uphill components of permeation 9ux on estimations of
+hydrogen di'usion coe6cients in the Pd/H system. Scr Metall
+Mater 1991;25:1629–34.
+[17] Lewis FA, Baranowski B, Kandasamy K. Uphill di'usion
+e'ects induced by self-stresses during hydrogen di'usion
+through metallic membranes. J Less-Common Metals
+1987;134:L27–31.
+[18] Tong XQ, Lewis FA. Mechanical-strain-induced in9uences
+on hydrogen di'usion within Pd77Ag23 alloy membranes.
+J Less-Common Metals 1991;169:157–65.
+[19] Tong XQ, McNicholl R-A, Kandasamy K, Lewis FA.
+Hydrogen permeation in stressed and strained membranes
+of palladium alloys. Int J Hydrogen Energy 1992;17(10):
+777–81.
+[20] Kandasamy K, Tong XQ, Lewis FA. Strain gradient in9uences
+on apparent dependences of hydrogen di'usion coe6cients on
+hydrogen content in the Pd81Pt19Hn system. J Phys: Condens
+Mater 1992;4:L439–46.
+[21] Dudek D, Baranowski B. In9uences of self-stresses on the
+di'usion of hydrogen through a Pd81Pt19 membrane. Polish
+J Chem 1995;69:1196–204.
+[22] Dudek D, Baranowski B. Di'usion coe6cients of hydrogen
+during absorption and desorption of hydrogen in Pd81Pt19
+membrane Part I: time-lag method. Z Phys Chem (NF)
+1998;206:21–9.
+[23] Lewis FA, Tong XQ, Kandasamy K. Lattice strain gradients
+in9uences on steady-state rates of hydrogen permeation
+through membranes. Int J Hydrogen Energy 1993;18(6):
+481–4.
+[24] Tong XQ, Lewis FA. Indications of linearity deviations of
+steady-state concentration proPles in hydrogen permeation
+membranes. Int J Hydrogen Energy 1995;20(8):641–6.
+[25] Zoltowski P. E'ects of self-induced mechanical stress in
+hydrogen sorption by metals, by EIS. Electrochim Acta
+1999;44(24):4415–29.
+[26] Zoltowski P, Makowska E. Di'usion coe6cient of hydrogen
+in  -phase palladium and palladium–platinum alloy. Phys
+Chem Chem Phys 2001;3(14):2935–42.
+[27] Baranowski B, Majchrzak S, Flanagan TB. The volume
+increase of fcc metals and alloys due to interstitial hydrogen
+over a wide range of hydrogen contents. J Phys F 1971;1:
+258–61.
+[28] Fukai Y. The Metal–Hydrogen System, Basic Bulk Properties.
+Berlin: Springer; 1993. p. 95.
+[29] Crank J. The mathematics of di'usion. Oxford: Clarendon;
+1975. p. 33.
+[30] Fullenwider MA. Electrochemical current balance with
+the hydrogen–palladium system. J Electrochem Soc
+1975;122(5):648–50.
+[31] Boes N, ZXuchner H. Electrochemical methods for studying
+di'usion, permeation and solubility of hydrogen in metals.
+J Less-Common Metals 1976;49:223–46.
+[32] Pound BG. Electrochemical techniques to study hydrogen
+ingress in metals. In: Bockris JO’M, Conway BE, White RE,
+editors, Modern aspects of electrochemistry, vol. 25, New
+York: Plenum; 1993. p. 63–133.
+[33] Zhang W-S, Zhang Z-L, Zhang X-W. E'ect of self-stress on
+the hydrogen absorption into palladium hydride electrode of
+plate form under galvanostatic conditions. J Electroanal Chem
+1999;474:130–7.
+[34] Enyo M. Hydrogen electrode reaction on electrocatalytically
+active metals. In: Conway BE, Bockris JO’M, Yeager E,
+Khan SUM, White RE, editors. Kinetics and mechanism
+of electrode processes, vol. 7, New York: Plenum; 1983.
+p. 241–300.
+[35] SchXoneich H-G, ZXuchner H. Improvement of electrochemical
+methods for studying metal hydrogen systems. Ber Bunsenges
+Phys Chem 1983;87:566–70.
+[36] Li JC-M. Physical chemistry of some microstructural
+phenomena. Metall Trans A 1978;9A:1353–80.
+[37] Sakamoto Y, Tanaka H, Lewis FA, Tong XQ. Strain
+gradient-induced di'usion of hydrogen in palladium and
+nickel membranes. Int J Hydrogen Energy 1992;17(12):
+965–70.
+[38] Sakamoto Y, Tanaka H, Lewis FA, Tong XQ. Observations
+of “uphill” di'usion of hydrogen in palladium and nickel
+membranes by an electrochemical permeation method. Z
+Phys Chem (NF) 1993;181:219–24.
+[39] Sakamoto Y, Tanaka H, Sakamoto F, Lewis FA, Tong XQ.
+Self strain gradient induced di'usion of hydrogen in Pd–
+Ag alloy membranes. Int J Hydrogen Energy 1995;20(1):
+35–41.
+[40] Sakamoto Y, Tanaka H, Lewis FA, Tong XQ, Kandasamy
+K. “Uphill” hydrogen di'usion e'ects of hydrogen interstitial
+strain gradients in palladium and palladium alloys. Int
+J Hydrogen Energy 1996;21(11–12):1025–32.
+[41] Tanaka H, Sakamoto Y, Lewis FA, Tong XQ. Uphill
+di'usion e'ects during hydrogen permeation in Palladium–
+Cerium alloy membrane. Defect Di'us Forum 1997;141–142:
+85–92.
+

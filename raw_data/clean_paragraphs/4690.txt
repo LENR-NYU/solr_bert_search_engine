@@ -1,0 +1,152 @@
+1. Introduction
+
+It is verified experimentally that the anomalous excess heat production in the Pd|D2O electrolytic system depends on the D/Pd ratio, the space gradient of deuterium concentration and cell temperature etc. [1-3]. However, because not all of these variables are orthogonal, it is necessary to establish their dependent relation in further research. One of these relations is the loading ratio as a function of temperature [4-8]. Mengoli et al have found that the loading ratio of D in Pd, xD decreases with temperature by a slope of axɲ/T - 1.1 × 10-3 K1 under the potentiostatic charging condition in the temperature range from 25 °C to 90 °C [4]. The same group have also found that оxн/ƏТ- 1.6 × 10-3 K1 under the galvanostatic charging condition and ôxƒ/3Ã ~ – 8.7 × 10a K ́1 under the potentiostatic charging condition with the H3PO4 electrolyte from 25 °C to 175 °C [6]. In addition, Asami et al found that dxƊ/ƏT ~ – 2.0 × 10 ̃3 K ̄1 from 25 °C to 80 °C [8]. Although these temperature effects can be explained qualitatively by the thermodynamics of Pd+H(D) system [9] and the kinetics of the hydrogen evolution reaction (HER) [10–13], the quantitative analysis is absent up to now. In this paper, we will deal with this subject in detail.
+
+
+2. Model
+
+Consider hydrogen absorption into a PdH, electrode in the HER (taken to include D, the same below). At the outer surface, there are three steps, i.e. the Volmer, Tafel and penetration reactions taking place at the same time [10,11]. The rate of the Volmer step is the applied current density (CD) and the rate of the Tafel step is:
+Eqs. (1). Because the penetration reaction is very rapidly, it is in pseudo-equilibrium [11] and we
+have the isotherm:
+Eqs. (2). In Eqs. (1) and (2), A+T and A-T are the Arrhenius frequency factors of the rate constant for
+H2 dissociation and H combination reactions; E+T and E-T are the corresponding activation
+energies; Ub is the non- ideal interaction energy of H in the bulk of the b-PdHx, Ub = 44.9
+kJ mol- 1 for both H and D [9]; Us is the heterogeneity energy of the Frumkin adsorption,
+its value depends on the additives in the electrolyte and pH value; f is the fugacity of H2
+gas; x is the H/Pd atomic ratio; r is the surface roughness factor; Gs = 2.2 * 10^-9 mol H cm
+- 2, is the maximum H molar number of available sites per real unit area; q is the fractional
+surface coverage of H on Pd. The other symbols have their usual meanings.
+
+
+3. Results
+
+3.1. Equilibrium state:
+Prior to detailed discussing the situation of HER, we focused on the equilibrium state. To be specific, the electrode reaction is confined to the normal condition of ƒ = 1 atm and 0 °C ≤ T≤ 100 °C. The first assumption means that the partial pressure of hydrogen is equal to that of circumstance, this can be realized through carrying out experiment under H2 gas atmosphere or blowing hydrogen gas from the bottom of cell. Although many experiments are employed without the blowing Hỵ gas and the initial state differs from this equilibrium state, the hydrogen bubbles produced in the HER makes the H partial pressure is approximately equal to 1 atm, hence the corresponding equilibrium state is the same as that in the hydrogen atmosphere. These choices of pressure and temperature ensure the Pd+H system is in the B-phase in equilibrium or in the HER.
+
+We can obtain the exchange CD (per real unit area) of the Tafel reaction as a function of T. Contrary to one's expectation, it is the weak adsorption rather than the strong adsorption dominates the H absorption into the B-PdH electrode as verified experimentally and theoretically [10–12]. Therefore, the Frumkin adsorption reduces to the Langmuir type with Uş✪→ 0 and 1 – 0→ 1. The exchange CD of the Tafel step is:
+Eqs. (3) with Eor=2AHgs +E_T, is the apparent activation energy of jOT, and it was observed that Eor 27 kJ mol ̄1 in 0.5 M H2SO4 [10]; AHgs is the adsorption enthalpy of H on Pd.
+
+It is easy to obtain the relationship between the hydrogen pressure and the loading ratio using Eq. (2) and the equilibrium result of Eq. (1):
+Eqs. (4) with ASgb = ASsb + R/2 ln(A+T/ A_T) and \Hgb = ^Hsb + (E+T − E_T)/2. This equation is exactly the isotherm of H absorption into the ß-PdH, it is found that ASgb 53.5 and 53.1 J mol ̄1 K ̄1, and AHgb = − 50.1 and – 47.7 kJ mol ̄1 for H and D, respectively. Although changes of entropy and enthalpy in each step may be influenced by the Pd surface property or solution composition, their sums must be constant values as are indicated by Eq. (4). The loading ratio changing with temperature under a fixed pressure is:
+Eqs. (5) which is - 1.0 ´ 10 - 3 K - 1 for both H and D in Fig. 1, the curve j = 0. These curves are the
+isobar of H(D) absorption into the b-PdHx (PdDx) under 1 atm pressure.
+
+3.2. Fast Volmer-slow Tafel mechanism:
+Because there are two mechanisms of the HER, i.e. the fast Volmer-slow Tafel type at low
+CD in acidic solution and coupled Volmer-Tafel type in basic solution or at high CD in acidic
+solution, taking place on the Pd electrode, we will discuss the steady-state absorption in these
+two situations successively. For the first mechanism, the Tafel step is irreversible and the
+Volmer reaction is in pseudo-equilibrium, the value of q is small and the adsorption can be
+simplified to the Langmuir type as in discussion about j0T. Substituting Eq. (2) into Eq. (1)
+gives:
+Eqs. (6) which describes x as a function of j. Hence we obtain the loading ratio changing with
+temperature:
+Eqs. (7) which is - 1.2*10^-3 K^-1 for H and - 1.5*10^-3 K^-1 for D in Fig. 1.
+
+3.3. Coupled Volmer-Tafel mechanism:
+Consider the HER is far from equilibrium, both the Volmer and Tafel steps are completely
+irreversible. The adsorption is the Frumkin type at intermediate surface coverage, this means
+the exponent term is prominent in the hydrogen adsorption isotherm. Eliminating the factor
+exp(Usq/RT) between Eqs. (1) and (2) gives:
+Eqs. (8), this equation describes the relation between j and x. We can obtain the loading ratio changing
+with T:
+Eqs. (9) which is -2.4*10^-3 K^-1 for H and -2.7*10^-3 K^-1 for D in Fig. 1. In the deduction, the
+contribution originated from the term q(1-q) is omitted as it is a slowly varying quantity.
+
+Fig. 1 shows x changing with T based on Eqs. (1) and (2) under the galvanostatic charging
+condition. The related parameters, noted in the caption of Fig.1, result in q0 = 0.01 and j0T =
+0.01 mA cm- 2 at 298.15 K. These choices ensure the adsorption in equilibrium is weak; the
+HER is along the fast Volmer-slow Tafel mechanism while - j £ 1 mA cm- 2 or the coupled
+Volmer-Tafel mechanism while - j >> 1 mA cm- 2 around the ambient temperature. The
+activation energies are chosen to ensure that E0T = 27 kJ mol- 1, DHgb = - 50 kJ mol- 1 for H
+and - 47.8 kJ mol- 1 for D as were observed experimentally [9,10]. All of these parameters
+are adjusted to simulate the HER in the aqueous acidic solution under the circumstance
+pressure although our method and conclusion are beyond this confinement.
+
+We find the amplitude of ¶x/¶T increases with increasing CD and/or decreasing
+temperature. The dependence of ¶x/¶T on T is easy to understand by Eqs. (5), (7) and (9) in
+which the amplitude of ¶x/¶T is inversely proportional to T. As far as the effect of CD is
+concerned, we find the HER changes from the equilibrium state to the fast Volmer-slow Tafel
+mechanism and up to the coupled Volmer-Tafel mechanism with increasing CD, and
+corresponding ¶x/¶T is expressed by Eqs. (5), (7) and (9), respectively. Because the terms
+DHgb + Ubx, DHgs and E0T in the numerators have the same sign (< 0), so the increase of
+|¶x/¶T| with CD is obvious.
+
+The change of x with T has two origins: one is the thermodynamic contribution as the
+isobar shown in Fig. 1 or indicated by Eq. (5) and the same term appeared in Eqs. (5), (7) and
+(9); another is caused by the kinetic process. A crude but intuitive explanation can understand
+the reasons of x changing with T. Because x is determined by the relative CD, j/j0T [12], so
+changes of j/j0T reflect the change of x in some way. For the galvanostatic charging, j0T
+increases with T; this makes j/j0T decreases with T, hence x decreases some more rapidly than
+in the equilibrium case.
+
+By comparison our theory with experimental results in Ref. [6,18], we find that ¶xH/¶T ~
+- 1.6 ´ 10 - 3 K - 1 and ¶xD/¶T ~ - 2.0 ´ 10 - 3 K - 1 under the galvanostatic charging condition
+lie in the corresponding ranges of our results shown in Fig. 1, although the relevant
+experimental parameters are not available. This indicates our theory is appropriate.
+
+
+4. Discussions
+
+In this paper, we specifically discuss the situation of HER in the acidic solution; there is a
+change of HER mechanism from the fast Volmer-slow Tafel type to the coupled
+Volmer-Tafel type with increasing CD. But for the basic solution, the valid CD range for the
+fast Volmer-slow Tafel mechanism is very narrow even disappears; otherwise, the coupled
+Volmer-Tafel mechanism dominates the HER in a wide CD range due to a small value of
+j0V/j0T and a large heterogeneity energy Us [10]. Of course, our method and results can be
+applied to this situation with some parameters modified. On the other hand, additives and Pd
+alloy electrodes are always used to improve the electrode performance for H absorption in
+experiments. Their effects can be manifested by the same formulae with some parameters
+adjusted as well.
+
+In the paper, we mainly discuss the loading ratio changing with j under the galvanostatic
+charging condition. However, our theory can be applied to the problem for the maintenance
+the loading ratio by increasing the amplitude of j at high temperature. The solution is directly
+given by Eqs. (6) and (8).
+
+It must be pointed out that our theory is more phenomenological than fundamental. A
+general treatment should be based on the absolute rate theory and consider subtle effects of
+temperature on all aspects of the Pd|H electrode process, e.g. the temperature dependence of
+solute activity, the activation free energy of each step and other related issues. Of course, it
+needs more experiment details as well. However, our results give the most primary effects and
+there are some experiment evidences supporting our conclusions. Although the systematic
+experimental study on this subject is absent up to now, we hope our work can stimulate
+further researches on this issue.
+
+
+References
+
+[1] MCKUBRE M.C.H., CROUCH-BAKER S., RILEY A.M., SMEDLEY S.I. AND
+TANZELLA F.L.: in Frontiers of Cold Fusion, Proc. 3rd Int. Conf. on Cold Fusion,
+edited by H. IKEGAMI. Nagaya, Japan, October 21-25, 1992, (Universal Academy
+Press, Tokyo) 1993, p. 5.
+[2] KUNIMATSU K., HASEGAWA N., KUBOTA K., IMAI N., ISHIKAWA M., AKITA
+H. AND TSUCHIDA Y.: ibid, p. 31.
+[3] MCKUBRE M.C.H., CROUCH-BAKER S., HAUSER A.K., SMEDLEY S.I.,
+TANZELLA F.L., WILLIAMS M.S. AND WANG S.S.: in Proc. 5th Int. Conf. on Cold
+Fusion, Monte-Carlo, Monaco, April 9-13,1995, p.17.
+[4] MENGOLI G., FABRIZIO M., MANDUCHI C., MILLI E. AND ZANNONI G.: J.
+Electroanal. Chem., 390, (1995) 135.
+[5] WARK A., CROUCH-BAKER S., MCKUBRE M.C.H. AND TANZELLA F.L.: J.
+Electroanal. Chem., 418, (1996) 199.
+[6] BERNARDINI M., COMISSO N., FABRIZIO M., MENGOLI G. AND RANDI A.: J.
+Electroanal. Chem., 453, (1998) 221.
+[7] AKITA H., TSUCHIDA Y., NAKATA T., KUBOTA A., KOBAYASHI M.,
+YAMAMOTO Y., HASEGAWA N., HAYAKAWA N. AND KUNIMATSU K.: in Proc.
+5th Int. Conf. on Cold Fusion, edited by T.O. PASELL AND M.C.H. MCKUBRE, Vol.
+1, December 6-9, 1993, Lahaina, Maui, HI, (Electric Power Research Institute, Palo
+alto, CA) 1994, p. 21-1.
+[8] ASAMI N., SENJUH T., UEHARA T., SUMI M., KAMIMURA H., MIYASHITA S.
+AND MATSUI K.: in Proc. 7th Int. Conf. on Cold Fusion, Vancouver, British Columbia,
+Canada, April 19-24, 1998, p. 15.
+[9] WICKE E. AND BRODOWSKY H.: in Hydrogen in Metals II, Application Oriented
+Properties, edited by G. ALEFELD AND J. VÖLKL, Topics in Applied Physics, vol. 29,
+(Springer, Berlin) 1978, p. 73.
+[10]ENYO M.: in Kinetics and Mechanism of Electrode Processes, edited by B.E. CONWAY,
+J.O'M BOCKRIS, E. YEAGER, S.U.M. KHAN AND R.E. WHITE, vol. 7, (Plenum
+Press, NY) 1983, p. 241.
+[11]ZHANG W.S., ZHANG X.W. AND LI H.Q.: J. Electroanal. Chem., 434, (1997) 31.
+[12]ZHANG W.S., ZHANG Z.L., ZHANG X.W. AND WU F.: J. Electroanal. Chem., 474,
+(1999) 123.
+[13] ZHANG W.S., ZHANG Z.L. AND ZHANG X.W.: J. Electroanal. Chem., 474, (1999)
+130.

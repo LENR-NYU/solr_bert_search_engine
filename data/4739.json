@@ -1,0 +1,30 @@
+{
+    "index": 4739,
+    "document_link": "https://www.sciencedirect.com/science/article/abs/pii/002207289187078I",
+    "abstract": "Experiments designed to detect the production of trace amounts of helium and/or tritium in the interior of a palladium/silver electrode during electrolysis of LiOD solutions are described. Electrolysis products that diffused through the evacuated tubular electrode were concentrated by reaction of H2, HD and D2 with CuO, then analyzed by mass spectroscopy and radiometry. The limit of detection for 4He was 1 × 1011 atoms. No evidence for production of helium or tritium by “cold fusion” was detected.",
+    "all_authors": [
+        "Zywocinski, A.",
+        "Li, H. L.",
+        "Tuinman, A. A.",
+        "Campbell, P.",
+        "Chambers, J. Q.",
+        "Van Hook, W. A."
+    ],
+    "pdf_path": "zywocinski1991.pdf",
+    "title": "Analysis for light atoms produced in the bulk phase of a tubular palladium/ silver alloy cathode working electrode",
+    "publisher": "J. Electroanal. Chem.",
+    "year_published": "1991",
+    "volume": "319",
+    "date_uploaded": "nan",
+    "keywords": [
+        "electrolysis",
+        "Pd-Ag helium tritium"
+    ],
+    "text_content": [
+        "The principle of the method of analysis is simple. Deuterium can be introduced into the crystal lattice of a number of metals, including palladium and titanium to form thermodynamically stable phases. For example, for Pd at a stoichiometric ratio of PdD,,, the stable beta phase is formed [8]. This condition is readily achieved by electrolysis. If the inside and outside surfaces of a palladium membrane are maintained at different deuterium activities, a deuterium atom flux can be induced through the membrane. In this way processes can be sampled that occur in the bulk phase of the metal. Schematically the process may be written D,/D+/Pd surface I/bulk PdDJPd surface II/D,. In the experiments described below, the “outside electrode surface, I, was in contact with LiOD(H) solution and the “inside” electrode surface, II, was exposed to a low pressure mixture of gaseous products “ = vacuum”. At the inside surface D atoms can combine, then desorb, since D, activity in the low-pressure vapor phase is small. Thus a steady flux of D atoms is established through the metal electrode. In the experiments described below, the flux was analyzed using a high-resolution mass spectrometer, either (1) directly on-line, or (2) after long-term electrolyses and preconcentration by oxidation of the D,. Particular attention was paid to the low-mass region where possible fusion products such as helium or tritium would appear.",
+        "Scintillation counter: A Beckman Model No. 3801 liquid scintillation counter was used for the tritium activity measurements.",
+        "Our failure to observe 4He production during electrolysis of Li + DOD solutions with a palladium + silver electrode is in contrast to the recent Bush, Lagowski, Miles and Ostrom (BLMO) report [15]. While this might be a consequence of the fact that the electrodes are not identical, we think a more likely explanation is that BLMO failed to pretreat their electrodes to remove occluded helium. As pointed out above we have found that such contaminating helium is electrolytically degassed.",
+        "A mass spectral method is described for the analysis of trace amounts of helium in a deuterium sample formed by electrolysis of a heavy water solution. The limit of detection for 4He was approximately 1 X 1011 atoms. The deuterium collected permeated a thin palladium/silver cathode operating in the hydrogen evolution region. The fraction of the product gas that permeates the electrode (relative to the total gas produced) was a function of the duration of the electrolyses and decreased with increasing current density. No evidence was found for the production of unusually large amounts of either 4He or tritium in electrolyses in LiOD + D,O. That observation is consistent with calorimetric results reported elsewhere [7].",
+        "1 S. Bruckenstein and R.M. Gadde, J. Am. Chem. Sot., 93 (1971) 5941. 2 M. Petek, S. Bruckenstein, B. Feinberg and R.N. Adams, J. Electroanalytical Chem., 42 (1973) 397. 3 0. Walter and J. Heitbaum, Ber. Bunsenges. Phys. Chem., 88 (1984) 2. 4 D. Tegtmeyer and J. Heitbaum, Ber. Bunsenges. Phys. Chem., 93 (1989) 201. 5 M. Fleischmann, S. Pons and M. Hawkins, J. Electroanal. Chem., 261 (1989) 301; 263 (1989) 187. 6 M. Fleischmann, S. Ports, M.W. Anderson, L.J. Li and M. Hawkins, J. Electroanal. Chem., 287 (1990) 293. 7 A. Zywocinski, H.L. Li, A.A. Tuinman, P. Campbell, J.Q. Chambers and W.A. Van Hook, Thermochimica Acta, in press. 8 H.M. Mueller, J.P. Blackledge and G.G. Libowitz, Metal Hydrides, Academic Press, New York, 1968. 9 A. Arneil, J. Sot. Chem. Ind., 53 (1934) 897. 10 G. Bohmholdt and E. Wicke, Zeit. Phys. Chem. N.F., 56 (1967) 133. 11 G. Holleck and E. Wicke, Zeit. Phys. Chem. N.F., 56 (1967) 155. 12 J. Volkl, Ber. Bunsenges Phys. Chem., 76 (1972) 797. 13 R.V. Bucur, Zeit. Phys. Chem. N.F., 146 (1985) 613. 14 R.C.J. Willeman, M. Boyle and I.R. Harris, Zeit. Phys. Chem. N.F., 164 (1989) 797. 15 B.F. Bush, J.J. Lagowski, M.H. Miles and G.S. Ostrom, J. EiectroanaI. Chem., 304 (1991) 271."
+    ]
+}

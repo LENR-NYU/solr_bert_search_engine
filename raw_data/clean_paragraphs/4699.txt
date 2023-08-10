@@ -1,0 +1,221 @@
+1. Introduction
+
+In earlier works, we presented models describing self-stresses and related effects produced by hydrogen interstitials
+in thin shells and circular-plates [1,2]. The up-hill
+diffusion (UHD) and related phenomena were demonstrated and interpreted by these theories. However, these
+results are qualitatively consistent with experimental data
+[3–9]; quantitatively comparisons need consider the surface kinetics and other processes that have been omitted
+previously. For example, the galvanostatic charging is
+always treated as the first or second boundary condition in
+diffusion problems [3–5,7,9]; nevertheless, experimental
+and theoretical studies have verified that the steady flux is
+than the charging current, and the exited flux transient
+may differ from the result of concentration-step or flux step assumption [10–12]. In Fig. 5 of Ref. [9], the
+pressure change corresponds to an exited hydrogen
+flux of 0.07 mA cm , which is only 0.54% of the
+actual charging current 13 mA cm . Therefore, it is
+naturally concluded that the electrochemical process affects transport properties in self-stress experiments. In this
+paper, we will discuss the whole steps of hydrogen
+diffusion across tubular membranes of Pd or Pd based
+alloys under electrochemical conditions using numerical
+methods based on models established earlier [1,2,13–15].
+
+
+2. Model
+
+Consider a metallic tube with one end sealed and
+another opened to a gauge for pressure measurement, the
+tube is immersed in an electrolyte. Similarly to the
+previous work [1], we use a one-dimensional model to
+simulate the actual processes; the coordinate z is along the
+thickness direction. There are three different processes
+taking place in this system, i.e. the electrochemical reaction
+at the interface of electrolyteuelectrode (z50),
+hydrogen diffusion in the tube wall (0,z,L, L is the
+thickness of tube wall) and hydrogen adsorption–desorption
+tion at the interface of solidugas (z5L).
+
+Because the tube surface is plated with Pd-black in
+experiments [3–9], we only need concern the PduH and
+PduH O interfaces, which has been studied extensively. At
+the electrolyteuelectrode interface, the hydrogen electrode
+reaction is along the Volmer–Tafel route for Pd [13,14,16],
+the applied current density j is the same as the rate of the
+Volmer step with the capacity current omitted. The adsorbed hydrogen is removed by the recombination of H
+atom into H molecule (Tafel step) and the penetration of
+H atom from the adsorbed state at outer surface into the
+absorbed state in bulk; these processes are expressed as:
+Eqs.(1), where J and J are rates of the Tafel and penetration
+steps, respectively. These two reactions are related to
+surface parameters by below Eqs. (13) and (14):
+Eqs.(2), and
+Eqs.(3), with
+Eqs.(4),
+Eqs.(5), and 
+Eqs.(6), where r is the roughness factor of Pd surface; u and us5Us /RT are the surface coverage and nonhomogeneous
+factor of Frumkin adsorption, respectively; nH is the
+atomic ratio of hydrogen to metal (M) and it takes the
+subsurface value in Eq. (3); n is the average value of nH
+in the overall thickness; ub5Ub /RT is the non-ideal
+interaction factor of H in metallic materials, ub5221.8
+for the a-phase Pd–H at room temperature [17]; u is the
+self-stress factor and is a dimensionless material constant,
+u 516.3 for the a-phase Pd–H at room temperature;
+VH51.7 cm mol is the partial molar volume of H in Pd
+and Pd-based alloys [18,19]; E is Young’s modulus, E = 112 GPa for Pd; n is Poisson’s ratio, n50.38 for Pd; C is
+the concentration of H in M corresponding to n 51,
+C 50.113 mol H cm23 for Pd. The subscript 0 indicates
+the equilibrium value of the corresponding quantity. The
+other symbols have their usual meanings.
+
+Taking account of the mass balance on the outer surface,
+we obtain the time dependence of the adsorbed hydrogen
+coverage: Eqs.(7), where G 52.2310 mol H cm is the saturation
+coverage of H on Pd(100) surface [20].
+
+At the subsurface, there is: Eqs.(8), the hydrogen diffusion flux J has the form [15] 
+Eqs.(9),
+where D is the stress-free diffusion coefficient of H in M
+while n →0. Applying the mass balance condition to the
+flux expression, one gives
+Eqs.(10).
+
+At the solidugas interface (z5L), there is only the Tafel
+step taking place. Because the reaction is near equilibrium
+and there is Pd-black plated on this surface, we assume
+that the chemical potential of adsorbed hydrogen is the
+same as that of gas inside the tube
+Eqs.(11), where s is Sieverts constant, s52.8431023 torr21 / 2 for
+the a-phase Pd–H at room temperature.
+
+The amount of hydrogen diffused across the tube wall
+and collected inside the tube can be measured by the
+pressure change:
+Eqs.(12), where the exited flux J 5J (L,t), p is the initial
+hydrogen pressure, A is the area of the tube wall involved
+in the diffusion process, V is the volume into which the
+exited hydrogen is collected and the other quantities have
+their usual meanings.
+
+The initial condition is the equilibrium of hydrogen
+chemical potential being approached between the liquid,
+solid and gas phases, the homogenous distribution of
+hydrogen content in the tube wall, and the zero current of
+j, JTand JP.
+
+The boundary condition at outer surface depends on
+techniques applied; for the galvanostatic charging as used
+experimentally [3–5,7,9], it is
+Eqs.(13). 
+
+In this work, we give numerical results based on Eqs. (1)–(13) and using the frame reported earlier [14].
+
+
+3. Results and discussion
+
+An example of hydrogen charging process is shown in
+Fig. 1. The material bulk parameters are for the a-phase
+Pd–H at room temperature since its properties have been
+studied extensively, experimental parameters are taken
+from Ref. [4]. Fig. 1a shows pressure changes in the tube,
+the UHD effect is demonstrated as expected. When the charging
+time is long enough, the inner pressure approaches an asymptotic value, which depends on j, j , us,
+and u as the behavior of n [13].
+
+Fig. 1b shows the Tafel current, the penetration and
+exited fluxes, we find J and J are much less than the
+charging current because the hydrogen combination step
+(J ) takes place at the electrolyteusolid interface. The UHD
+effect also exhibits for J as the behavior of p in the initial
+period. Another important point is that J is much less
+than J in most of time, this means the system is in an
+unsteady state, so the steady-state assumption in determinations
+of hydrogen diffusivity by the time-lag method in
+experiments is doubtfully. The exited flux diminishes to
+zero and the system reaches the steady state after a long
+charging time (.8 h), which is much greater than the
+experimental duration (,23 min) [4].
+
+Fig. 1. An example of hydrogen absorption into a Pd tube under a galvanostatic charging. (a) Pressure changes inside the tube, (b) fluxes of the Tafel step,
+penetration reaction and released hydrogen in the desorption process, and (c) the hydrogen distribution at different times. The parameters are: j513 mA
+22 22 22 28 2 21 23 cm , r510, u 510, u 50.1, FJ 50.3 mA cm , FJ 510 mA cm ; D 54.9310 cm s ; n 50.01087, u 516.4, u 5221.8, s52.84310 s 0 0T 0P 0 H,0 s b
+21 / 2 3 2 torr ; p 59.36 torr, L50.02 cm, V523.2 cm , A5p30.8234 cm , T5298.15 K.
+
+Fig. 1c shows the hydrogen content in the tube wall at
+different times, it also verifies that the steady state need a
+long time to be approached.
+
+There are many factors can influence the transport of
+hydrogen in this system. The first one is the exchange
+current density of the Tafel step J , a large J induces a
+large Tafel rate J and small value of J for the fixed j, so
+the exited flux J decreases correspondingly. Another
+parameter is the roughness factor r, a rough electrode
+surface induces J to increase more rapidly than J as T P
+shown by Eqs. (2) and (3), so J also decreases. The
+equilibrium surface coverage u and the nonhomogeneous 0
+factor u affect J and J as well, when u and/or u
+increase, the positive part of J decreases [16] and J
+increases.
+
+Because available experimental evidences on PduH
+electrode indicate the penetration reaction is in pseudoequilibrium,
+we take a large value of J ; otherwise, the 0T
+exited flux may be very small and the UHD may be
+difficult to be observed.
+
+The interface parameters affect not only the exited flux,
+but also the amplitude and time interval of UHD and the
+apparent diffusion coefficient of H in M. However, we do
+not discuss them in detail due to the space limited.
+
+Fig. 2 compares the theoretical results with experimental
+data in Ref. [4]; they are consistent with each other. Of
+course, the surface parameters utilized in this work are
+empirical because there are no related data on this system.
+
+In summary, the electrochemical reaction affects the
+self-stress and other transport properties strongly, the
+determination of the diffusivity and verifications of UHD
+must consider these factors in experiments.
+
+
+References
+
+[1] W.S. Zhang, Z.L. Zhang, X.W. Zhang, J. Alloys Comp. 336 (2002) 170.
+[2] W.S. Zhang, Z.L. Zhang, J. Alloys Comp. 346 (2002) 176.
+[3] F.A. Lewis, J.P. Magennis, S.G. McKee, P.J.M. Seebuwufu, Nature
+306 (1983) 673.
+[4] X.Q. Tong, K. Kandasamy, F.A. Lewis, Scripta Metall. 24 (1990) 1923.
+[5] Y. Sakamoto, X.Q. Tong, F.A. Lewis, Scripta Metal. Mater. 25
+(1991) 1629.
+[6] F.A. Lewis, B. Baranowski, K. Kandasamy, J. Less-Common Met. [4]. 134 (1987) L27.
+[7] K. Kandasamy, X.Q. Tong, F.A. Lewis, J. Phys.: Conden. Mater. 4
+(1992) L439.
+[8] D. Dudek, B. Baranowski, Pol. J. Chem. 69 (1995) 1196.
+[9] B. Baranowski, J. Less-Common Met. 154 (1989) 329.
+[10] V. Breger, E. Gileadi, Electrochim. Acta 16 (1971) 177.
+[11] R.N. Iyer, H.W. Pickering, M. Zamanzadeh, J. Electrochem. Soc.
+136 (1989) 2463.
+[12] B.G. Pound, in: J.O’M. Bockris, B.E. Conway, R.E. White (Eds.),
+Modern Aspects of Electrochemistry, Vol. 25, Plenum, New York,
+1993, p. 63.
+[13] W.S. Zhang, X.W. Zhang, H.Q. Li, J. Electroanal. Chem. 434 (1997)
+31.
+[14] W.S. Zhang, Z.L. Zhang, X.W. Zhang, J. Electroanal. Chem. 474
+(1999) 130.
+[15] W.S. Zhang, X.W. Zhang, Z.L. Zhang, Phys. Rev. B 62 (2000) 8884.
+[16] M. Enyo, in: B.E. Conway, J.O’M. Bockris, E. Yeager, S.U.M.
+Khan, R.E. White (Eds.), Kinetics and Mechanism of Electrode
+Processes, Vol. 7, Plenum, New York, 1983, p. 241.
+[17] T. Kuji, W.A. Oates, B.S. Bowerman, T.B. Flanagan, J. Phys. F:
+Met. Phys. 13 (1983) 1785.
+[18] B. Baranowski, S. Majchrzak, T.B. Flanagan, J. Phys. F: Met. Phys.
+1 (1971) 258.
+[19] Y. Fukai, The Metal–Hydrogen System, Basic Bulk Properties,
+Springer, Berlin, 1993, p. 95.
+[20] R. Woods, in: A.J. Bards (Ed.), Electroanalytical Chemistry: A
+Series of Advances, Vol. 9, Marcel Dekker, New York, 1976, p. 1.
+
+
+

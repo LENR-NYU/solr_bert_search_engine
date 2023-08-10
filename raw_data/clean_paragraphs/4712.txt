@@ -1,0 +1,215 @@
+1. Introduction
+
+Since anomalous heat was announced by Fleischmann and Pons [1], there has been a great deal of research on Pd/D
+electrolytic systems [2]. Some explosions in various types of electrolytic cells have been reported [3–6]. The accident
+at SRI International was the most famous one; it was determined that this explosion was probably caused by deuterium
+and oxygen recombination [3]. However, data from explosions occurring in other labs indicate that some rapid exothermic reactions rather than chemical processes induced these phenomena [4–6]. In a previous paper, we summarized
+three explosions in our Pd/D electrolytic experiments which occurred in April 1991 [4]. After similar events take place
+again and again [5,6], it becomes incumbent upon a researcher to pay attention and analyze the results in detail. We
+did this and found some interesting features, which are presented here.
+
+
+2. Electrolytic Cell and Explosions
+
+The electrolytic system included a measuring cylinder with spout and foot (φout25.5× φin23×186 mm3, 77 m1, made
+of simple glass, not heat-resistant glass); ∼ 0.4 M LiOD heavy water electrolyte (∼ 39 m1 of D2O with 0.3 wt.% of
+6LiD, ∼ 9.4 cm of liquid height); a Pd tubea (φout 1.67 × φin 1.07 × 80 mm3, 0.103 cm3, Aout = 4.20 cm2, 1.3 g)
+cathode with the bottom end open, connected to a Ti wire lead inserted at the top end and mechanically clamped; a
+Pt mesh anode with a Pt wire lead, a round rubber plug platform holding the electrodes (φtop 27 × φbottom 21 × 22
+mm3, 15.5 g) being inserted about 12 mm into the measuring cylinder for sealing, except a blowhole (∼ φ 3 mm) to
+allow gas to escape freely, as shown in Fig. 1. Both the cathode and anode were immersed in the electrolyte before
+electrolysis. The cell was placed in a 1-liter glass beaker filled with 530 ml of light water, with the water level about
+10 cm; the bath beaker was covered with a plastic annular lid. A thermometer was fixed at the lid; the sensor head of
+the thermometer was approximately halfway between the sidewalls of the electrolytic cell and bath beaker, and 2 cm
+above the beaker bottom, as shown in Fig. 1. The room temperature in the early morning of this season was 22◦C; we
+will set this value as the bath temperature just before the explosion, because the record of the temperature was lost.
+
+Three explosions happened in this Pd/D electrolytic system in April 1991. In these explosions, the rubber plug
+with the electrodes in it flew off about 1.5–3 m away, and electrical wires and alligator clips used to connect the DC
+power to the cell were left on the lab table. The ankle of cell broke as illustrated in Fig. 2. D2O in the cell mixed
+with H2O in the bath in the last caseb. Because nobody was present at the scene of any of the explosions, there was no
+direct observation on any case except the last one having some records later as described below.
+
+In the last event, the potentiostatic electrolysis with cell voltage of 7.5 V had continued for more than 50 h before
+the explosion. The applied current at the 50th hour of electrolysis was 0.26 A (or 62 mA cm−2), which was slightly
+less than at the start. Voltage, current and bath temperature were manually recorded every hour and they were stable
+before the explosion. An experimenter (Da-Lun Wang) left the lab after the data recording at the 50th hour and came
+back half an hour later; the explosion took place during this period. It was found that the bath temperature had risen
+by 5◦C. The rubber plug and the attached electrodes flew 2–3 m away and fell onto the floor. At the same time, one
+area in the middle-upper part of the Pd tube bulged out but the backside of this protruding section was not concave
+and the electrode was still as straight as before. This means this damage was not caused by any external force after
+the explosion but by an internal cause during the process. It was believed that the first two explosions were weaker
+than the last one because the cell remained intact and it only fell against the sidewall of the bath beaker in the first two.
+After these two cases, the plug was pressed firmly into the cell and this gave rise to a more violent explosion the third
+time. The last event will be discussed in detail.
+
+
+3. Explosion Analysis
+
+Firstly, we estimate the effect of electrolysis on thermal behaviors of this system. It is easy to determine that about
+4.4 ml or 4.9 g of heavy water (a column of water in the cell ∼ 1.1 cm high) was consumed after 50 h of electrolysis;
+the height of electrolyte level in the cell was, therefore, 8.3 cmc. The heating power of electrolysis just before the
+explosion was: P = I × (U − 1.53 V)=1.55 W, where 1.53 V is the thermoneutral potential for D2O electrolysis.
+The temperature difference across the cell wall was:
+∆T = Pt/κS = 0.32◦C $ 5◦C, where t = 0.125 cm, the thickness of glass sidewall; κ = 9 mW cm−1 K−1, thermal conductivity of glass; S = 66 cm2,
+the conduction area of the sidewall with the height of electrolyte level (8.3 cm). Therefore, the electrolysis power did
+not heat up the cell to a significant temperature rise before the explosion.
+
+Based on the above conclusion and temperature measurement, the minimum excess energy released before the
+explosion would be the absorption heat of 530 ml of water and 34.6 ml of heavy water with a 5◦C temperature rise:
+∆Q = 12 kJ. The heat dissipation after the explosion is omitted here.
+
+Secondly, a simulation test conducted after the explosion showed that it takes 2.1 kgf to blow out the plug. This
+corresponds to an excess pressure ∆p = 0.5 bar. That is to say, the minimum pressure in the gas column of the cell was
+1.5 bar just before the explosion. Four possible situations might lead to such high pressure and explosion; we consider
+the first three of them trivial:
+
+(1) Blowout of sealed cell. Provided the system was completely closed due to a mistake in the assembly process
+before electrolysis, the cell would explode due to inner pressure increasing. However, it would only have
+needed 7 min to attain the pressure of 1.5 bar, not the 50 h it actually took. Furthermore, the blowhole of the
+cell was clean without any deposit of solute. There was no process which could seal the cell during electrolysis
+and heat up the bath water effectively; therefore, the possibility that the cell was sealed can be excluded.
+
+(2) Chemical explosion by D2 + O2 recombination. The volume of the gas column above the electrolyte in the
+cell head space just before the explosion was 38 cm3, the related heat production ∆Qchem can be calculated
+using the optimal D2/O2 mixing ratio: D2 +1/2O2 = D2O + 294.6 kJ mol−1, ∆Qchem = 0.31 kJ, which is much less than the actual value 12 kJ and could not heat up the bath water too.
+The following discussion also rules out the explosive recombination because the steam flow purged the D2+O2
+mix. Therefore the real explosion could not be caused by any chemical reaction.
+
+(3) Short-circuit of electrodes. This possibility can be excluded for three reasons. Firstly, the electrode leads were
+hard wires and connections of lead-electrode were strong; a short-circuit could not happen during electrolysis.
+Secondly, unlike what happens with utility AC power, a short-circuit of DC power would change the constantvoltage mode to the constant-current mode, and the supplied power would be lower than before; therefore, the
+heating power in the cell could not rise. Thirdly, even if the DC power supplied the cell with the maximum
+output power (e.g. several tens of watts), it could not reach 5.1–5.5 kW of thermal power, which is the amount
+deduced below.
+
+(4) Heat burst in the Pd tube cathode. Because these prosaic reasons cannot explain the explosion, the only
+likely explanation was that a heat burst of low energy nuclear reactions (cold fusion) took place in the tube
+cathode; the released energy heated the heavy water to the boiling point and high vapor pressure developed in
+a short time; the vapor could not escape the cell effectively and the explosion occurred.
+
+We can estimate that the minimum temperature rise in the cell just before the explosion was 75◦C using parameters
+of the excess energy ∆Q = 12 kJ and the remaining electrolyte volume of 34.6 ml, provided the excess heat only
+transferred to the bath water of 530 ml (in other words, we assume it was adiabatic). Based on the initial temperature
+22◦C, the electrolyte would be greater than 97◦C, very close to the boiling point of heavy water, 101◦C. This also
+indicates that the electrolyte was boiling during the explosion.
+
+The boiling point of heavy water is 113◦C at a pressure of 1.5 bar [7]d; the vapor density ρ = 0.966 mg cm−3 and
+vaporization heat ∆H = 2012 J g−1 correspondingly. Based on Bernoulli’s law, the steam velocity escaping through
+the cell’s blowhole in such conditions is
+νhole = 2∆p/ρ = 330 m s−1. This value is close to the speed of sound in air. The explosive power can be estimated by two methods: one is the
+kinetic calculation described previously [4] and the other is a thermal transfer analysis here.
+
+There are two limits, one is the adiabatic approximation, i.e. the excess heat was produced so fast that the heat loss
+was only carried by the steam across the blowhole; the corresponding power is Pad = πφ2 1ρνhole/4*∆HT0→T.
+
+The first term on the right-hand side of Eq. (5) is similar to Eq. (3) except ∆HT0→T (2.246 J g−1) being replaced with
+the vaporization heat ∆H (2 012 J g−1) at 113◦C and 1.5 bar, it is 4.5 kW. The second term on the right-hand side of
+Eq. (5) is the cell’s convection heat loss on the outer surface of sidewall immersed in water with area A = 80 cm2, T
+= 113◦C and T0 = 22◦C. α is the heat transfer factor: α = cRan α/h , where the constants c and n depend on the magnitude of Rayleigh number Ra [9]:
+Ra = gβ(T − T0)h3/να
+with the gravitational acceleration g = 979.75 cm s−2, the height h = 10 cm and water’s parameters at temperature of
+(T + T0)/2 [10,11]: the thermal expansion coefficient β = 5.61 × 10−4 K−1, the kinematic viscosity ν = 4.32 × 10−3
+cm2 s−1, the thermal conductivity λ = 6.65 mW cm−1 K−1 and the thermal diffusivity α = 1.62 × 10−3 cm2 s−1. We
+obtain the Rayleigh number Ra = 7.3 × 109. The corresponding constant are c = 0.1 and n = 1/3 for 109 < Ra < 1013
+[9]. The heat transfer factor is α = 0.129 W cm−2 K−1 and the convection power in water is 960 W. On the other hand,
+the convection power in air is only 0.3 W and radiation power is only 11 W, we neglect them consequently. Therefore
+the thermal power just before the explosion under the isothermal approximation is
+Piso = 4.5+0.96 ≈ 5.5 kW.
+
+These two different estimations give close amplitudes of explosion intensity; the actual power should be a value
+between these two approximations
+P = 5.1 to 5.5 kW.
+The explosion power density is
+P/Vd = 50 to 53 kW cm−3 Pd, where VPd = 0.103 cm3, the volume of Pd tube. Of course, this is only the minimum amplitude provided that the
+rate of anomalous reaction was uniform in the whole sample. Because of the localization characteristic of excess heat
+production as observed that one area of the Pd tube being strongly distorted after the explosion (see Section 2), the
+actual power density should be much greater than the value in Eq. (10). Considering the reaction region was confined
+in a length equal to the diameter of the Pd tube, the corresponding volume is 2.2 × 10−3 cm3, then the local explosive
+power density is P/VPd.local = 2.3 to 2.5 MW cm−3 Pd.
+
+Of course, the above values only characterize the explosive phase. It needs time to warm the cell from the bath
+temperature to the boiling point; we can estimate the lower limit of time for excess heat accumulation from total heat
+and the explosion power with the adiabatic approximation t > ∆Q/Pad = 2.4 s. 
+
+However, the electrolyte would boil away under this high power in a short time; we can estimate the time to boil dry is
+tdryout = m∆HT0→T/Pad= 17 s with m = 38 g, the mass of electrolyte at 50 h of electrolysis. This means that a high power in the order of kilowatts
+could not continue for tens of seconds; otherwise, the cell would dry out and explosion would not occur. The time of
+thermal run-away should be 2.4 s < trun-away < 17 s.
+
+Referring to Mizuno’s explosion [5], the developing time of cell’s temperature increase from the ambient value to the
+boiling point was only ∼ 17 s. It seems the corresponding time in our cases also is in the same order of magnitude.
+
+The upper limit of incubation time should be half an hour as described in Section 2. Using this time scale, we
+obtain the lower limit of excess power is 6.7 W or 430% of input power, the corresponding power density is
+P¯/Vd = 65 W cm−3 Pd.
+
+
+4. Discussion
+
+We can reconstruct the explosion process based on the above analysis. We can infer that the explosive process was
+probably caused by low energy nuclear reactions. At first, one local region of Pd tube electrode met some unknown
+criteria to produce intense cold fusion. The exothermic reaction released energy and heated up the cathode and the
+surrounding electrolyte. The positive feedback between temperature and reaction rate promoted the excess power
+to increase exponentially with time. After about ten seconds, the excess power was so great that the temperature
+at the nuclear reaction region (< 1 mm3) of Pd tube rose to more than one thousand Celsius degrees and the metal
+lattice distorted strongly as observed afterwards due to thermo-stresses; the surrounding heavy water vaporized, and the
+electrolyte boiled. When the excess power was so high that the cell produced steam which could not escape through the
+cell’s blowhole efficiently, the inner pressure rose rapidly and exceeded the threshold value, 1.5 bar. At that moment,
+the excess power reached 5.1–5.5 kW. The explosion followed: The plug was ejected, the D2O temperature dropped
+instantly from 113 to 101◦C, the ankle of cell was broken due to thermo-stresses in the wall of cell as illustrated in
+Fig. 2. All three of these processes happened at almost the same time, so we will not deal with them separately. The
+remaining electrolyte in the cracked cell mixed with the water in the bath and the mixture’s temperature rose by 5◦C. It
+must be pointed out that because some hot heavy water escaped in the form of vapor as shown in Eqs. (3) and (5), the
+value of 12 kJ is an underestimate of the actual energy release. On the other hand, although the D2O bubbles probably
+ejected liquid out of the cell, which might fall back in the water bath; however, this effect only slightly modified the
+overall heat of 12 kJ, but it did not qualitatively changed the conclusion.
+
+When we review this explosion 24 years later, it reveals more details that were omitted at that time.
+
+Firstly, the system was operated at a current density of 62 mA cm−2, which was lower than the well known
+threshold value of 100–150 mA cm−2 for excess heat production [2]. Excess heat at low current densities of 44–
+53 mA cm−2 were also reported by one of the authors 9 years after this explosion [12]. These facts indicate the
+requirement of current density for excess heat production may be lower than previously thought.
+
+Secondly, although the loading ratio of deuterium in the cathode was not measured in this experiment, the D/Pd was
+probably not high for two reasons: (i) The current density applied here was less than in most cold fusion experiments
+that produce excess heat; (ii) The tube cathode had only the outer surface polarized during electrolysis. The inner
+surface had much low current density due to deuterium gas formation and high resistance of electrolyte in the tube.
+This means that deuterium absorbed on the outer surface would be desorbed on the inner surface. Therefore, the
+loading ratio of deuterium in the tube electrode was probably less than that of a solid electrode with the same area of
+outer surface. These facts may indicate that the threshold value of the loading ratio for excess heat production is not a
+necessary condition as reported later [12].
+
+After these explosions, a video recorder was installed to monitor the electrolytic cell and obtain more information
+on explosions. However, no explosion ever occurred after that.
+
+Obviously, the explosion here is similar to that in a W–H2O electrolytic system observed by Mizuno [5]. The same
+features are the prominent excess heat and probably the rapid development time.
+
+There was also an explosion in a Pd/D electrolytic system at SRI International [3]. Because it was a closed system
+and parameters are complex, we cannot reach a clear conclusion as here. Biberian reported the explosion in a similar
+open Pd tube/D electrolytic cell at low current [6]; we tend to conclude this was the same event as we experienced.
+
+
+References
+
+[1] M. Fleischmann, S. Pons and M. Hawkins, J. Electroanal. Chem. 261 (1989) 301; errata, J. Electroanal. Chem. 263 (1989)
+187.
+[2] E. Storms, The Science of Low Energy Nuclear Reaction, World Scientific, Singapore, 2007.
+[3] S.I. Smedley, S. Crouch-Baker, M.C.H. McKubre and F.L. Tanzella, Proc. 3rd Int. Conf. Cold Fusion, Nagoya, Japan, Oct.
+21–25, 1992; Frontiers of Cold Fusion, H. Ikegami (Ed.), Universal Academy Press, Tokyo, Japan, 1993, p. 139.
+[4] X.-W. Zhang, W.-S. Zhang, D.-L. Wang, S.-H. Chen, Y.-B. Fu, D.-X. Fan and W.-J. Chen, Proc. 3rd Int. Conf. Cold Fusion,
+Nagoya, Japan, Oct. 21–25, 1992; Frontiers of Cold Fusion, (H. Ikegami (Ed.), Universal Academy Press, Tokyo, Japan,
+1993, p. 381.
+[5] T. Mizuno and Y. Toriyabe, Proc. 12th Int. Conf. Cold Fusion, Yokohama, Japan, Nov. 27–Dec. 2, 2005; Condensed Matter
+Nuclear Science, A. Takahashi, K.-I. Ota and Y. Iwamura, (Eds.), World Scientific, Singapore, 2006, p. 65.
+[6] J.-P. Biberian, J. Condensed Matter Nucl. Sci. 2 (2009) 1.
+[7] http://nuclear.ntua.gr/apache2-default/codes/heavy_calculus.html.
+[8] M.H. Miles, H.D. Arman, J.D. Carrick, C.K. Gren, K.A. Haggerty, H.Y. Kim, A.G. Ky, J.E. Markham, C.F. Meeks and D.E.
+Noga, Proc. 9th Int. Conf. Cold Fusion, Beijing, May19–24, 2002, p. 246.
+[9] C.Y. Warner and V.S. Arpaci, Int. J. Heat and Mass Transfer 11 (1968) 397.
+[10] U. Grigull, J. Straub, P. Schiebener (Eds.), Steam Tables in SI Units, 2nd Edn., Springer, Berlin, 1984.
+[11] http://www.engineeringtoolbox.com/water-thermal-properties-d_162.html
+[12] Z.-L. Zhang, W.-S. Zhang, M.-H. Zhong and F. Tan, Proc. 8th Int. Conf. Cold Fusion, Lerici (La Spezia), Italy: Italian
+Physical Society, Bologna, Italy, 2000, p. 91.

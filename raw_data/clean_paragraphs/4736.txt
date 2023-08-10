@@ -1,0 +1,356 @@
+1. Chemical Physics Basis
+
+Our reaction model is based on chemical physics research performed at University California –Berkeley and Santa
+Barbara. The energy of a fuel (f) and a reactant (R) binding together by molecular attraction is transferred directly to
+an electron (e−) trapped between them (Fig. 1).
+
+The reaction partitions the RF binding energy into electron kinetic energy, internal vibration of the Rf molecule (if
+any remains), and a small recoil energy of the molecule. This “Vibrationally Promoted Electron Emission” is a direct
+conversion of binding energy to electron kinetic energy [1,2].
+Figure 2 shows only the binding energy, not the coulomb attraction energy. At the moment of ejection, the electron
+is born with both reactant binding and electron coulomb bonding energy. The electron expends the coulomb bonding
+energy while escaping the coulomb potential, and it carries away the reactant binding energy, minus the small product
+molecule recoil (and internal vibration energy, if any remains). Appendix A discusses the chemical physics reactions.
+
+The electron satisfies the Heisenberg Uncertainty Principle (HUP) as it is confined in the potential well of width
+σx between the reactants R and f. Its repulsive momentum (also called “kinetic energy of confinement”) counteracts
+the attractive potentials of molecular binding and coulomb attraction (discussed below). When the attractive potential
+is insufficient to overcome momentum repulsion, there is no transition, and a vibrationally excited molecule decays in
+familiar ways, such as by thermalizing with its environment or by vibrational de-excitation radiation.
+
+When applying the model to the nuclear reactants, such as hydrogen and nickel, the coulomb attraction is insufficient to bring the reactants close enough for the nuclear potential to act, and the transition is forbidden. However, we
+will show that the momentum repulsion can be reduced if the effective electron quasi-particle mass can be temporarily
+increased. Then, when the reduced momentum repulsion is barely exceeded by the attractive potentials, R and f bind,
+and the excitation energy of the compound nucleus de-excites. The resultant nucleus would be in the ground state (or
+have a very long half-life).
+
+After discussing the system Hamiltonian and kinetic energy of confinement we will derive the effective mass
+threshold for the electron quasi-particle to trigger catalysis. Then we will discuss how to transiently elevate some of
+the electron quasi-particle masses.
+
+
+2. Hamiltonian and Quantum Kinetic Energy
+
+When an electron is confined to a small volume, its momentum increases in accordance with the Heisenberg uncertainty
+principle, creating a back-pressure against the confining walls. This momentum repulsion is also called “kinetic energy
+of confinement (KEC).”
+
+The one-dimensional Hamiltonian may be written
+H = Ti + Te + Vnuc + Ve,
+where Ve is the three-body Coulomb potential, Vnuc an independent nuclear binding energy, Ti
+the kinetic energy of
+the ions, and Te is the kinetic energy of the electron. Te becomes very high when the electron is squeezed between
+narrow boundaries. Ve is relatively weak (∼ eV) with a chemical range of order 100 pm. The nuclear binding potential
+Vnuc is relatively strong (MeV), with a very short range (several fm). The ion chemical turning points occur where the
+attractive term Ve +Vnuc is balanced by the repulsive momentum from kinetic energy of confinement, bringing Ti = 0.
+A nuclear reaction is possible only if the attractive potential energy is greater than the repulsive KEC:
+|Ve + Vnuc| > Te at x = xn,
+where xn is the nuclear force radius.
+
+We can estimate the kinetic energy of the electron from the Robertson–Schrödinger relation (modern form of HUP),
+which relates electron quasi-particle momentum p to its spatial confinement dimension. The confinement dimension
+σx is approximately the ion separation distance x: σ2xσ2p = (}/2)2K(n),
+where the variances are
+σ2x = ⟨x2⟩ − ⟨x⟩2, σ2p = ⟨p2⟩ − ⟨p⟩2
+and } is the reduced Planck constant. And for ground states K (ground state) ∼ 1, for a quantum harmonic oscillator
+stationary state K(n) = (2n + 1)2
+, n = 0, 1, . . .; for a Gaussian initial condition or for a coherent state K = 1; for a
+particle in a box K(n) = (n2π2/3 − 2), n = 1, 2, . . .
+
+We assume a Born–Oppenheimer approximation where the electron motion accommodates fast compared to ion
+motions. This implies an oscillatory motion with ⟨p⟩ = 0, and σ2p = ⟨p2⟩. The expected value of the electron KEC is
+therefore
+⟨Te⟩ = ⟨p2/2m⟩ = }2K(n)/8mσ2x.
+
+If m is heavier, then repulsive ⟨Te⟩ is reduced, and the ion turning point occurs at a smaller value of x. Combining
+Eq. (4) with Eqs. (1) and (2), and solving for the threshold electron quasi-particle mass mth, we find
+mth = }K(n)/8σ2x|Ve + Vnuc| at x = xn.
+
+A trapped electron needs to acquire mth in the chemical molecule formed by (f e− R) or by (p muon d). We ask:
+“What is the probability density of the chemical electron quasi-particle at a dimension just inside the nuclear force
+region?” This is the procedure used in K-capture physics, where the normal electron has a density inside a normal
+nucleus. When energy can be lowered by a proton in the nucleus absorbing the electron to form a neutron, a new
+nucleus appears, and neutrinos are emitted. The absorbed electron is a K shell electron.
+
+In our LENR case we use the same procedure as for K-capture analysis, but the fractional electron penetration is
+from the chemical molecule instead of from a K shell electron. The tri-body Ve term is analyzed elsewhere. [3].
+
+When an electron’s mass m < mth, its probability density in the nuclear region is only imaginary and no reaction
+is possible. When m > mth a finite real component of the probability density is possible by tunneling. We estimate
+the tunneling probability for several example LENR cases. When we plot the total energy as a function of confinement
+parameter for different values of effective mass we can visualize how m > mth can trigger a reaction (Fig. 3).
+
+When the effective mass exceeds the threshold (bottom curve Fig. 3) the relative position of the ground state of
+the nuclear system lowers to below the zero of energy and matches the energy level of the chemical state. Figure 4
+shows the resonant electron tunneling can then occur to the nuclear force region between reactants. Upon tunneling,
+the reactants transfer their kinetic energy to the electron when they collide with the electron. The electron scatters,
+leaving the reactants together with only the energy of the ground state. This means the reactants bind in the ground
+state and the energy is transferred to the electron. The electron catalyzed the nuclear reaction.
+
+Note that the electron need not be confined at nuclear dimension. The total energy allows the electron to appear as
+if it collided with a moving wall that gave it the entire binding and bonding energy, the nuclear plus coulomb potential
+energy in the region of the nucleus. The result is a prompt transition to a bound nucleus in the ground state and an
+unbound electron. (The model is discussed further in Appendix B.)
+
+We will discuss how to achieve mth, calculate it for many reactions, and compare the model predictions with
+experimental data.
+
+
+3. Increase of Electron Quasi-particle Mass
+
+Instead of solving the Bloch equations for an electron quasi-particle in a crystallite, and then computing an effective
+mass, we use the quasi-particle shortcut: use solid state effective mass. The effective mass of a ballistic electron quasiparticle in a periodic crystal conductor is proportional to the inverse of curvature of its Band Structure diagram. The
+effective mass of an electron quasi-particle is
+where ~ is the reduced Planck constant [4].
+
+The quasi-particle can only have energy and crystal momentum values on the diagram. Electrons can be placed
+in the region of an inflection point by simultaneous injection of particular values of crystal momentum (phonons) and
+electron energy into a crystallite region. One of many ways to inject a spread of crystal momentum values and energy
+values into a crystal’s band structure is adsorbing or desorbing a nucleus, which may produce a spectrum of energies
+and momenta in the crystal, Fig. 5.
+
+More inflection points are created in a crystal with facets. Therefore, crystals in the process of disintegrating or
+integrating create a splatter of inflection point targets. This means adsorbing or desorbing nuclei and disintegrating and
+integrating crystallites may place some fraction of the electrons sufficiently near an inflection point to usefully raise
+their effective masses, Fig. 6.
+
+When we increase the effective mass, we also increase the apparent density of electrons in the chemical region.
+
+
+4. Example Reactions
+
+Whenever we see the same potential energy schematic or diagram, we suspect the solutions are similar. We notice that
+the proton–muon–deuteron picture is like that of the chemical research (Fig. 7). The negative muon brings p and d
+close enough to create the transition state where the nuclear force can bind them. The muon has a mass well above the
+threshold. It should immediately eject the muon, which is a transient heavy electron. The muon would carry away the
+binding energy leaving the merged product (pd), which is helium-3. This was observed [5–9].
+
+Table 1 lists some other reactions of interest. Some nuclear reactions have the same f e R pattern, but with several
+fuel ions and electrons, such as
+4f4e−R → [4fR] + energy
+
+If electron quasi-particles could acquire sufficient mass, then most LENR transmutations could be understood.
+
+A revealing example uses only protons with a lattice reactant to produce helium and isotopes. The example suggests
+the process is not a fusion of protons or deuterons together, but instead a binding of protons or deuterons with a lattice
+reactant. For example, the model predicts that two protons will bind with 62Ni or 64Ni to generate Fe, Cu, Zn, and
+Co. Reference [8] quantified the relative amounts of the isotopes to the original Ni. Brillouin Energy (2015) reported
+the observation of helium. The 2H + 64Ni + 2 heavy electrons with effective mass ∼ 35 electron rest masses would
+create excited state Zn with 13 MeV within the 64Zn product nucleus and decay by one of several branches. Helium
+with 11.8 MeV and 62Ni can be ejected, or two helium sharing 4.8 MeV and 58Fe can be ejected. Other branches may
+emit Cu, Cr, Ti, and C and have been variously reported. Similarly, 2H + 62Ni can produce 60Ni + helium or 56Fe +
+2 He.
+
+Helium production from proton–metal reactions as predicted by our 1D model appears to confirm the process is
+not fusion, cold or hot. It is instead a form of nuclear vibrationally promoted electron emission with the energy re-used
+inside the reacting nucleus.
+
+During electrolysis of H and D with Pd Alexandrov observed both 4He and 3He [9]. This is consistent with our
+prediction of a catalytic reaction where H and D merge with Pd to make an intermediate Cd compound nucleus and
+containing two electrons with about 20 MeV total. This energy is enough that it could fracture the Cd into stable
+parts: Pd and 3He. Effective mass threshold for H–D–Pd reactions is of order 12 – 14. In this reaction palladium is a
+catalyst that is regenerated. The mixture also produced the expected D + D + 2e−+ Pd → (Cd* + 2e−) → Pd +4He.
+Effective mass threshold for deuteron–Pd reactions are of order 10–13. Another example is H + H + 2e−+104Pd →
+(Cd* + 2e−) →102Pd +4He. Effective mass threshold for proton–Pd reactions are of order 22–29. Here, the Pd is a
+reactant and a different Pd isotope product.
+
+
+5. Rules for Producing LENR in Crystallites
+
+Rule 1: The Mass–energy difference between reactants and product must be exothermic. (The mass of the starting
+reactants must be greater than the mass of the products.)
+
+Rule 2: Inject a splatter of crystal momentum and energy to raise the electron quasi-particle mass m above the
+threshold mass mth. Expect either energetic electron emission or heat resulting from their thermalization.
+
+Rule 3: Ignore the normal electrons, including the core electrons, around nuclei. Muon–nucleus particle physics
+observed that the heavy electrons may approximately ignore the normal and low mass electrons.
+
+Rule 4: Highest atomic number attracts heavy electrons Muon–nucleus particle physics definitively observed that
+heavy electrons are strongly attracted to the nuclei with the highest number of protons. The isotopes with the highest
+proton number should either react with the heavy electrons or thermalize them without reaction.
+
+Rule 5: Evaluate possible emissions using “excitation energy” that is available in the compound nucleus. The binding
+energy is transferred to multi-MeV electron quasi-particles inside the nucleus. Stable subunits of the nucleus, such as
+alpha particles, can be emitted if the excitation energy is above the alpha binding energy.
+
+Rule 6: Consider electron capture of the injected heavy electrons when electrons have > 0.8 MeV. Expect this energy
+to escape the “excess heat” measurements, because the lowest mass absorbs the highest energy, neutrinos are almost
+zero mass and they rarely interact, so that neutrino emission is nearly undetectable.
+
+We have considered many different LENR reactions, including:
+• When deuterium (D) was reacted by electrolysis with natural palladium-105 (105Pd), silver-107 (107Ag) appeared [10].
+• When cesium, barium, strontium, calcium and tungsten (Cs, Sr, Ba, Ca, and W) were separately reacted with
+deuterium using deuterium adsorption and desorption, the isotope products looked like nuclei with 2, 4 or 6
+more deuterons had been added (141Pr, 96Mo, Sm, Ti, Os, and Pt) [11–13].
+• Praseodymium (141Pr) appeared, as if cesium (133Cs) merged with four deuterium [12]. Iron (56Fe) appeared
+as if calcium (44Ca) absorbed six deuterium to make iron (56Fe), with intermediates titanium (44Ti) and
+chrome (52Cr) [12].
+• When a titanium fuse was exploded in light water, Ni, Zn, Cu, and Fe appeared [14].
+• In electrolysis of a mixture of heavy and light water, both 3He and 4He were observed [9,15].
+• When dislocations, crystallite boundaries and imperfections were included, LENR reactions increased [16].
+• When rubidium salt was included in a light water electrolysis, radioactive emissions consistent with the threeday half life of 87Y were observed [17].
+• When LiAlH4 was included in a nickel reaction, all the nickel isotopes reacted with lithium and hydrogen
+fuels in combination, resulting in the expected Fe, Cu, Co and other isotopes. The Al also reacted with Li and
+H, generating Cl and Si. [8,18–20].
+
+Our model predictions are consistent with the transmutation data from each of these experiments.
+
+Two types of alpha emitting reactions should occur with about 1/10 of the isotopes in the periodic table. The
+hydrogen reaction is AX + 2H →A−2X +4He. The deuterium reaction is AX +2n*D →AX +n*
+4He, where n is an
+integer. These reactions can be almost invisible.
+
+Many of the emitted alpha particles (He++) may pick up electrons from the surrounding dense cloud of electrons
+(both heavy and light) and emerge as energetic (∼10 MeV) neutral atoms. These energetic neutral atoms’ (ENA)
+ranges should be much longer than the range of charged alpha particles, making them difficult to measure.
+
+A few radioactive isotopes should be produced, even though the theory predicts that most the products are “born
+in the ground state.” The hydrogen-nickel reactions (2H + Ni → isotopes + energy) seem to react with all the Ni
+isotopes. Some of the intermediate nickel isotope products should be “stable” on nanosecond time scales, but could be
+beta emitting and electron capture isotopes. Such products look like a “ground state” because of their stability (seconds
+to mega years) on the time scale of nuclear reactions (10−20 s).
+
+These intermediates should be beta emitters or electron capture isotopes. One would not see the K-alpha radiation
+of the usual K-capture process because the externally supplied electron is already inside the nucleus and does not come
+from the K shell. One would not see much beta emission because electrons have such a short range in real materials.
+Many ejected electrons are thermalized in the electron cloud around the emitting nucleus during tens of fs, resulting in
+heat. However, Karabut and Saavatimova have reported isotopic evidence of the radioactive beta and electron capture
+isotopes in conducting targets of proton glow discharges with energies under about 3 keV [21–25]. Lipoglavsek
+apparently observed evidence for the expected 5.3 MeV electron from proton–electron–deuteron transmutations [26–
+28].
+
+A third branch might explain a small fraction of observed isotopes: the production of neutrons from energetic
+electrons inside the nucleus colliding with protons, which would be a weak interaction inside the nucleus.
+
+
+6. Reaction Branches
+
+Three branches have been identified:
+(1) transmutations to other stable isotopes emitting electron quasi-particles as energy,
+(2) prompt fracturing to another branch, emitting energetic stable products (such as He), possibly charge neutral,
+(3) prompt electron capture to stable products emitting neutrino energy.
+
+
+7. Conclusions
+
+Our tri-body catalysis model assumes that a particular crystal momentum and electron energy addition can transiently
+elevate some electron quasi-particle masses in a crystalline lattice containing reactants. The size of chemical entities
+is inversely proportional to the quasi-particle mass. When the effective mass exceeds a threshold value mth, the size
+of chemistry shrinks and the chemical separation distance can become small enough that electron tunneling into the
+region of the forces binding the reactants can apparently catalyze reactions.
+
+The recently discovered chemical physics of Vibrationally Promoted Electron Emission (VPEE) reported by LaRue
+[1] provides the physics for a model to use nuclear binding potentials in place of chemical potentials to bind reactants
+together. Instead of chemical reactant binding, nuclear reactant bindings (transmutations) can be stimulated when the
+shrinking of chemical size exceeds a threshold. VPEE with elevated effective mass quasi-particles provide a model to
+characterize and predict the rates and products of hydrogen/reactant interactions in the solid state.
+
+Alvarez [5] provided the first example of nuclear reactions stimulated by a shrinking of the size of chemical entities
+when he used a mu meson as the bonding electron in a hydrogen–heavy electron–reactant molecule. The result was
+similar to its chemical counterpart. A new nucleus can be formed from its reactants and nuclear binding energy is
+delivered to electrons inside the region of nuclear forces. The electron quasi-particles may eject and thermalize to heat
+within the lifetime of a ballistic electron in the lattice, with the transmuted product remaining in its ground state. Or
+the electron may deliver the energy to the product itself, causing partitioning and ejection of stable subnuclei, also
+transmutation products
+
+Reactions of protons binding with nickel isotopes should result in a form of fission of the zinc product into helium
+and transmutation nuclei. The helium and the isotopes have been observed. No deuterons need be involved, and no
+fusion, hot or cold, need be invoked.
+
+Solid state methods to transiently elevate the electron effective mass are identified. In each case of a claimed
+transmutation stimulated by chemical means, one or more of the identified methods to transiently elevate electron
+quasi-particle mass appear to be activated.
+
+Helium-3 and Helium-4 productions were predicted for mixed light and heavy hydrogen electrolysis with palladium. The intermediate product was a cadmium, energized with ∼20 MeV electrons inside the nuclear force region.
+The final products include the original palladium and helium-3 from H + D + Pd and helium-4 from D + D + Pd
+reactions, which Alexandrov reported.
+
+When multiple pairs of deuterium were reacted with various isotopes including Cs, Sr, Ba, Ca, and W, the observed
+ground state isotope products looked like nuclei with 2, 4 or 6 more deuterons had been added (141Pr, Mo, Sm, Ti, Os,
+and Pt). The reaction fits the heavy electron model for “shrinking of the size of chemistry” and of the VPEE process
+to bind the reactants into ground state product nuclei.
+
+Reaction rates are based on an elevated effective mass, evanescent electron wavefunction density when a chemical
+electron with scatters from the nuclear region between the reactants. The elevated residence time of the heavy electron
+between the attracting reactants (which must include the electron to be attractive) allows the reactants to converge to the
+smaller size of the product nucleus. The electron is scattered when it collides with the converging reactant nuclei, and
+appears either as an ejected electron or as electron energy within the nuclear product, typically inducing fission-like
+emissions.
+
+
+References
+
+[1] J.L. LaRue, Tim Schaefer, Daniel Matsiev, Luis Velarde, N. Hendrik Nahler, Daniel J. Auerbach and Alec M. Wodtke, Electron
+kinetic energies from vibrationally promoted surface exoemission: evidence for a vibrational autodetachment mechanism,
+J. Phys. Chem. A 115 (2011) 14306–14314, dx.doi.org/10.1021/jp205868g.
+[2] J.D. White, J. Chen, D. Matsiev, D.J. Auerbach and A.M. Wodtke, Vibrationally promoted electron emission from low
+work-function metal surfaces, J. Chem. Phys. 124 (6) (2006) 064702.
+[3] A.C. Zuppero and T.J. Dolan, Heavy electron catalysis of nuclear reactions, J. Condensed Matter Nucl. Sci. (2018), submitted.
+[4] Charles Kittel, Introduction to Solid State Physics, 8th Edn., Wiley, Hoboken, NJ, 2005, ISBN-0: 047141526X.
+[5] L.W. Alvarez, H. Bradner, F.S. Crawford Jr., J.A. Crawford, T.P. Falk-Vairant, M.L. Good, J.D. Gow, A.H. Rosenfeld, F.
+Solmitz, M.L. Stevenson, H.K. Tichoy and R.D. Tripp, Catalysis of nuclear reactions by mu mesons, American Physical
+Society Meeting, Monterey, CA, Dec. 28, 1956, Phys. Rev. 105 (1957) 1127.
+[6] J.D. Jackson, Catalysis of nuclear reactions between hydrogen isotopes by mu_minus mesons, Phys. Rev. 106 (1957) 330.
+[7] E.J. Bleser, E.W. Anderson, L.M. Lederman, S.L. Meyer, J.L. Rosen, J.E. Rothberg and I.-T. Wang, Muonic molecules in
+liquid hydrogen, Phy. Rev. 132 (6) (1963) 2679–2691.
+[8] Yu.N.J. Bazhutov, J. Condensed Matter Nucl. Sci. 13 (2014) 29–37.
+[9] Dimiter Alexandrov, Nuclear fusion in solids – experiments and theory, Abstract, ICCF-21, Fort Collins, CO, June 3–8,
+2018.
+[10] Jean-Paul Biberian, Anomaloous isotopic composition of silver in a palladium electrode, Abstract, ICCF-21, Fort Collins,
+Colorado, June 3–8, 2018.
+[11] Y. Iwamura, T. Itoh, M. Sakano, S. Sakai and S. Kuribayashi, Low energy nuclear transmutation in condensed matter induced
+by D2 gas permeation through Pd complexes: correlation between deuterium flux and nuclear products, Proc. 10th Int. Conf.
+on Cold Fusion, 2003, Cambridge, MA, USA, Accessed at http://www.lenr-canr.org/acrobat/IwamuraYlowenergyn.pdf.
+[12] Yasuhiro Iwamura, Takehiko Itoh, Y. Terada and T. Ishikawa, Transmutation reactions induced by deuterium permeation
+through nano-structured pd multilayer thin film, Transactions of the American Nuclear Society, Vol. 107, San Diego, CA,
+November 11–15, 2012.
+[13] Yasuhiro Iwamura, Mitsuru Sakano and Takehiko Itoh, Elemental analysis of Pd complexes: effects of D2 gas permeation,
+Jpn. J. Appl. Phys. 41 (2002) 4642–4650, Part 1, No. 7A, July 2002.
+[14] L.I. Urutskoev, Review of experimental results on low-energy transformation of nucleus RECOM Inst. Kurchatov, Moscow,
+Annales de la Fondation Louis de Broglie 29 (3) (2004) 1149.
+[15] Michael McKubre, Francis Tanzella, Paolo Tripodi and Peter Hagelstein, The emergence of a coherent explanation for
+anomalies observed in D/Pd and H/Pd system: evidence for 4He and 3He production, in 8th Int. Conf. on Cold Fusion, 2000,
+Lerici (La Spezia), Italy: Italian Physical Society, Bologna, Italy.
+[16] Czerski Konrad, Influence of crystal lattice defects and the threshold resonance on the deuteron–deuteron reaction rates at
+room temperature, Abstract, ICCF-21, Fort Collins, Colorado, June 3–8, 2018.
+[17] R. Bush and R. Eagleton, Evidence for electrolytically induced transmutation and radioactivity correlated with excess heat
+in electrolytic cells, with light water rubidium salt electrolytes, EPRI, Proc. Fourth Int. Conf. on Cold Fusion, 1994.
+[18] Giuseppe Levi, Evelyn Foschi, Bo Höistad, Roland Pettersson, Lars Tegnér and Hanno Essén, Observation of abundant
+heat production from a reactor device and of isotopic changes in the fuel, Accessed at URL: http://lenrcanr.
+org/acrobat/LeviGobservatio.pdf. www.sifferkoll.se/sifferkoll/wp-content/uploads/2014/10/LuganoReportSubmit.pdf.
+[19] K.P. Rajeev and D.J. Gaur, Evidence for nuclear transmutations in Ni–H electrolysis, J. Condensed Matter Nucl. Sci. 24
+(2017) 278–283.
+[20] G.H. Miley and J.A. Patterson, Nuclear transmutations in thin-film nickel coatings undergoing electrolysis, J. New Energy,
+1(3) (1996) 5, http://www.lenr-canr.org/acrobat/MileyGHnucleartra.pdf.
+[21] I.B. Savvatimova, Transmutation of elements in low-energy glow discharge and the associated processes, J. Condensed
+Matter Nucl. Sci. 6 (2012) 181–198.
+[22] I. Savvatimova, Y. Kucherov and A.B. Karabut, Cathode material change after deuterium glow discharge experiments, in
+fourth Int. Conf. on cold fusion, 1993, Lahaina, Maui: Electric Power Research Institute 3412 Hillview Ave., Palo Alto, CA
+94304.
+[23] I. Savvatimova, Decay of tungsten under low-energy deuterium discharge and creation of more light isotopes 1, creation
+of more light elements in tungsten irradiated by low energy deuterium ions, in 8th Int. Workshop on Anomalies in Hydrogen/
+Deuterium Loaded metals, Catania, 13–18 October, 2007.
+[24] I. Savvatimova, Gennady Savvatimov and Alla Kornilova, Decay of tungsten under low-energy deuterium discharge and
+creation of more light isotopes 2, gamma/x ray emission of tungsten cathodes before, during and after deuterium discharge,
+8th Int. Workshop on Anomalies in Hydrogen/Deuterium Loaded Metals, 13–18 October 2007, Sheraton Catania, Hotel and
+Conf. Center; Via Antonello da Messina 45, 95020 Cannizzaro(CT), Sicily, Italy.
+[25] A.B. Karabut, 8th Int. Workshop on Anomalies in Hydrogen/Deuterium Loaded Metals, 13–18 October 2007, Sheraton
+Catania, Hotel and Conf. Center, Via Antonello da Messina 45, 95020 Cannizzaro(CT), Sicily, Italy.
+[26] M. Lipoglavšek, S. Markelj, M. Mihovilovîc, T. Petrovîc, S. Štajner, M. Vencelj and J. Vesîc, Observation of electron
+emission in the nuclear reaction between protons and deuterons, Phys. Lett. B 773 (2017) 553–556.
+[27] A. Cvetinovic, M. Lipoglavsek, S. Markelj and J. Vesic, Molecular screening in nuclear reactions, Phy. Rev. C 92 (2015)
+065801. .
+[28] S.A. Rakityansky, S.A. Sofianos, L.L. Howell, M. Braun and V.B. Belyaev, Nonradiative proton-deuteron fusion in stellar
+plasma, Nucl. Phys. A 613 (1997) 132–146.
+[29] L. Hellberg, J. Stromquist, B. Kasemo and B.I. Lundqvist, Phys. Rev. Lett. 74 (1995) 4742.
+[30] H. Nienhaus, H.S. Bergh, B. Gergen, A. Majumdar, W.H. Weinberg and E.W. McFarland, Hole pair creation at Ag and Cu
+surfaces by adsorption of atomic hydrogen and deuterium, Phy. Rev. Lett. 82 (2)(1999) 446.
+[31] Yuhui Huang, Charles T. Rettner, Daniel J. Auerbach and Alec M. Wodtke, Vibrational promotion of electron transfer,
+Science 290 (6) (2000) 211.
+[32] Ji, Xiao Z. and Gabor A. Somorjai, Continuous hot electron generation in Pt/TiO2, Pd/TiO2, and Pt/GaN catalytic nanodiodes
+from oxidation of carbon monoxide, J. Phys. Chem. B 109 (2005) 22530–22535.
+[33] T.-C. Chiang, Surface Sci. Reports 39 (2000) 181–235.
+[34] Iwao Matsuda, Takehiro Tanikawa, Shuji Hasegawa, Han Woong Yeom, Kensuke Tono and Toshiaki Ohta, Euro. J. Surface
+Sci. Nanotech. 2 (2004) 169.
+[35] J.J. Paggel, T. Miller and T.-C. Chiang, Science 283 (1999) 1709–1711.

@@ -1,0 +1,206 @@
+INTRODUCTION
+
+In the context of recent claims [1,2] of excess energy production during
+electrolysis of LiOD solutions with palladium cathodes, we decided to carry
+out calorimetric studies to supplement our efforts to detect 4He or T
+production by a mass spectroscopic technique [3]. The magni~de of the
+excess enthalpy expected from cold fusion (i.e. the enthalpy change over
+and above that established for normal electrochemical processes), and
+previously claimed by Fleischmann and co-workers [1,2] is so large that it
+should be easily detected, even with very simple calorimetry. Because “cold
+fusion”, if it occurs at all, is expected only at odd intervals, or after long
+induction periods, we employed a calorimeter designed to operate unattended
+over long periods. For that purpose we constructed a simple
+diathermal calorimeter monitored with a computer controlled data system.
+
+
+CALORIMETRIC TECHNIQUE
+
+In a calorimeter designed to measure a constant heat flux, thermal
+power is exchanged with the surroundings (or “bath”) at a constant rate
+(dq/dt)ca~ori=m -e(tdeqr/ ‘dt)bath-If the bath is held at constant temperature
+the cell will come to a different (and higher) temperature after
+sufficient time. If the temperature difference is not too large, the process is
+first order and (dq/dt) = -k(T,,, - Tbath). The proportionali~ constant k
+may be deduced by making a series of steady state measurements at
+different heat flares. It is also useful to examine the kinetics of the first
+order decay of (T,,, - Tbati,> when the power input to the cell is switched
+off. In that case the heat flux, cell to bath, decays as the cell temperature
+drops, d(dq/dt) = -c dT. The cell temperature reaches bath temperature
+after a suitably long time, where TCC,,,=m Ta = Tbath. Appropriate substitution
+leads to ln[(T - K)/(l;, - Tm>l = - (k/c)(t - to), where T,, is the cell temperature at time t, when the decay process is
+started. For the present experiments the total temperat~e change is small,
+amounting at most to a few degrees, and the temperature difference
+2”,,, - TbEMl is accurately proportional to the change in resistance of the
+platinum RTD temperature sensors,‘ AT = a AR, so
+(f - to) = -(c/k) ln[(AR - AR,)/(ARo - AR,)].
+We determined c/k and k by appropriate measurements of decay rates
+and steady state measurements of resistance differences as a function of
+heat flux into the electrochemical cell. Least squares analysis of the
+individual runs showing AR versus t allowed definition of the fitting
+parameters -(c/k), AR, and to. The assumption of first order decay was
+nicely borne out by the measurements.
+
+In long-time electrolysis runs the amount of material in the calorimeter
+slowly decreased as D, (or H,) and 0, gassed off, and the assumption of
+constant mass, which is intrinsic to the development above, was not met.
+The result was a slow drift in (Tcell - Tbath) which continued until make-up
+water was added. (Typically about 25% of the starting material was
+electrolyzed; make-up water was added every few days, and the amount of
+fluid in the cell was never allowed to drop below 95% of the initial value.)
+In any event the slow drift from this cause can in no sense disturb the
+detection of periodic or occasional energy bursts of the kind claimed by
+Fleischmann and Pons. Those bursts should appear as large peaks on
+time-temperature plots of the calorimeter data. Indeed, Fleischmann et al.
+[2] showed figures of several time-temperature plots displaying large
+transient peaks of this nature.
+
+
+CALORIMETRIC EXPERIMENT
+
+The calorimeter resulting from the considerations above is shown diagrammatically in Fig. 1. The electrolysis cell and its surrounding air jacket
+(introduced to give convenient values for k and k/c) are completely
+submerged in a reservoir (bath) containing about 70 dm3 of water. The
+bath is not thermostatted but is large enough appreciably to damp room
+temperature fluctuations. Over long times the bath thermally averages
+room temperature, but a slow thermal wave with an amplitude of 0.01 to
+0.02 K for (Teen - Tbath) and one-day periodicity is observed. That slow
+change is the equivalent, peak to peak, of l-2% or so of the thermal flux,
+and sets the limit on sensitivity for the detection of slow changes in heat
+flux. More rapid changes, say ones with characteristic rise times of 1 h or
+less, can be detected with somewhat better sensitivity, about 0.5%. The
+electrodes and calibrating heater are powered from a potentiostat to assure
+a constant current for electrolysis or calibration. The electrolysis or heater
+currents are measured by determining the voltage drop across a standard
+resistor. Cell and bath temperatures were measured with four-terminal 100
+n platinum wound RTD elements. The electrolysis or heater calibration
+currents were recorded with an Apple II computer using a DAIS1 AI-13
+interface. The RTD resistances were also read by the computer, which
+queried a high precision Guildine 9576 datastore digital voltmeter in its
+remote mode.
+
+Fig. 1. Electrolysis cell used for diathermal calorimetric measurements. Key: 1, Pd or Ti
+cathode; 2, reference electrode; 3, Pt anode concentric to cathode; 4, calibration electrical
+resistance heater; 5, electrolyte solution; 6, platinum resistance thermometer (cell); 7,
+external glass jacket separated from electrolysis cell by 0.5 cm air gap; 8, Teflon cap; 9,
+platinum resitance thermometer (bath).
+
+During electrolysis, RTD resistances and electrolysis current and voltage
+were periodically sampled by the computer and the data were stored. The
+frequency of measurement was adjustable, but we normally made a complete
+reading once every 5 or 10 min, usually reading data every minute (or
+less), testing for large excursions from a running average, but printing or
+storing data points less frequently, say every 10 min. In any event we were
+always careful to record with a frequency much higher than the equivalent
+of the thermal relaxation time of the calorimeter. This insured that no
+significant excursion of the heat flux from its characteristic average value
+would be missed by the data collection routine. The scheme considerably
+eases the data analysis problem.
+
+Power input to the electrochemical cell is divided into. an efectrochemical
+part (used to generate gaseous oxygen and hydrogen from the electrolyte)
+and a thermal part. The latter is calculated from P cell,thermal = (dq/dt)ce*l = (U~/~sr)(~ie~~ -EthJ
+where US, is the voltage drop across the standard resistor, R,, = 4.919 a,
+Ucel, is the measured voltage difference between the anode and the cathode
+of the electrolysis cell, and E,, is the thermochemical voltage as calculated
+from the free energy of formation of D,O (or H,O for control experiments)
+from the elements, E,, = -AG,/2F. The free energy is not the
+standard state value but should be corrected for the fact that neither
+product nor reactants are in their standard states, nor are the experiments
+at precisely the standard temperature of 298 K. However, the differences
+are small and may be neglected at the level of precision appropriate to the
+present experiments.
+
+
+ELECTROLYSES
+
+We used several sets of electrodes in the calorimetric experiments. In
+the first, a Pd rod cathode (6.35 mm diam. X 25 mm) with an active surface
+of 5.30 cm2 running against a concentric platinum cylinder anode was
+employed. A second series of measurements was made with a titanium
+cathode (6.35 mm diam. X 60 mm) running against the Pt anode. Yet
+another group used a tubular Pd/Ag cathode of the type described in a
+previous paper [3]. The electrolysis cell was filled with about 75 cm3 of 0.25
+M LiOD dissolved in D,O (or approximately the same volume of 0.25 M
+LiOH dissolved in H,O in control experiments). Many runs were performed
+over a reasonable range of current densitites. Typically the electrochemical
+parameters and RTD resistances were sampled every minute, Ten
+point averages were calculated and stored for the duration of the run,
+which lasted normally between 2 days and 2 weeks. The thermal relaxation
+time of the calorimeter (see discussion above) is long compared with the
+rate of accumulation of data, so that it would be impossible to miss thermal
+excursions of the kind described by Fleischmann and co-workers [1,2]. All
+time-temperature plots for many experiments made during the 18 month
+period between June 1989 and December 1990 show no deviation from
+smooth steady state behavior and no excess power production which we can
+attribute to “cold fusion”. Those few anomalies which we did observe early
+in the development of our experimental procedures disappeared as we
+refined apparatus and techniques.
+
+Fig. 2. RTD resistance-time curves in the region of the ending portion of an electrolysis
+run. The cooling curve which results from turning off the electrolysis is clearly shown. The
+zero time marker is arbitrarily inserted; this particular run lasted 37 days with very slow
+temperature drifts centered around (R, - R,) = 3.7 a. The slow resistance changes shown
+in the approximately level portion are typical of the slow drift in the equilibration point of
+the calorimeter as room temperature shifts. They set the limit on the sensitivity for the
+detection of thermal events with long time constants.
+
+In addition to the steady state electrolyses described above and reported
+in more detail below, we made a number of runs where the voltage applied
+to the cathode was pulsed periodically (with a frequency on the order of
+tens of seconds) between zero and 1.6-1.7 V, reasoning that this technique
+would pulse the D atom activity in the Pd lattice. No anomalous heating
+was observed under these conditions.
+
+The ending part of a typical electrolysis run is shown in Fig. 2, and
+results of a typical set of runs are reported in Tables 1 and 2. Numerical
+analysis of the cooling at the end of a run yields SR = AR, - AR,, and the
+heat loss from the cell at steady state (dq/dt) =K6R is obtained by
+picking the appropriate value of K from a calibration plot of data such as
+those found in the last column of Table 1. The heat balances are within 1%
+except for the low-current run where the relative errors are larger.
+
+A complete report of our calorimetric effort extending over many
+months is available [4]. These data, which are not presented here in any
+detail, can be summarized with the statement that we were unable to
+detect any thermal inconsistencies which can be attributed to untoward
+effects such as “cold fusion” (i.e. thermal excursions with time constants
+between 1 min and several hours yielding heat balances deviating by more
+than a few percent from the electrochemically calculated values).
+
+
+CONCLUSION
+
+The present calorimeter was designed to detect power bursts during
+electrolysis of LiOD-D,O solutions using a palladium (or titanium) cathode.
+Our interest was frankly focused on large excursions from those
+heating rates expected from normal electrochemical processes. The
+calorimeter is of sufficient sensitivity to detect an excess power pulse of as
+little as several minutes duration in runs lasting between several days and
+several weeks. Our experience with this apparatus during a period of
+development and use in excess of one year reveal no excess heat production.
+We have also recently reported experiments designed to detect the
+production of trace amounts of helium and/or tritium in the interior of a
+palladium-silver electrode during electrolysis of LiOD solutions. Electrolysis
+products that diffused through the evacuated tubular electrode were
+concentrated by reaction of H,, HD and D, with CuO, then analyzed by
+mass spectroscopy and radiometry. The limit of detection for 4He was
+1 x 1011 atoms. No evidence for production of helium or tritium by “cold
+fusion” was detected [3]. This result disagrees with that of Bush et al. [S].
+
+
+REFERENCES
+
+1 M. Fleischmann, S. Pons and M. Hawkins, J. Electroanal. Chem. Interfacial Electrochem.,
+261 (1989) 301; 263 (1989) 187.
+2 M. Fleischmann, S. Pons, M.W. Anderson, L.J. Li and M. Hawkins, J. Electroanal. Chem.
+Inter-facial Electrochem., 287 (1990) 293.
+3 A. Zywocinski, H.L. Li, A.A. Tuinman, P. Campbell, J.Q. Chambers and W.A. Van
+Hook, J. Electroanal. Chem. Interfacial Electrochem., in press.
+4 A. Zywocinski, H.L. Li, A.A. Tuinman, P. Campbell, J.Q. Chambers, and W.A. Van
+Hook, Internal Report, University of Tennessee, 1990.
+5 B.F. Bush, J.J. Lagowski, M.H. Miles and G.S. Ostrom, J. Electroanal. Chem. Interfacial
+Electrochem., 304 (1991) 271.
+
+
+

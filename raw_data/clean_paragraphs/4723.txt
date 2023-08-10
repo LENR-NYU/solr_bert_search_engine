@@ -1,0 +1,63 @@
+1. INTRODUCTION
+
+The nuclear reactions, that any nucleon is added by radioactive capture or radioactivity, are of central
+importance to understand the nuclear structure. Any one, who is interested in investigating the structure of
+nucleons and their properties, should be excited to the progress on experimental results about the emission of
+charged particles, such as clusters (specially heavy clusters14C, O, F, Ne, Mg and Si), fission isomers, etc. after
+the first case of radioactive proton emission was observed in 1970. The discovery of 14C radioactivity gave
+particularly rise to great excitement in nuclear physics. After 14C radioactivity discovered neon radioactivity
+was discovered in 1985, magnesium in 1987. Evidence for silicon was obtained in 1989. Fluorine and oxygen were discovered in 1992 and 1993, respectively. Furthermore, there are another experimental results
+from Miley et al [8], which should give rise to great excitement in nuclear physics also. That is the observation
+results of transmutation products in electrode during the electrolysis of water. These results may be explained by
+assuming that the nucleus or the cluster is a system of independent particles, moving in a mean filed created by
+all nucleons, or by the theory, which could allow us to treat two-body breakup in fission. Here, it may be valuable
+to do it on traditional path, as a general two-body system treatment. In this case, it may be obtained the possible
+solutions of the negative energy bound states of the stable Schrödinger equation with Coulomb potential barrier
+and square well potential induced by nuclear force for the system of two nuclei.
+
+
+2. MODELAND RESULTS
+
+Consider a general spherical square well combined with the Coulomb potential for a two nucleus- nucleus
+system.
+A regular solutions of the radial equation is.
+We will discuss its solutions by three regions.
+This equation is equivalent to.
+for E < 0 with 2 α = 8µ | E | /  > 0, (Z Z / ) / | 2 | 2 β = 1 2 e  µ E > 0 and ρ = αr.
+1. For ρ → ∞, the radial function behaves as exp(ρ/2) or exp(−ρ/2). Of course, it should be the latter one for
+a suitable result.
+2. On the other hand, it behaves as ρ l +1 and ρ−l for ρ → ∞. For ρ l +1 we have.
+No any solution exists in this case. For ρ
+-l we have.
+For nr = l − n, the wave function of the corresponding bound state is the (un-normalized) wave function
+constructed with the radial solution.
+
+The possible energy levels of the stable Schrödinger equation with Coulomb barrier and square well potential
+induced from nuclear force for two nuclei system could be obtained: |E1| = 25 keV for D-D; |E1| = 16.7 keV for
+p-D; |E1| = 30 keV for D-T and |E1| = 12.5 keV for p-p system. Of course, the light-heavy nuclei systems also
+have the similar results.
+
+
+3. CONCLUSION
+
+Based on the model of two nuclei system, our results indicate a kind of loose bound state may exist and it
+has energy level in the range of a few 10 keV, which may be origins of X-ray observed in experiments.
+
+
+REFERENCES
+
+[1] K.P. Jackson, C.U. Cardinal, H.C. Evans, N.A. Jelley and J. Cerny, Phys. Lett. B 33 (1970) 281.
+[2] H.J. Rose and G.A. Jones, Nature 307 (1984) 245.
+[3] S.P. Tretyakova, A. Sandulescu, Yu S. Zamyatnin, Yu S. Korotkin, and V.L. Mikheev, JINR Dubna Rapid
+Commun. 17 (1985) 23.
+[4] S. Wang, P.B. Price, S.W. Barwick, K.J. Moody, and E.K. Hulet, Phys. Rev. C 36 (1987) 2717.
+[5] S. Wang, D. Snowden-Ifft, P.B. Price, K.J. Moody, and E.K. Hulet, Phys. Rev. C 39 (1989) 1647.
+[6] P.B. Price, R. Bonetti, A. Guglielmetti, C. Chiesa, R. Matheod, C. Migliorino and K.J. Moody, Phys. Rev. C
+46 (1992) 1939.
+[7] R. Bonetti, C. Chiesa, A. Guglielmetti, C. Migliorino, A. Cesana and M. Terrani, Nucl. Phys. A 115 (1993)
+556.
+[8] G.H. Miley, G. Narne, M.J. Williams, J.A. Patterson, J. Nix, D. Cravens, and H. Hora, Progress in New
+Hydrogen Energy (Proceedings Vol. 2) The Sixth International Conference on Cold Fusion, Oct. 13-18,
+1996, Japan, p. 629.
+[9] Z.Q. Zhang, Z.L. Zhang, Review of Nuclear Physics (in Chinese) 16 (1996) 95.
+[10] Z.Q. Zhang, Z.L. Zhang, Acta Optics (in Chinese) 28 (1999) 1061.

@@ -1,0 +1,88 @@
+Experiment: 
+
+Electrodes (Pd, Nb, Ta or other metal) were fixed to both ends of a glass reaction bulb. The
+thickness of the glass wall of bulb was 2.0 ± 0.2mm, the voltage V and current I of discharge were
+4-l 8KV, l-50mA(50Hz) respectively: The pressure of discharge gas (02, H2, air, Ar••·) was dynamic (flowing) low pressure(< 100Pa).
+
+The x-ray measurement system was composed of a high pure Ge detector (G MX200) made in
+ORTEC company of U.S.A., a pulse shape analyser (CANBERRA, 2160A) and a IBM-PC/XT
+computer. The detector sensitive volume was 102 cm3, the measuring range was 5 KeV to l.64Mev,
+the relative efficiency is 20%. The Ge detector was placed in a lead shielded cabin so that the background was 10~ l lcounts / sec within 24 to 4096 channels. We used 152Eu and 241Am source to calibrate the energy Ex and detection efficiency ci of x-ray detector, the results were described as table
+1, the error and the drift of energy during a week was less than 0.5KeV. 
+
+Using different thickness (L) metal attenuator (Cu, Al, Cd foil), the (µ I p)(Ex) of source x-ray
+could be obtained, it was consistent with the standard value [2] (error~ 15%). In air discharge there 
+was not anomaly of x-ray. 
+
+
+Results: 
+
+There were some anomalous phenomenon in many energy spectrums of x-ray, table 2-5 described the typical spectrums, there were high energy x-ray; in the energy interval Ex I (..f2ev )
+= 3~ 20 (V denoted alternating voltage, e denoted electron charge), the intensities of x-ray were
+10% ~ 1000% of background. To test the character of x-ray, we used different thickness {L) metal
+attenuating foil (Cu, Al, Pb, Cd foil) in front of the detector, the mass attenuation cross section 
+(µ I p)(Ex) might be obtamed (see table 6-9): µ/p = 1/p(L1-L2), N1(Ex), N2(Ex) were the Intensities of x-ray of energy Ex as metal attenuating foil of thickness L1, L2was
+used respectively. N0 (Ex) was the Intensities of background, p was the density of metal foil. In Comparison with the standard value (µ I p) • of handbook [2], (µ I p) was very different: at low energy
+( <20KeV) (µIp) I(µ Ip)• � 0.01 ~0.5, at high energy (> 30KeV) (µIp) I(µ Ip). � 2~ 100, for
+some energy spectrums (µ/ p) might be negative at some energy interval, and (µ/ p) depended not
+only Ex and atomic number Z (as standard value (µ Ip)•) but also V,L···. 
+
+In some special cases (table 10), as L1 > L2, the corresponding total count rate of x-ray L 1 > L i([ = dE x dE x ). So the average effective attenuation cross section ( lg[(L 1-2'. 0) / (L 2-r o)l / p(L1-L2)) was negative. It was very anomalous. 
+
+For reducing the electromagnetic disturbance effect upon measuring result, some steps were
+adopted. In short time interval (100~ 300sec) only changing the thickness L, the change of energy
+spectrum and intensity of x-ray was regular (not random) and might be repeated. This meant the
+counts of x-ray were not affected by electromagnetic disturbance obviously. For check and comparison, we also applied thcrmoluminesccn t dosimeters (TLD) and Nal detector to measurement of
+x-ray dose, TLD was not affected by electromagnetic noise. Using Pb attenuation foil of 5mm
+thickness , TLD recorded the intensity of 4 times background; Using Pb attenuation foil of 1,2,6mm
+thickness simultaneously, the discharge voltage was 14kV, TLD recorded the intensity of 77.6, 35.1,
+8.6 mR (milli Rongcn) respectively, the background was about 2.4 mR. So we might obtain the average mass attenuation cross section: (µIp)= 0.734(1 ~ 2rnm),0.367(2~ 6mm)cm2 I g, the corresponding x-ray energy was 214 keV and 277 kcV, this strongly supported above measuring results
+about there were 100~ 300keV high energy x-ray in the low voltage gas (D2,Hi) discharge.
+
+
+Analysis and discussion 
+From above measuring results. we might think that the x-ray emission spectrum N(Ex) included two parts: N(E ) = N n(E ) + N a(E ), N n(x) was the normal x-ray of gas discharge, or calx X X
+led beam-target x-ray, Na(Ex) was anomalous part, according to our supposition [3], some
+quasis table compact small deuterium (hydrogen) atom or molecule (denoted by De•, Pc•
+De• De•, Pe• Pc•, D denoted deuterium nucleus, P was proton, c • was electron) Could be produced
+in the low voltage gas discharge, the dimension R of De•, Pc• was much more less than Bohr radius
+RB, R / RBmight be 0.01 ~ 0.1 or less, so De•, Pc• could penetrate thick metal foil and interact with
+metal atom, when it broke up very nearby the nucleus of metal atom, the electron was accelerated by
+Coulomb field of nucleus, and x-ray were emitted, because electron might move very nearby nucleus
+and Z > > 1, so high energy x-ray could be emitted. In metal attenuation foil on the one hand x-ray
+were absorbed (mainly was photoelectric absorption), and on the other hand, x-ray were produced 
+simultaneously, in the result negative absorption might appear. 
+
+Supposing the current of quasi stable compact small neutral particle (De• ,Pe•,···) was n0, its
+attenuation cross section was tX(ro), it depended some parameters m (for example: radius, energy•··),
+the attenuation of neutral particle current in metal foil accompanied the emission of new x-ray: We
+might obtain the expression.
+
+G(m) was the distribution function of small neutral particle, g(m,Ex) was the distribution function of
+emitting x-ray when the neutral particle of ro-characteristic was attenuated. X denoted the thickness
+of metal attenuation foil. 
+
+In low energy, Nn(Ex) and Na(Ex) both contributed to x-ray emission spectrum N(Ex)
+effectively (in many cases, Nn(Ex) might be main), But in high energy interval, or when the metal
+attenuation foil attenuated the low energy x-ray to very great extent, then the measuring x-ray was
+Na(Ex) mainly, the character of Na(Ex) was represented by factor S(x) mainly S(x) = e x -e/ ll(w) - µ(E ) 
+
+The value of S(x) was maxim un at x m = lg[µ(E x) I tX(m )] I [µ(Ex) - tX(ro )]. as L1 < L2< xm,
+N a(Ex,L1) < N a(Ex,L2), so the negative absorption might appear.
+
+In summary, because the existence of Na(Ex,x), above anomalies of x-ray might be explained
+qualitatively. 
+
+In future, we should discriminate Nn(x) and Na(x) in detail, research the character of Na(x) and
+test the existence of quasi stable compact small neutral particle directly.
+
+
+Reference
+
+[1] Long He Qing, Zhang Xin Wei et al., Trans Fusion Tech. Vol.26, Dec. 1994, P.170
+[2] W.J.Veigele, Handbook of Spectroscopy, P.28
+[3] Zhang Xin Wei et al., Frontiers of cold Fusion, Ed.H.Ikegami, P.381; Science (Kexue, Chinese)
+Vol.46, No.1(1994)P.39
+[4] M.Fleishmann, S.Pons and H.Hawkins, J.Electroanal chem, 261,(1989)P.310
+[5] A .B .Karabut et al., Phys. Lett. A 170(1992)P .265
+[6] S.Szpak et al., Phys. Lett. A 210(1996)P.382

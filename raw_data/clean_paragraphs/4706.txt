@@ -1,0 +1,192 @@
+1. Introduction
+
+In previous works [13], anomalous excess thermal power in Pd|D2O cells was observed using Seebeck
+Envelope Calorimetry (SEC). Two phenomena were found for reproducibility of excess heat. One is that
+the temperature increment during electrolysis must be high enough; otherwise no excess heat will be
+produced [2]. Another is that the second run always gives more excess heat than in the first under the
+same condition as shown in Table V in Ref. [2]. After reviewing the data of past experiments, it is found
+that the samples Pd-A and Pd-E in Ref. [2], which gave the maximum excess power (~ 1 W, about one
+order greater than others), have the same histories. Both of them had been electrolyzed at the boiling point
+in open cells due to mistakes (Exp. #041110 for Pd-A and Exp. #050829 for Pd-E). After that, these two
+samples become active in excess heat production in electrolysis. All these phenomena inspire the author
+to intentionally use pre-electrolysis at the boiling point in open cells to activate samples. Experimental
+results show that this procedure is effective to some extent as reported below. At the same time, it is
+found that the apparent cell resistance changes irreversibly with temperature when excess heat occurs.
+
+
+2. Experimental set-up
+
+Electrolytic cells used in most experiments described in this paper are modified versions of pervious
+experiments [3]. Copper tube leads were replaced with platinum wires to avoid contamination, and H2SO4
+is replaced with D2SO4 for a similar reason. A schematic and a photo of the electrolytic cell are shown in
+Figs. 1(a) and 2(a), respectively. The cell is a cylinder of borosilicate glass (in 42 × out 45 × 142 mm3,
+capacity 190 ml). A PTFE male cap has three parts: the top part is  41 × 4 mm2 for fixing the cell by a
+metal frame as shown in Figs. 1(b) and 2(b); the middle part is a hexagonal prism with side length 32 mm
+and thickness 13 mm; the bottom part is  41 × 24 mm2 with a groove of 4 mm width and 2.5 mm depth
+in the middle for O-ring. The O-ring (in = 31.5 mm, width = 3.55 mm) made of nitrile butadiene rubber
+(NBR, resistant to acid) is used to seal the cap against the inner wall of glass cylinder. The cap has two
+holes, 1 mm diameter each and 20 mm apart, for the electrode lead wires. A PTFE plate ( 41 × 8 mm2) is
+used to suspend the recombination catalyst. It has 57 holes of  2 mm to pass gases (D2 and O2) and
+vapors (D2O). A PTFE rod (6  40 mm2) is fastened to the perforated plate and the cap. This ensures
+that the perforated plate being at a fixed distance above the electrolyte. Before and after every electrolysis,
+the cell was weighed with a Mettler balance (PM1200, 0.001 g readability) since June 06, 2009
+(Exp#090605). Before that time, cells were weighed only with chemical balances.
+
+The metal frame is used to clamp the PTFE cap into the cell as shown in Figs. 1(b) and 2(b). These
+arrangements ensure that the electrolytic cell is a closed system. The metal frame and cell is partly
+embedded in a Styrofoam base ( 15 × 12 cm2), which is placed in an enamel jar ( 15 × 16 cm2). The
+enamel jar can weaken the impact of cell explosions in the calorimeter and prevent corrosion caused by
+the acidic electrolyte after an explosion. Three explosions occurred during the past year. These were
+caused by incomplete recombination, due to variability in the effectiveness of the recombination catalyst.
+The polystyrene box shown in Fig. 2(b) of Ref. [3] was broken into pieces in one explosion (Exp.
+#090219) earlier this year.
+
+Fig. 1. Schematics of electrolytic cell (a) and parts outside the cell (b).
+
+Fig. 2. Photos of bare electrolytic cell (a), cell in the SEC (b), fresh Pd #1 (c) and Pd#1 after electrolysis as cathode
+for 285 hours and anode for 14 hours at 3 to 3.5 A (d).
+
+Four different palladium samples are used as listed in table 1. Both Pd #1 (see Figs. 2(c) and (d)) and #2,
+provided by John Dash, Portland State University, are from Alfa Aesar, Stock #11514, Lot #G15Q17,
+99.9% purity. Pd #3 is from General Research Institute for Nonferrous Metals (GRINM), 99.95% purity.
+Pd #4, provided by Da-Lun Wang, Institute of Nuclear Physics and Chemistry, CAEP, is from Kunming
+Institute of Precious Metals (KIPM). All these samples are weighed using an Ohaus AR2140 balance.
+Before the first electrolysis, all Pd samples were immersed in concentrated sulfuric acid to remove
+surface contamination, and then washed with de-ionized water several times.
+
+The anode is a platinum foil, 31 × 43 × 0.02 mm3 with area of 26.7 cm2. Two electrode lead wires made
+of Pt ( 0.8 × 145 mm2) are covered with heat-shrink Teflon tubing. The Pt foil and wires are from
+GRINM (99.95% purity). These were annealed for easy machining. Ethyl -cyanoacrylate instantaneous
+adhesive (502 glue) is filled into the gaps between the leads and the cap in order to prevent escape of the
+off gases from electrolysis. The cap is cooled with flowing air during electrolysis to prevent the failure of
+the glue at high temperature, as shown in Fig. 1(b).
+
+The electrolyte is  50 ml heavy water mixed with 8 to 10 g D2SO4. Both deuterium reagents are from
+Beijing Chemical Reagent Company (> 99.9% isotopic purity). The quantity of recombination catalyst
+varied from 3 to 4.5 g ( 60 to 90 pellets), depending on its history and the applied current. In some cases,
+O2 gas at 1 atmosphere is flowed into the cell to accelerate catalysis
+
+The calorimeter, power supply and data logging system are the same as before [35]. These will not be
+discussed here, except for some recent modifications.
+
+
+3. Experimental results
+
+3.1. Calibration of calorimeter and contrast experiments: The calibration was conducted with a 3.6 ohm electric heater, starting on May 19, 2009 (Exp. #090519).
+The heater is made of Tophet® alloy A wire (0.3 mm) wound around cylindrical heat sink fins, which
+are located at the center of the measuring vessel of the calorimeter. The calorimeter was calibrated from 2
+to 50 W (55 sets of data) 16 times in 13 months. It gives good stability and linearity between thermal
+powers and responses, as shown in Fig. 3(a) and the simulation equation (1) below:
+P  0.0355  0.0161 (5.8961 0.0118)E  (0.0020  0.0016) E2
+
+Fig. 3. (a) Calibration of the calorimeter from 2 to 50 W, 55 sets of data, in 13 months; (b) Comparison of input
+electrolytic power with output thermal power of a Pd-D2O cell. The fan’s power is deducted from the total power.
+
+Before presentation of anomalous excess heat, sample experiments are introduced to demonstrate the
+accuracy of the calorimetry and the reality of excess heat afterwards. Three types of experiments, i.e. Pt-
+D2O, Pd-H2O and dead Pd-D2O electrolytic systems, were carried out. Each of them has only one
+component, i.e. cathode or electrolyte, being replaced with that in the active cell. All of Pt-D2O (Pt
+cathode is a foil of 22  28  0.02 mm3) and Pd-H2O systems were designed for contrast and did not give
+excess heat as shown in table 2. The inactive Pd cathodes also did not give excess heat especially for Pd
+#3 and #4.
+
+Fig. 3(b) shows an example of calorimetric results for dead-Pd-D2O electrolysis. The input and output
+powers are Pin = 8.9556  0.0029 and Pout = 8.9552  0.0264 W, respectively, during the steady state (5 to
+8 hours of electrolysis time). They are consistent with each other within 0.004% although the calorimetric
+error is 0.29%. The input, output and excess energies are Qin = 262.38  0.05, Qout = 261.83  0.88 and
+Qex = 0.55  0.90 kJ, respectively. The mass loss of the cell in this run is m = 0.022 g. If this loss was
+caused by poor catalytic recombination, the corresponding energy correction (enthalpy change) is H =
+0.33  0.03 kJ. The output energy after correction is Qout + H = 262.16  0.90 kJ; the resulting excess
+energy is Qex + H = 0.22  0.90 kJ, corresponding to (0.08  0.34)% of the input energy. It means
+there was no excess heat produced in the electrolytic cell and this calorimeter gave good accuracy (better
+than 0.1%) at power around 9 W running for 8 hours. Because this calorimeter is designed for power
+measurement, it gives higher precision for power than for energy, as shown in table 2.
+
+3.2. Excess heat: As mentioned in the Introduction, effects of pre-electrolysis on excess heat are the main objective of this
+work. Seven runs with pre-electrolysis were carried out for 4 samples as shown in table 3. An example is
+shown in Fig. 4; this experiment was conducted at the end of 2008 using the cell described in Ref. [3]. Pd
+#1 was activated by pre-electrolysis on Dec. 20, 2008. The applied current was increased step by step:
+firstly 3.5 A for 2 hr, then 3.7 A for 1.5 hr and 3.9 A for 1 hr, 4 A for 0.5 hr at the end, as shown in Fig.
+4(a). During the pre-electrolysis, the cell temperature was increasing and the electrolyte was boiling. The
+electrolyte level was lowering and the cathode surface was becoming exposed to the air. On the second
+day (Exp. #081221), more heavy water was added, and the cell was closed and electrolyzed. However, the
+excess heat was uncertain because of a poor seal and a great mass loss of 17.3 g. Two days later (Exp.
+#081223), the system was tested again and excess power was produced, as shown in Fig. 4(b). After
+electrolysis for 3 hr at 3 A, the calorimeter showed excess heat and its amplitude reached the maximum
+value of Pex,max = 220  16 mW in 4.5 to 5 hr. After 5 hr electrolysis, Pex keep the steady value of 120 
+18 mW till the end of this experiment. In this experiment, there was no mass loss, within the error of
+measurement.
+
+Another example for sample Pd #2 is shown in Fig. 5. The current applied during pre-electrolysis was:
+firstly 3.5 A for 3 hr, then 3.7 A for 1 hr, 3.9 A for 1.3 hr, 4 A for 2.7 hr at the end, as illustrated in Fig.
+5(a). Four days later, calorimetry with a closed cell was carried out. This sample gave excess power of Pex
+= 0.120  0.020 W during 5 to 6 hr of electrolysis, as shown in Fig. 5(b).
+
+Fig. 4. Example of effects of pre-electrolysis in an open cell in the first run on the excess heat production on the
+subsequent run in a closed cell. (a) Pre-electrolysis; (b) Excess power after activation. Parameters: TSEC = 25 C, 3 A
+× 8 hr, Pex,max = 220  16 mW (4.5 to 5 hr); Pex,stable = 120  18 mW (7 to 8 hr), Qex = 2.46  0.33 kJ. The mass loss
+during electrolysis m = 0.0  0.2 g.
+
+Fig. 5. Another example of effects of pre-electrolysis in an open cell in the first run on the excess heat production in a
+closed cell in the subsequent run. (a) Pre-electrolysis; (b) Excess power after activation. Parameters: TSEC = 25 C, 3
+A × 8 hr, Pex = 120  20 mW (5 to 6 hr). The mass loss m = 0.05  0.02 g is not included in calculation of excess
+power.
+
+Not every pre-electrolysis for every sample can stimulate excess power in subsequent experiments, as
+shown in table 3. For sample Pd #1, the effective ratio of pre-electrolysis is 4/7. For the other 3 samples,
+only one pre-electrolysis was tested and only one sample gave excess power; therefore, further research is
+necessary to determine other unknown factors which affect reproducibility.
+
+Besides pre-electrolysis, other methods were used in attempts to stimulate increased excess heat
+production. These include reverse current activation in pre-electrolysis (Exp. #090814, 090915, 090921
+for Pd #1), modifying cell temperature through changing the thickness of Styrofoam layers shown in Fig.
+1(b) (85 to 102 C, Exp. #090725 to #090731), stepwise increasing (ladder-like) current (Exp. #090825)
+were also tested to stimulate excess heat production as done before [13]; however, all these methods did
+not show clear evidence of positive effects. More work is needed.
+
+From the history of Pd #1 shown in table 3, it seems excess heat from boiling-point electrolysis can be
+switched on or off like a light bulb. Another question is the lifetime of excess heat activity after preelectrolysis.
+Pd #1 kept the activity for at least 7 months (Exp. #081220 to 090807). Sample Pd-A had
+kept the activity for at least 2 months (Exp. #041110 to #050111) and Pd-E kept the activity for at least 10
+months (Exp. #050829 to #060706) in Ref. [2]. Therefore, pre-electrolysis should be an effective way to
+activate a Pd sample for several months.
+
+3.3. Irreversible change of cell’s resistance with temperature:
+Fig. 6. Apparent cell resistance R vs. temperature T for experiments in which excess power was produced.
+
+During the emergence of excess heat, it was noticed that Pex and cell temperature T approach to their
+maximum amplitudes and then decrease to the stable values as shown in Figs. 4(b) and 5(b). It means that
+increment of excess power is suppressed in electrolysis due to a changing cell parameter. This parameter
+is the apparent cell resistance R. R vs. T with excess heat is shown in Fig. 6 and without excess heat in
+Fig. 7. It is found that there is obvious irreversible change of R vs. T when excess heats occur. These
+results indicate this change can be a collateral evidence of excess heat besides the calorimetry. However,
+this irreversible change is not fully understandable and predictable at present; it may be negative or
+positive as shown in Fig. 6(a) and (b), respectively.
+
+
+4. Discussion
+
+Pre-electrolysis activation of excess heat production reported here is similar to the heat-after-death effect
+observed by Fleischmann and Pons [6]; both situations work at the boiling point of the electrolyte. This
+phenomenon must be explainable by some mechanism which is activated by the high temperature. As
+concerns the irreversible change of cell resistance, it should be the intrinsic nature of excess heat because
+the state of cathode polarization must change in excess heat production at the cathode hot spots observed
+by Mosier-Boss and Szpak [7], and positive feedback of voltage and temperature observed by
+Fleischmann et al [8]. The author will study all these interesting phenomena in future work.
+
+
+References
+
+[1] W.-S. Zhang, J. Dash, Q. Wang: Condensed Matter Nuclear Science, Proceedings of the 12th
+International Conference on Cold Fusion, Yokohama, Japan, Nov 27 to Dec 2, 2005. Edited by A.
+Takahashi, K-I. Ota and Y. Iwamura, (World Scientific Pub., Singapore, 2006), p. 86.
+[2] W.-S. Zhang, J. Dash: Proceedings of the 13th International Conference on Condensed matter
+Nuclear Science, Dagomys, Sochi, Russia, June 25 to July 1, 2007. Edited by Y. Bazhutov,
+(Moscow, MATI, 2008), p. 202.
+[3] W.-S. Zhang, J. Dash, Z.-L. Zhang: Proceedings of the 14th International Conference on Condensed
+Matter Nuclear Science, Washington DC, USA, Aug 10 to 15, 2008, p. 26.
+[4] W.-S. Zhang: China Patent Application # 200910085862.
+[5] W.-S. Zhang: Thermochim. Acta 499 128 (2010).
+[6] M. Fleischmann, S. Pons: Phys. Lett. A 176 118 (1993)
+[7] P.A. Mosier-Boss, S. Szpak: Nuovo Cimento A 112 577 (1999)
+[8] M. Fleischmann, et al.: J. Electroanal. Chem. 287 293 (1990)

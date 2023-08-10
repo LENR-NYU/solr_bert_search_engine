@@ -1,0 +1,276 @@
+I. Introduction
+
+Anomalous excess thermal power in Pd|D2O+H2SO4 electrolytic cells has been observed
+by isoperibolic calorimetry [13]. From 2004 to 2005, the excess power was verified by
+Seebeck Envelope Calorimetry (SEC) [4]. Then, no excess heat was observed in SEC
+experiments during an eight-month period. Eventually, we found that there is a key parameter
+for excess heat reproducibility in isoperibolic calorimetry which had not been satisfied in SEC.
+From then on, we were able to obtain excess heat output from 12 consecutive samples using
+SEC.We will discuss this and other related issues in detail below.
+
+Another previous discovery of our group is the presence of silver on the palladium surface
+after electrolysis in heavy water [16]. In this paper we will present overwhelming evidence
+of silver production on samples. This evidence was obtained by intensive microanalysis
+studies.
+
+The experimental set-up of the electrolytic cell, power and temperature measurements, and
+microanalysis have been reported before [4]. We will not discuss them here, except for some
+recent modifications.
+
+
+II. Calorimetric results
+
+During SEC experiments, we measured three characteristic temperatures, i.e. Telectrolyte,
+Tcatalyst and Ttop, where Telectrolyte is the temperature of electrolyte, which is measured by two
+K-type thermocouples attached to the bottom of the cell; Tcatalyst is the temperature of catalyst,
+which is measured by three K-type thermocouples attached on the outside of the cell at the
+level of the catalyst; Ttop is the temperature on the outside of the cell top, which is measured
+by one K-type thermocouple attached at the center of cell cap. Another point is that all excess
+power results reported here do not include mass loss corrections, as before [4]. This will result
+in null excess power for some experiments due to the loss of the heat of recombination of H2O
+and D2O resulting from the escape of H2, D2, and O2 gases.
+
+Firstly, we demonstrate the effects of the temperature difference between the SEC wall and
+the electrolyte, from the initial value to the steady state value of electrolyte, on excess heat
+production. One example is shown in Figure 1. The cell of Exp. No. 050925 was placed in a
+large glass beaker (7.2  11 cm2) to prevent leakage of electrolyte; the cell of Exp. No.
+051205 was placed into a cardboard box to decrease the rate of heat flow from the cell, thus
+raising the cell temperature. The cardboard box size is 11.5  11.5  17 cm3, with wall
+thickness of 3 mm. It has a Styrofoam insert 5 cm thick with one hole (5.7  4.1 cm2) in its
+center to accommodate the electrolysis cell. We found that, along with the greatly increased
+temperature gradient in the latter experiment, excess heat was produced. There was no excess
+heat in experiment 050925, which ran at a lower temperature, with a much lower temperature
+gradient.
+
+In Exp. No. 051205 and other similar experiments, a cardboard box was always used to
+increase the electrolyte temperature. In order to exclude the possibility that the signal of
+excess power is only the effect of the heat insulation layer around the cell, we calibrated the
+SEC using the cardboard box with the calibration resistor inside, as in the electrolysis
+experiments. A resulting calibration constant is 177.04  0.09 W/V, which is within the
+average value 176.85  0.25 W/V obtained without cardboard box around that time, as shown
+in Table. I. This shows that excess power is not caused by the system configuration. We
+repeated this calibration method several times.
+
+Fig. 1. An example of the effect of electrolyte temperature increment on excess heat
+production. The cathode in both experiments is sample Pd-E, whose parameters are
+shown in Table III. The applied current is 3 A, and the current density is 0.24 A cm2.
+
+Another series of excess power data on background and foreground temperatures for
+sample Pd-A besides that reported before [4] is shown in Table II, there is also an optimal
+background temperature for excess heat production as reported before [4]. All of these results
+indicate that both the temperature under steady-state in electrolysis and the background (or
+initial) temperature have important effects on excess heat. These two factors have different
+tendency on excess heat. High working temperature and low background temperature are
+important conditions for excess heat production. The cell with sample Pd-A was put in a large
+glass beaker only to prevent leakage of electrolyte onto the floor of the SEC; however, the
+low concentration of H2SO4 (5wt.% is one-fourth that the used ordinarily) in Table I of Ref. [4]
+and high current in Table II here ensure the high temperature of electrolyte, and hence
+excess power was observed. This suggests that every method which increases electrolyte
+temperature will be favorable for excess heat production. But this does not mean that lowering
+the SEC wall temperature and installing good heat insulation around the cell will increase
+excess power. We have conducted experiments at Twall = 15 C and let the steady-state
+electrolyte temperature be close to that at Twall = 25 C, by packing more Styrofoam around
+the cell with sample Pd-H; however, excess power did not change significantly. There are
+other unknown parameters controlling the excess power.
+
+After finding this key factor of excess heat production, we tested previously electrolyzed
+samples Pd-B to Pd-D, from which it had previously been difficult to produce excess heat [4].
+We found that this method was successful, as expected, as shown in Table III.
+
+From September 2005 to October 2006, we have conducted electrochemical calorimetric
+measurements of Pd|D2O+H2SO4 with 12 Pd samples and these samples all gave excess heat
+using the method described above; the results are summarized in Table III.
+
+In these samples, Pd-F consists of two pieces which are almost the same size; these were
+placed in two cells connected in series. Sample Pd-H was cold rolled after each run of
+electrolysis; the thickness changed from the original value, 0.5 mm to 0.03 mm as illustrated
+in Table IV. It was found that excess power does not depend strongly on the sample thickness.
+This may mean that excess heat is a surface effect rather than a volume effect as suggested
+previously [7].
+
+Sample Pd-I is a palladium tube. About 30 mm on one end was exposed to electrolyte
+during electrolysis while the upper part was covered with PTFE heat-shrinkable tubing. The
+anode is a concentric cylinder made of Pt foil with total area of 48 cm2. This cathode gave
+maximum stable excess power of 356  11 mW at input power of 9.863 W during electrolysis
+for 7 hours and 10 minutes in Exp. No. 060620. After electrolysis for 56 hours in this run, the
+cell began producing heat bursts as shown in Fig. 2. The maximum heat burst is 1.1 W. The
+full-width at half-maximum of the heat bursts ranges from 12 minutes at its first occurrence at
+about 56 hours to 3.3 minutes at 110 hrs; the period of the heat bursts ranges from 3.3 hours to
+a few minutes. Besides Pd-I, other samples also gave heat bursts as shown in Table III. It
+seems that the largest heat bursts occur for thick samples. This conclusion is consistent with
+the results of heat-after-death experiments [8,9] and with an experiment in which an explosion
+occurred [10].
+
+Fig. 2. Heat bursts and corresponding temperatures during electrolysis of sample
+Pd-I, a Pd tube, in Exp. No. 060620.
+
+A question of the excess heat in Pd|H2SO4+D2O is the role of protium ions. In order to
+study this, we prepared heavy water electrolyte containing D2SO4 instead of H2SO4. The
+D2SO4 is 99.5+ at.% pure (Aldrich Chemical Company). The ratio by volume of D2O:D2SO4
+is 6.6:1, which is close to that of H2SO4 in D2O (volume ratio of D2O:H2SO4 is 6.7:1). Six
+runs with samples Pd-D and Pd-E from Dec. 12, 2005 to Jan. 4, 2006 gave maximum excess
+power of 115  20 mW for Pd-D and 124  54 mW for Pd-E, which are not greater than those
+obtained with D2O + H2SO4 electrolyte. These results indicate the protium ion does not reduce
+the excess heat production. Currently, we use 99 at.% purity D2O, not 99.9 at.% purityD2O
+which we used previously; there has been no detectable difference in excess heat production.
+
+Fig. 3. Comparison between SEC and isoperibolic calorimetry (Exp. No. 050928).
+The graph on the left gives results obtained with the SEC. The average excess power
+is 759  33 mW (without including mass loss) to 1,481  35 mW (including mass
+losses of D2O and H2O, 0.62 and 1.09 g, respectively). The right graph shows
+average temperatures from eight thermocouples attached on the outside of both the
+Pd|D2O and the Pt|H2O cells. The input power of both cells is 9.60  0.03 W, the
+applied current is 3 A for 7 hours and 30 minutes, the air temperature in SEC is 37 C
+and the excess power of the E-cell is 716
+339 783
+ mW. The error of isoperibolic
+calorimetry mainly comes from the uncertainty of the proportion of D2 (H2), O2, and
+D2O (H2O) vapor which escape due to poor recombination by the catalyst and a
+flexible seal between the cell body and its top. Increased pressure in the cell increases
+the rate of escape of gases from the cell. The rate of mass loss from a cell, shown in
+the data tables above, is a measure of the rate of escape of the gases.
+
+In our experiments with H2SO4, the electrolyte was used for multiple runs. Only heavy
+water (about 20 grams needed after 3 A  8 hrs electrolysis) was added to the old electrolyte
+to restore it to the original volume. Because of this, the H+ concentration decreases with time
+in every run and from run to run. This means that our cell is a deuterium self-concentrated
+system and the isotopic purity of D2O has negligible effect on excess heat production.
+
+Another question is the validity of excess power measured by isoperibolic calorimetry
+which we reported previously [13]. Here we report the results of isoperibolic calorimetry
+and SEC obtained with the same electrolytic system. As described before [13], we used two
+cells with the same dimensions, one containing Pd|D2O+H2SO4 and another containing
+Pt|H2O+H2SO4. The concentration of H2SO4 in each cell is adjusted to ensure that the voltages
+and hence the input powers of these two cells are close to each other at the same current.
+These two cells are placed in a cardboard box (14  17  17.5 cm3, 4 mm wall thickness)
+inside the SEC. Temperatures, current, voltages and the SEC signal are recorded with a data
+acquisition system. The results are shown in Fig. 3. We find that these two methods give the
+same excess power, within the precision of the measurements. This suggests that excess
+power results reported before [13] are likely to be accurate.
+
+
+III. Scanning electron microscope and energy dispersive spectrometer characterization
+
+III. 1. Silver: Before and after electrolysis, we characterized the surface morphology and elemental
+composition of Pd cathodes by scanning electron microscopy (SEM) and energy dispersive
+spectrometry (EDS). Most of samples show anomalous new element production [14]. We
+will report results of one sample, Pd-H, whose parameters are shown in Table IV. The photo
+of sample Pd-H after electrolysis for 186 hours is shown in Fig. 4, the electrode bends
+towards the anode during long time electrolysis as observed previously [4]. The fractures on
+the right edge of the convex side in Fig. 4(a) (or left edge of concave side in Fig. 4(b)) were
+formed during cold rolling, before electrolysis. The numbered white labels are areas studied
+by SEM and EDS.
+
+Fig. 4. Photos of Pd cathode H after electrolysis for 186 hours. (a) (left) The convex side,
+which faced away from the anode; (b) (right) the concave side, which faced the anode.
+The hole is used to connect the cathode lead wire as described in Ref. [4]. The white
+rectangles indicate the positions from which X-ray spectra were taken.
+
+Fig. 5. SEM picture of region #16 in Fig. 4(a). SEM No.WS060505Pd-H-CV-i16-2kX.
+
+Fig. 6. Characteristic X-ray spectra of spot #8 (a), spot #1 (b) and square area (c)
+shown in Fig. 5.
+
+Fig. 5 shows an SEM picture of region #16 in Fig. 4(a). Three characteristic X-ray
+spectra from this region are shown in Fig. 6. Fig 6(a) is from spot #8 in Fig. 5. The most
+prominent peaks in the spectrum are from Pd, the bulk metal. Other elements are from the
+electrolytic system: Pt is from the anode, which is slowly dissolved and deposited on the
+cathode; C most likely comes from back-streaming of hydrocarbons from the diffusion pump
+oil; Al and O are from the alumina recombination catalyst; and Ti is from the electrolyte. Ti
+was dissolved in the electrolyte before the experiments [35].
+
+Fig. 6(b) is from spot #1, the most prominent element here is silver; other elements are the
+same as those in Fig. 6(a), except for the absence of Pd. Besides spot #1, other spots in the
+central black region of the foot-shaped feature in Fig. 5 are almost pure silver. We obtained
+the EDS spectrum in Fig. 6(c) from the central region in Fig. 5. Because the characteristic Lα
+X-ray of Ag is at 2.98 keV, it overlaps with Pd L at 2.99 keV. The expected intensity ratio of
+Pd L/Pd L is 0.42, whereas the ratio of these two peaks in Fig. 6(c) exceeds 1.0. As in our
+previous reports [25], we attribute the increase in this ratio to the presence of silver. The
+results of analysis of the EDS spectra are summarized in Table VI. The silver concentration is
+presented as a relative quantity for the convenience of comparison. Localized concentrations
+of silver were also detected along cracks in the microstructure shown in Fig. 5. Because of
+their irregular nature, these cracks probably formed during electrolysis rather than during cold
+rolling. These cracks also have localized concentrations of silver.
+
+Another example is shown in Fig. 7 and Table VII. 
+
+Fig. 7, SEM picture of region # 12 in Fig. 4(a). SEM No.WS060504Pd-H-CV-i12-150X.
+
+Fig. 8. SEM picture of region # 3 in Fig. 4(a). SEM No.WS060501Pd-H-CV-i3-500X.
+
+The most common finding is that silver occurs in craters, such as those shown in Fig. 8.
+These craters with rims almost certainly formed during electrolysis. Pt deposition was
+concentrated on these protruding rims. We measured the silver concentration with different
+accelerating voltages and at different times. The results in Table VIII show that there are no
+obvious changes in silver concentration due to either the increase in accelerating voltage or to
+the passage of time.
+
+Fig. 9. SEM picture of crater at another time. SEM No.WS060607Pd-H-CC-i2-2kX.
+
+We have studied the crater shown in Fig. 9 in detail as listed in Table IX. This crater is also
+located on an edge on the concave side of the same sample. From these results it is concluded
+that the silver concentration varies by about a factor of 5 from the lowest in spot 5 to the
+highest in spot 1.
+
+The silver concentration in all 19 regions in Fig. 4(a) is summarized in Table X.
+Concentrations labeled P were obtained with the electron beam fixed in one spot on the
+cathode, and A designates concentrations obtained with the electron beam scanning a known
+area of the cathode. The silver production on the concave side in Fig. 4(b) is summarized in
+Table XI.
+
+Besides the H sample Pd cathode, silver was also detected on other samples, as reported
+before [4].
+
+Some conclusions can be reached concerning the location of silver on the cathode after
+electrolysis: (1) Silver occurs preferentially around the sample edges rather than in the central
+area, as observed before [16]; (2) silver is found more frequently on the back (convex) side
+of the Pd cathode than on the side facing the anode (concave side). Of course, there is another
+possibility: the silver on the concave side was covered by a Pt deposition layer, which is
+thicker than that on the convex side.
+
+III.2. Nickel: Another anomalous element is nickel, which was detected in regions # 2 and #3 in Fig. 4(b). The SEM picture, X-ray spectrum of spot #1, and EDS measurement results from region #2 are shown in
+Figs. 10 and 11, and Table XII, respectively, where Ni/(Pd+Ni+Ag) from different spots ranges from 0.9 to 2.1 at.%. The average value for the whole area is Ni/(Pd+Ni) = 1.3 at.%. Region #3 in Fig. 4
+(b) also contains nickel, Ni/(Pd+Ni) = 1.1 to 1.9 at.% , in various spots. The nickel is concentrated in the upper left corner on concave side of the Pd-H sample. For example, Ni is not present in any of the
+spectra in Fig. 6. We also have observed Ni, on the order of 1 at.% or less, in other samples.
+
+Fig. 10. SEM picture of region #2 in Fig. 4(b). SEM No. WS060424Pd-H-CC-i2-150X
+
+What is the origin of this nickel? Ni was listed as “not detected” in the chemical analysis
+provided by the vendor of the Pd foil. It is very unlikely to have resulted from the cold rolling
+process or from electrodeposition because it is highly localized near one corner of the cathode.
+If it is the result of either contamination from the rolling mill or from electroplating it should
+not be highly localized on only one corner of the cathode. It could not have resulted from
+SEM systems because the stainless steel components of the SEM chamber also contain Fe and
+Cr. Fe and/or Cr are not present in any of the spectra. The SEM does not have components
+made of pure Ni. Therefore, the origin of the Ni is not known.
+
+
+IV. Discussion
+
+Since the discovery of excess heat in 1989 [11], the reproducibility has been a difficult
+problem [7]. Our results suggest a reason why Fleischmann and Pons and other groups
+observed excess heat using Dewar-type electrolytic cells and isoperibolic calorimetry
+[8,1113], but some groups using mass-flow calorimetry, had difficulty detecting excess heat,
+or the reproducibility was very poor. The reason is that the latter method involves a low temperature, semi-isothermal measurement. The temperature difference between the electrolytic cell and the water
+flowing during electrolysis is very small. Therefore, this system has to be stimulated by various methods, e.g., high input power, laser irradiation etc. [7] Even then, the reproducibility is still low because
+the cell temperature is not high enough.
+
+Our experiments using small diameter Pd tubes as cathodes produced many more heat bursts than flat Pd foil cathodes. Further study using Pd tube cathodes is warranted.
+Using an EDS attached to a SEM; we again have found localized concentrations of silver on the surfaces of Pd cathodes after electrolysis. On a few of the cathodes, we also found localized
+concentrations of nickel. Further study, such as the determination of isotopic ratios before and after electrolysis, is needed to aid in understanding the origin of the Ag and Ni.
+
+
+References
+
+1. Ambadkar A. and Dash J., Electrolysis of D2O with a palladium cathode compared with electrolysis of H2O with a platinum electrode: procedure and experimental details, see:
+http://www.newenergytimes.com/Library/2003DashJ-ColdFusionRecipe.pdf
+2. Dash J. and Ambadkar A., Proc. ICCF11, Marseille, France, Oct 31 to Nov 5, 2004, P. 477.
+3. Wang Q. and Dash J., Proc. ICCF12, Yokohama, Japan, Nov 27 to Dec 5, 2005, P. 140.
+4. Zhang W.-S. Dash J. and Wang Q., Proc. ICCF12, Yokohama, Japan, Nov 27 to Dec 5, 2005, P. 86.
+5. Dash J., Noble G. and Diman D., Trans. Fusion Tech., 1994, V.26, No.4T, P.299.
+6. Miguet S. and Dash J., J. New Energy, 1996, V.1, P.23.
+7. Storms E., Infinite Energy, 1998, V.4, No.21, P.16.
+8. Pons S. and Fleischmann M., Trans. Fusion. Tech., 1994, V.26, No.4T, P.87.
+9. Rothwell J., Cold Fusion and the Future, 2004, lenr-canr.org. P.13.
+
+

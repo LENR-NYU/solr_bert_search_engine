@@ -1,0 +1,131 @@
+1. Introduction
+
+Since the announcement of cold fusion by Fleishmann and Pons [1], there have been a lot of
+research worldwide on the D/Pd system; some explosions in D/Pd systems especially in D/Pd
+electrolytic systems have happened, the accident at SRI International [2] was a famous one. It
+was suggested that explosion in the D/Pd system is caused by Oxygen/Deuterium recombination
+[2]. In our D/Pd electrolytic experiments, three explosions occurred in April 1991. After
+examining the remains of one of the explosions, we concluded that it was caused by cold fusion
+in a Pd tube.
+
+
+2. Electrolytic cell and explosion case
+
+The electrolytic system included a glass measuring cylinder (out 25.5 in 23 186 mm, 80
+m1), heavy water (39 m1), Pd tube (out1.67 in 0.67 80 mm) cathode and spire Pt wire
+anode, a rubber plug of round platform (top 27 bottom 21 22 mm, 15.5 g) stretched in the
+measuring cylinder about 12 mm and sealed the cell top except for a blowhole (3 mm,
+allowing gas to escape, as shown in Fig. 1). The volume of gas in the headspace above the heavy
+water in the cylinder was about 33.3 cm3
+. The cell was placed in a water bath (530 ml light
+water).
+
+There were three explosions in these D/Pd electrolytic systems in April 1991. In two
+explosions, the rubber plug with Pd tube and Pt wire flew off about 1.5 2 meters away, and the
+bottom of cell was blown out; D2O in cell had been mixed with H2O in the bath. Because no one
+was present at the scene of explosion, direct observation was impossible. But the temperature of
+the water in the bath was measured within a half hour after one explosion, and it was found to
+have risen by 5C. The electrolysis had continued about 50 hours with 7.5 V of cell voltage and
+0.26 A of electrolytic current before the explosion.
+
+
+3. Explosion analysis
+
+Firstly, a 5C temperature rise of 530 ml water need absorb heat: Q = 1.1 104
+J at least
+(heat dissipation after explosion is neglected).
+
+Secondly, as a result of a simulation test, 2.1 kg of force is needed to cause the plug to fly off,
+corresponding to excess pressure P = 5.1 104
+Pa. That is to say, the minimum pressure in gas
+cylinder of cell is 1.5 105 Pa. Because the electrolytic cell is an open system, the D2 and O2
+gases produced in electrolysis can escape through the blowhole easily and the excess gas in cell
+cannot accumulate, as a general rule. The only situation is that a lot of gas is produced in short
+time () and high pressure is formed in cell. Therefore the gas cannot escape through the small
+hole efficiently and the rubber plug is pushed out and flying off, the bottom of cell is blown out
+in the resulting rocket action. Two possible situations can lead to this result: <1> D2+O2 recombination causes chemical explosion. Volume of gas above electrolyte in the
+cell is 33.3 cm3, the heat production Q can be calculated using the optimal D2/O2 mixing ratio: D O D O 67.8 kcal Q = 281 J. This is much less than the actual heat.
+
+We consider another extreme situation, the space above electrolyte in cell is filled with O2 gas
+and it combines with D2 gas released from Pd tube in short time and forms water, the
+corresponding heat is 843 J, it is only 1/13 of the actual heat and this kind of heat cannot heat up
+electrolyte efficiently, so the real explosion cannot be caused by chemical reaction.
+
+<2> Heat burst is caused by cold fusion in Pd tube. Lots of heat released makes the
+temperature of Pd tube rise to thousands of degrees and the heavy water around it vaporizes
+rapidly, the heavy water vapor raises the pressure in the cell rapidly, and the explosion occurs. 
+
+We can estimate the upper limit of : L = L/V P where L = 8 cm (height of gas cylinder), P = 5.1 104 Pa, = 2.3 cm (inner diameter of the
+cell), 1 = 0.3 cm (effective diameter of blowhole), 0 = 0.0009 g/cm3
+(density of heavy water
+vapor at 1 atm). The result is = 0.058 s. The energy production rate is: P P V, V = 0.147 cm3, is volume of Pd tube. The heat burst in the explosion reached MW per cm3 Pd.
+
+There was also an explosion in a D/Pd electrolytic system at SRI International on January 2,
+1992. Because it was a closed system and the parameters are complex, we cannot reach a clear
+conclusion on it as here, but it is possible that it was also a cold nuclear fusion explosion.
+
+
+4. A proposal for mechanism of cold fusion
+
+Where such large excess heat comes from? Why the heat mismatches nuclear products? It is
+puzzle for us and very difficult to explain within the domain of the physical and chemical
+knowledge now available, it is possible that new physics appears in it. Two years ago, the first
+author of this paper provided a hypothesis as below [3].
+
+A small part of the rest energy Mc2
+connected with the rest mass M of deuterium can be
+transformed directly into utilizable energy, this process named as RDTME can be written in the
+form of
+D D D D 1 2 3 4    
+in which Di(i = 1 4) represents deuterons with rest Mi, and M M M M M M = (M1 + M2)c2
+> 0 is the energy which can be released as the kinetic energy of electron,
+deuterons and/or the energy of photon. It seems that the value of mainly distributes from order
+of 1 eV to 20 keV.
+
+The reaction mentioned above takes place only under certain specific artificial circumstances
+with, especially, some kind of electronic screening. The condition under which F-P’s cold fusion
+occurs is one of these specific artificial conditions.
+
+Furthermore, we suggest a possible mechanism of excess heat released in RDTME model.
+
+In PdDx, TiDx or other Deuterium/Metal system, when a free electron transits to a specific
+state in which the electron can screen the coulomb repulsive force between two D nuclei, i.e. the
+electron comes into a bound state, the photon may be emitted. Due to some possible yet
+unknown relation between the electromagnetic interaction and the strong interaction, D nuclei
+may provide energyMc2 connecting with its rest mass MD to the electron, then, the electron can
+get back to the initial state and emit photon again. This process may repeat several times under
+certain specific conditions, as a result, the excess heat is released continuously.
+
+We divide the screen state involving electrons into two kinds: weak screen (w-s) and strong
+screen (s-s). When the electrons transit to w-s state, only lower energy photons are emitted
+without any traditional light nucleus fusion taking place. When the electrons transit to s-s state,
+besides the energetic photons being emitted, various fusions of deuterium may sometimes be
+ignited. Obviously, the probability that the electrons get into w-s state is much greater than that
+the electrons get into s-s state, so the production of excess heat is much greater than that of the
+nuclear particles. Therefore the puzzle of the huge mismatch between the excess heat and the
+nuclear products is solved naturally. At the same time, we may understand the possible
+correlation existing between the branching ratio of cold fusion and the temperature, pressure and
+other environment parameters in the PdDx or other Deuterium/Metal Systems.
+
+The screening effect existing between two deuterons caused by the mobile electrons and
+deuterium ions D+
+in the lattice of PdDx etc. have been discussed in many papers. This effect can
+make the coulomb barrier weaker, and then may enhance, perhaps greatly, the probability of
+fusion taking place between the low energy deuterons. But the screening mechanism has not yet
+explained the mismatch between the excess heat and the fusion products as well as such large
+fusion rate obtained in the experiments.
+
+Similarly to the reaction in Eq. (1), the fusion reaction between protons and between proton
+and deuteron can take place too. That is to say, the light-water-electrolysis can also generate the
+excess heat in spite of small quantity.
+
+
+References
+
+[1] M. Fleishmann, S. Pons and M. Hawkins, J. Electroanal. Chem. 261 (1989) 301.
+[2] New Scientist, January 11, 1992.
+[3] X. Zhang et a1., Proc. 2nd International Conference on Cold Fusion, June 29 - July 4, 1991,
+Como Italy
+
+
+

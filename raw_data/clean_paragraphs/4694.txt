@@ -1,0 +1,115 @@
+1. INTRODUCTION
+
+It has long been recognized that the electrical resistance of PdHx (taken to include PdDx, as below) is a
+function of x. This relationship has been used to infer the loading ratio in the electrolysis experiments.[1−8]
+However, the in-situ resistance measurement (ISRM) has inherent defects, e.g. the non-uniform distribution of H
+concentration, temperature, electrolyte and applied currents all influence the measured value. In this paper, we
+will discuss the electrochemical effects on the ISRM in the direct current (dc) situation.
+
+
+2. MODEL AND RESULTS
+
+The electrochemical factors affect the ISRM in three aspects. First, the solution acts as a resistance in
+parallel with the electrode and the apparent PdHx resistance decreases when co-conduction is in progress. Second,
+the potential drop across the electrode induced by the measuring dc makes it behaves as a concentration-cell,
+which contributes an additional potential shift to the signal measured. Thirdly, the electrolysis current (ec)
+contributes another potential drop to the electrode by the current collection into the electrode and the
+concentration-cell effect. We will theoretically study these problems in turn.
+
+2.1. Co-conduction of electrolyte:
+Consider a straight rod electrode with length l and radius r, the solution resistance can be seen as the series
+resistance of two hemispheres with radius r: RS = ρSl/πr, where ρS is the resistivity of solution. The additional
+resistance contributed to that of PdHx electrode by the co-conduction of solution, RA,S can be expressed as: Eq. (1)
+where R and ρ is the resistance and resistivity of PdHx, respectively.
+
+2.2. Concentration-cell effect of measurement current:
+Consider a measurement current IM passing through an electrode, the electromotive force (emf) of the
+concentration-cell is the potential drop IMR. It can be expressed as EC = IMR(1/2 − z/l), where the fraction 1/2 in
+the parentheses ensures the average potential to be zero. The overall emf is comprised of the ohm potential drop
+of external circuit ΔEPdHx,C, ohm polarization of inner resistance ΔES,C and electrochemical overpotential ηC. The
+potential drop across the small distance dz at point z in PdHx electrode is dEPdHx,C = −ICRdz/l. The electrolyte
+resistance in the small distance dz can be seen as the resistance of a part of the cylindrical electrode with radius r
+and surface area 2πrdz in the solution: ΔES,C = (ρ/2π)ln[(l/r)dIC/dz]. The overpotential of the concentration-cell
+can be obtained by the differential of electrolysis current density (ecd) jE with respect to the electrolysis
+overpotential η: jC = fj0CηC with the current density of the concentration-cell jC = dIC/2πr0dz, f = F/RT and j0C =
+max(j0V, β|jE|), where j0V is the exchange current density of the Volmer reaction; β is the stoichiometric number
+of the hydrogen electrode reaction.[9]
+
+The potential at point z is the sum of above three terms: Eq. (2).
+This equation can be simplified to an ordinary differential equation of second order:
+Eq. (3) with 
+Eq. (4). Applying the boundary condition: IC = 0 at z = 0 and l, we obtain the solution of Eq. (3): IC = [(1 −
+cosk)sin(kz/l)/sink − (1 − cos(kz/l))]IM. The potential drop contributed to the PdHx electrode is:
+Eq. (5) with
+Eq. (6). The additional resistance contributed to the original value induced by the measuring dc is:
+Eq. (7)
+
+2.3. Effect of electrolysis current: In the ISRM of electrode during electrolysis process, the ec that is collected in the electrode will contribute a
+potential drop to the measuring signal because the electrode has a resistance. As a primary approximation,
+supposing the ec (IE) uniform distributes on the electrode. From a small distance dz at point z, we obtain the
+relationship between the increment of current in the electrode and jE: dIE = 2πrjEdz, where jE is connected with IE
+by jE = IE/2πrl. The potential drop across the small distance dz is dEE = −IERdz/l. Combining these two equations
+and integration dEE with respect to z, we obtain the potential at a point z caused by the electrolysis current
+collection is EE = IER(1/3 − z2/l2), where the fraction 1/3 in the parentheses ensures the average potential to be
+zero. The potential drop across the electrode is ΔEE = IER/2. This means that the electrode behaves as that with a
+half value of the original resistance.
+
+The ec also has a concentration-cell effect. Similar to Eq. (3), we have:
+Eq. (8).
+The solution is IC = [sin(kz/l)/sink − z/l]IE. The potential shift contributed to the external circuit is ΔEPdHx,C =
+h(k)IER/2. The corresponding additional resistance contributed to the measurement value is the sum of these
+caused by the electrolysis current collection and its concentration-cell effect:
+Eq. (9)
+
+It must be pointed out that ΔEE appears instantly while ec is applied; whereas ΔEPdHx,C delays by a time
+interval which depends on the electrode diameter and surface properties.[2]
+
+
+3. DISCUSSION
+
+Combining Eqs. (1), (7) and (9), we obtain the apparent resistance in the ISRM during electrolysis process:
+Eq. (10).
+
+From this equation, we find that the three measurement errors with different origins can be incorporated to a
+more uniform expression. On the whole, four dimensionless quantities, i.e. IE/IM, l/r, ρ/ρS and rfρSj0C determine
+Rappa as shown in the Figure.
+
+First, it is found that the contribution of electrolysis process to the ISRM depends on the direction and
+magnitude of ec as shown in Fig. (a). If IE/IM > 0, it will contribute to the measured resistance a positive shift.
+Otherwise, it will diminish the magnitude of the measured value while IE/IM < 0. This is the reason of delta-mode
+current being used to cannel out the electrolysis contribution in experiments. [3,4]
+
+On the other hand, Rappa increases with l/r as shown in Fig. (b). It means the length and diameter have
+prominent influences on the resistance measurement. This is one of reasons of great value of Rappa observed by
+Carson et al.[2] although they have not predicted it.
+
+Figure (c) shows dependences of Rappa on rfρSj0C. It indicates that the electrode diameter, temperature,
+electrolyte conductance, electrode roughness and exchange current density of electrode reaction all affect Rappa.
+An electrode with rough surface results in a large value of j0V, hence large values of j0C. At the same time, some
+additives such as H2S and thiourea can inhibit the reaction rate of Pd|H electrode, so it is easy to understand that
+they can diminish Rappa as observed experimentally.[2] Another factor is the ecd, a large magnitude of ecd results in
+great values of j0C and RA,M as the effect of j0V.
+
+Figure also shows that the resistivity ratio ρ/ρS has the most important effect. If ρ/ρS < 10-6, it has only little
+influence on Rappa, otherwise, the additional resistance may not be neglected.
+
+Finally, It must be pointed out that the concentration-cell effect appears only in the single phase PdHx
+electrode. In the mixed α+β phase, the H chemical potential does not change in PdHx under the external potential
+drop[2] and h(k) = 0. Even in this case, the electrolysis current collection and electrolyte co-conduction still have
+contribution to the ISRM, so a low value of IE/IM is the necessary condition in the dc method.
+
+Results here are mainly theoretically, their qualitatively aspects are consistent with available experiments.
+[1,2,4] The quantitative verifications need to be carried out in future experimental works.
+
+
+REFERENCES
+
+[1] C.A. Knorr, E. Schwartz, Z. Elektrochem. 39 (1933) 281; 40 (1934) 36.
+[2] A.W. Carson et al., Naturwiss 46 (1959) 374; T. Faraday Soc. 56 (1960) 1311; 1324.
+[3] D.J. Gillespie, G.N. Kamm, A.C. Ehrlich, P.L. Mart, Fusion Tech. 16 (1989) 526.
+[4] T.A. Green, T.I. Quickenden, J. Electroanal. Chem. 368 (1994) 121.
+[5] M.C.H. McKubre et al., ib id. 368 (1994) 55; A. Wark et al., ib id. 418 (1996) 199.
+[6] A. De Ninno, A. La Barbera, V. Violante, J. Alloy. Compd. 253-254 (1997) 181.
+[7] T. Senjuh et al., J. Alloy. Compd. 253-254 (1997) 617.
+[8] A.M. Riley et al., J. Electrochem. Soc. 139 (1992) 1342.
+[9] W.S. Zhang, X.W. Zhang, H.Q. Li, J. Electroanal. Chem. 434 (1997) 31.

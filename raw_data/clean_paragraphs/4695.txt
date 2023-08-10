@@ -1,0 +1,109 @@
+1. INTRODUCTION
+
+In previous works, we reported excess heat in open Pd|D2O electrolysis system using a Calvet
+calorimeter.[1] Strictly speaking, the anomalous heat effect must be obtained from closed systems, which
+avoid the consideration of dissociation of heavy water, the D2 + O2 combination, the mass transfers between
+the system and atmospheres.[2] On the other hand, the calorimetric method has troubled the community of
+cold fusion research for a long time. The Calvet calorimeter is one of standard equipments in thermokinetic
+studies; it not only provides a high sensitivity but also depends weakly on the thermal homogeneity (the
+isoperibolic assumption) in the measuring vessel. Therefore, it is necessary to carry out power measurements
+in closed Pd|D2O electrolysis systems using the Calvet calorimeter. In this paper, we will report some of these
+results obtained in our laboratory.
+
+
+2. EXPERIMENTAL
+
+The electrolysis cell consisted of a glass vessel (inner φ 13 × 50 mm) and electrodes in the LiOD heavy
+water solution as shown in Fig. 1. The cathode was made of a palladium wire (φ 0.2 × 45 mm, Institute of
+Aeronautical Materials, Beijing, 3N) bent to the shape of letter U for convenience of measuring its resistance
+to determine the D/Pd ratio; each cathode end was clamped by a platinum lead (φ 1 × 50 mm). The anode was
+made of a long platinum wire (φ 0.02 × 1400 mm) wound round a PTFE tube (outer φ 9 mm, inner φ 7 mm,
+40 mm high) with dense holes (φ 2 mm) in its wall. The 1 M LiOD heavy water solution was prepared by
+dissolving metallic lithium (General Research Institute for Nonferrous Metals, 99.98%) into D2O (Beijing
+Chemical Reagent Company, 99.8% isotopic purity), 4.3 ml of solution was filled in the cell. Some
+recombiner catalysts were used to recombine the D2 and O2 gas into heavy water; they were collected in a
+PTFE chamber (φ 13 × 15 mm) with some holes in its wall for gas flow. The PTFE chamber was stocked by a
+PTFE screw cap (the trapezoid in Fig. 1) on another PTFE tube (φ 6 × 35 mm), the screw cap also prevented
+pollution of catalyst from the sputter of solution in electrolysis processes, and the PTFE tube acted as the
+channel of leads. Each lead was covered by a PVC tube and sealed by epoxy resin on a stainless steel (SS)
+screw top.
+
+The electrolysis cell was placed in a SS container (inner φ 15 × 80 mm), which was sealed by the top
+screw cap. A SS tube (φ 2 mm) was welded to the cap and connected to a SS bottle (capacity = 530 cm3)
+filled with D2 gas, whose pressure was measured by a transducer. The pressure was typically 0.12 MPa; the
+leakage rate of gas was less than 0.58 mPa s−1. The Pd electrode also acted as a heater for calibration of the
+calorimeter. The Pd resistance was measured by a Keithley Model 2000 Multimeter and using an alternating
+current (100 mA, 50 Hz) to avoid the problems caused by direct currents [3]. The detailed description of
+Calvet type calorimeter can be found in Ref. [1]. The atmosphere temperature was maintained at 17.0 ± 0.5
+°C or 20.0 ± 0.5 °C.
+
+The Pd and Pt electrodes, the electrolysis cell, D2 gas bottle and pipelines involved in experiments were
+washed by acetone or petroleum ether. In addition, the Pd electrode was etched in aqua regia for about 15 s.
+All electrolysis was carried out under galvanostatic conditions, the applied current was 3 − 100 mA, which
+was measured as a voltage drop across a standard resistor.
+
+With multiplexed computer data acquisition, the data associated with the input power, output power, Pd
+resistance and gas pressure were displayed in real time on the computer monitor and also stored on disc using
+a software package.
+
+A number of calibration experiments were performed with Joule heating before, after and in the interval
+of electrolysis; each calibration was carried out after the experimental zero was stable. It was found that the
+device constant did not change within the error of 0.6%.
+
+
+3. RESULTS AND DISCUSSION
+
+A run of calorimetric experiment on the Pd|D2O electrolysis system was always carried out over several
+days. The excess power is calculated from the input and output powers, and other correction factors:
+Eq. (1)
+where Pout is the output power measured by the calorimeter; I is the applied electrolysis current; V is the
+measured potential drop across the cell; IPd and VPd are the current and potential drop for measuring the Pd
+resistance, respectively; c = 43.1 mJ Pa−1 for our system, − cdp/dt is the contribution of D2 + O2 gases
+evolved in electrolysis, which has not combine into heavy water due to the catalysis deactivated, although the
+corresponding power loss is usually very small.
+
+There have been three runs of calorimetry on closed Pd|D2O electrolysis systems being conducted.
+Former two runs gave no excess energy within errors of 0.18% and 0.0034%. The latter one gave energy
+absorption but not excess heat. Two runs of results are shown in Figs. 2 and 3.
+
+In Fig. 2, the electrolysis currents were 3, 10, 20, 30, 40 and 50 mA, which were applied by a step-up
+mode. The initial low current was to prevent the crack creation in Pd electrode during the α→β phase
+transformation [2]. There were two intervals at which the electrolysis was interrupted. The first interval
+(22.8−24.3 h) was to calibrate calorimeter when the measurement range was switched. The second one
+(70−95 h) was to monitor the pressure change and calibrate the calorimeter. Although there are random errors
+and some pulses in the Pex curve caused by signal delayed in the data acquisitions, the excess power is almost
+zero as shown in Fig. 2. Integrating powers with respect to time, we find the total output energy is 61.193 kJ
+whereas the excess energy is − 2.102 J, which is only − 0.0034% of the total energy. The maximum current
+density was 177 mA cm−2; the maximum D/Pd ratio was 0.85 from the resistance ratio in Fig. 2.
+
+Another electrolysis experiment (Fig. 3) was carried out in the same system as that of Fig. 2 only with
+the Pd electrode being etched in aqua regia for removing impurities deposited during electrolysis previously,
+the atmosphere temperature was raised from 17 to 20 °C. This experiments was performed for 105 h using
+currents of 50, 80 and 100 mA. The maximum current density was 354 mA cm−2; the maximum D/Pd ratio
+was 0.87. We find that V, Pin and Pout are lower than those of Fig. 2 at the same current due to the Pd surface
+treatment. On the other hand, we found that the catalyst had deactivated when the current of 100 mA had
+been applied for 3 h (at 97.5 h in Fig. 3) and the pressure increased substantially to about 0.2 MPa, then we
+had to stop the experiment after some time. Different from that in Fig. 2, the excess power is less than zero
+prominently, especially when the current was greater than 50 mA. However, its amplitude diminished when
+the current decreased from 100 mA to 80 mA at 100 h. After the experiment, we calibrated the calorimeter
+with the power being closed to that applied before (∼ 0.5 W), we found that the device constant was the same
+as that before experiments in error 0.6%. The average Pex over 105 h is − 14.6 mW. Integrating powers with
+respect to time, we find the total input, output and excess energies are 94.063, 88.449 and − 5.613 kJ,
+respectively. The absorption excess energy is 5.97% of the input energy and its amplitude is greater than the
+experimental error; this energy corresponds to − 3.81 MJ/cm3 Pd or − 350 eV/atom Pd.
+
+Contrary to the most of calorimetric results on electrolysis Pd|D2O system [1,2], we observed anomalous
+heat absorption but not production in it. However, similar results have also been detected in Pd|D2O and
+Ni|H2O systems [4] and La0.95AlO3 + D2 system [5] before. Therefore, it should be another effects in cold
+fusion. Nevertheless, this phenomenon needs to be studied more detail since the related evidences and
+reproducibility are lacking. Currently we are organizing a new series of experiments on this study.
+
+
+REFERENCES
+
+[1] Z.L. Zhang et al., Proc. ICCF8, 2000, p. 91; AIP Conf. Proc. 228, Provo, UT, 1990, p. 572.
+[2] E. Storms, Fusion Tech., 29, (1996) 261; Infinite Energy, vol. 5, #21, (1998) 16.
+[3] W.S. Zhang et al., Proc. ICCF9, 2002.
+[4] S.-K. Chen and C.-Y. Liang, Proc. ICCF7, 1998, p. 68.
+[5] J.-P. Biberian et al., Proc. ICCF7, 1998, p. 27.
+

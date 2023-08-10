@@ -1,0 +1,27 @@
+{
+    "index": 4703,
+    "document_link": "http://lenr-canr.org/acrobat/ZhangWSseebeckenv.pdf",
+    "abstract": "Anomalous excess heat in Pd/D2O+H2SO4 electrolytic cells was confirmed using an accurate method of heat measurement, Seebeck Envelope Calorimetry. A cell was placed in the calorimeter, which measures the output heat flux directly and avoids many of the problems other methods have. The maximum excess power thus far was 1.3 W (or 11 W cm^-3) with input power of 13 W at a current density of 0.4 A cm^-2. Calibrations were carried out before and after electrolysis experiments using a Pt/H2O+H2SO4 electrolytic cell, a dummy cell with inner resistor, or a pure resistor. Different calibrations gave consistent device constants within experimental error. Pd cathodes were analyzed by scanning electron microscopy and energy dispersive spectrometry. Unexpected elements were observed on the sample surface after electrolysis.",
+    "all_authors": [
+        "Zhang, W.-S.",
+        "Dash, J.",
+        "Wang, Q."
+    ],
+    "pdf_path": "ZhangWSseebeckenv.pdf",
+    "title": "Seebeck Envelope Calorimetry With A Pd/D2O+H2SO4 Electrolytic Cell",
+    "publisher": "The 12th International Conference on Condensed Matter Nuclear Science",
+    "year_published": "2005",
+    "volume": "nan",
+    "date_uploaded": "2006-01-18",
+    "keywords": [
+        "Excess heat",
+        "Ti"
+    ],
+    "text_content": [
+        "In this report we present the calorimetric results for the Pd|D2O+H2SO4 electrolytic cell, results with Ti added to the D2O+H2SO4 electrolyte, and the results of analysis of the Pd cathodes.",
+        "Surface topography and element analysis of the palladium cathode surface is performed using an ISI-SS40 scanning electron microscope (SEM) with an attached Oxford model 5565 energy dispersive spectrometer (EDS).",
+        "Besides sample Pd-A, we also measured silver on other Pd samples after electrolysis. Another example is shown in Figure 10 and Table 5; this sample also produced excess heat. Because the results are qualitatively the same as those of sample Pd-A, we will not discuss them in detail.",
+        "Our SEC calorimetric results showed that excess heat is produced in a Pd|D2O+H2SO4 electrolytic cell, thus confirming the positive results obtained by isoperibolic calorimetry. The excess heat was qualitatively reproducible for some samples. Ti additions to the electrolyte improved reproducibility of excess heat, possibly by depositing on the cathode and catalyzing reactions which produce excess heat. Localized changes in the surface topography of the Pd cathodes correlate with changes in the characteristic X-ray peaks of Pd. As before, these are interpreted in terms of localized concentrations of Ag, which is thought to be produced during electrolysis.",
+        "1. A. Ambadkar, J. Dash: “Electrolysis of D2O with a palladium cathode compared with electrolysis of H2O with a platinum electrode: procedure and experimental details”, see: http://www.newenergytimes.com/Library/2003DashJ-ColdFusionRecipe.pdf 2. J. Dash, A. Ambadkar, Proc. ICCF11, Marseille, France, Oct 31-Nov 5, 2004, p. 477. 3. E. Storms, Proc. ICCF10, Cambridge, MA, USA, Aug 24-29, 2003, p. 183. 4. B. Bush, J.J. Lagowski, Proc. ICCF7, Vancouver, Canada, Apr 19-24, 1998, p. 38. 5. F. Fleischmann, S. Pons, M Hawkins, J. Electroanal. Chem. 26, 301 (1989). 6. S. Miguet, J Dash, J. New Energy 1, 23 (1996). 7. Q. Wang, J. Dash, this proceedings."
+    ]
+}

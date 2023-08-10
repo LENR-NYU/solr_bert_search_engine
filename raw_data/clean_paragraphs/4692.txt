@@ -1,0 +1,76 @@
+1
+
+Along with the discovery of up-hill diffusion effect in hydrogen permeable metals by Lewis et al. [1], there has been much theoretical work concentrated on the aspects of stresses induced by hydrogen (interstitial) diffusion in metals (solids) [2-13]. In the field, an interesting phenom- enon, which has given rise to much controversy, is the steady-state concentration distribution of hydrogen in diffusion membranes for the ideal solid solution of hydrogen in metals [2,6–12]. Li [2] and Baranowski [9] predicted that a linear form is the natural result. Furthermore, Baranowski [10] proved that the linear solution is in favor of the minimum entropy production principle. Nevertheless, Kandasamy [6] proposed the existence of non-linear distribution and it was verified by numerical simulation performed by Simon and Grzywna [11]. Moreover, Kandasamy [8] considered a quadratic profile to fit the non-linear solution but it was later criticized by Simon [12], although the same conclusion has been obtained by Baranowski [10] as early as 1992. What causes the confusion is that some experimental results [14–20] support the concept of non-linear distribution. So the steady distribution of hydrogen concentration in elastic mem- branes becomes a problem that needs to be clarified further.
+
+In this note, we will prove that the linear profile of 
+hydrogen concentration is the only solution under steady-state diffusion using the analytical and numerical method.
+The non-linear form put forward by other authors
+[6,7,11,12] is unrealistic and the corresponding experimental
+evidences [14–20] are ambiguous.
+
+Similar to the model and assumption used in previous
+papers [2–13], we consider hydrogen diffusion across a
+thin plate that allows our analysis to be reduced to a
+one-dimensional problem (Fig. 1). Hydrogen permeation
+flux for the dilute solid solution phase of hydrogen in the
+metal has the form [3–12]:
+Eq. (1) with 
+Eq. (2) and 
+Eq. (3) where D is the hydrogen diffusion coefficient; x is atomic
+ratio of hydrogen to metal atoms; C is the hydrogen 
+concentration when x51; L is the thickness of the plate; z
+is the coordinate along the diffusion direction; the up-stream side is z50 and the downstream side is z5L; V is
+the partial molar volume of hydrogen in the metal; Y=E/
+(12n), E is Young’s modulus; n is Poisson’s ratio; R is
+the molar gas constant; T is the temperature in K. Strictly
+speaking, x in Eq. (3) should be replaced by the difference
+between x and its homogeneous initial value x0, although
+the latter contributions cancel each other.
+
+Applying the mass balance condition to the flux expression,
+one obtains [7–12]: 
+Eq. (4) with the boundary condition [9,11].
+Eq. (5) where x is the value of x at the outer-surfaces corresponding to the imposed hydrogen pressure (for gas phase technique) or the applied potential (for electrolytic technique) under the stress free condition.
+
+Firstly, we attempt to solve Eq. (1) analytically for the steady-state diffusion. Because A(t) and J are all time independent in this case, Eq. (1) is reduced to an ordinary differential equation and x is uniquely determined by z. By
+the assumption that x5x at z5L, integrating Eq. (1) by
+separation of variables leads to:
+Eq. (6). For extracting A, we first prove that A.0. Eq. (3) may be transformed into the form:
+Eq. (7). Because x(z) decreases monotonically with the increase of z at present, there is x(z)2x(12z).0, when 0#z,L/2, hence A.0.
+
+Integrating Eq. (6) with a weight factor 212(z2L/2) /
+L over the range 0#z#L, the contributions originating
+from A (12z /L) and A(x2x ) cancel each other. This
+leads to:
+Eq. (8). Because A>0 and x decreases with z, it is easy to find that the logarithm function in Eq. (8) decreases monotonically with z. We can prove that the integration is larger than zero in much the same way as that for A in Eq. (7). This means that A = LJ/DC is the only root of this equation. From Eq. (6), we obtain easily:
+Eq. (9). This is exactly the linear distribution expected. Furthermore, x = x* can be derived from Eq. (5), which reveals that the self-stress is released completely as predicted by Li [2] and Baranowski [9,10].
+
+On the other hand, we can solve Eq. (4) numerically with the boundary condition of Eq. (5) and the initial conditions. For example, we choose as boundary conditions x*=0.2 at z=0 and x*=0.1 at z=L, and as initial condition x=0.1 at 0≤z≤L. This choice is similar to that of Simon and Grzywna [9], i.e. the hydrogen concentration at the upstream side increases two-fold at t=0. The space-time variation of hydrogen concentration is shown in Fig. 2, the prominent decrease of hydrogen concentration near z=L at initial short times can be seen as described before [6-11]. When Dt/L2 = 1/2, the distribution of hydrogen apparently approaches the linear profile, as expected. In the calculation, the parameter ux is 0.5, being much greater than that adopted by Simon and Grzywna [11]. They concluded that there will be an opposite flux in the plate besides the concave distribution of hydrogen when ux>0.02.
+But our results give neither the non-linear distribution nor an opposite flux.
+
+Eq. (9) and Fig. 2 show clearly that the linear profile of hydrogen in the plate is the only solution for the steady-state diffusion. Any non-linear solution is either erroneous or inconsistent. For example, Kandasamy [7] has predicted a quadratic form of non-linear distribution. As predicted by Baranowski [10] and Simon [12] this form will induce the flux and concentration change with location and this is in conflict with the assumption of a steady state. On the other hand, it is hard to imagine that this non-linear function, even much more complicated, cannot be expanded in Taylor's series if it indeed exists. Our results also indicate that determination of the diffusion coefficient by the relation_D = LJ/AC (AC is the concentration difference between these at two sides) is valid and it is independent of whether self-induced stress is involved or not. Of course, this theoretical prediction may face difficulties in experi- ments due to the complex factors involved [21].
+
+In some experiments [14–20], there are indirect evidences that support the concept of non-linear distribution
+of hydrogen concentration in plates at steady state. How- ever, our results indicate that these complex phenomena cannot be understood by the simply picture and there must be other factors that have not been considered being concerned.
+
+
+References
+
+[1] F.A. Lewis, J.P. Magennis, S.G. McKee, P.J.M. Seebuwufu, Nature
+306 (1983) 673.
+[2] J.C.M. Li, Metall. Trans. A 8 (1878) 1353.
+[3] F.C. Larché, J.W. Cahn, Acta Metall. 30 (1982) 1835.
+[4] F.C. Larché, J.W. Cahn, Solid State Phenom. 34 (1988) 205. [5] F.C. Larché, J.W. Cahn, Acta Metall. 40 (1992) 947.
+[6] K. Kandasamy, Scripta Metall. 22 (1988) 479.
+[7] K. Kandasamy, Int. J. Hydrogen Energy 20 (1995) 455. [8] K. Kandasamy, F.A. Lewis, Defect Diffusion Forum 150-151 (1997) 56.
+[9] B. Baranowski, J. Less-Common Metals 154 (1989) 329.
+[10] B. Baranowski, Flow, diffusion and processes, in: S. Sieniutycz, P. Salaman (Eds.), Advances in Thermodynamics, Vol. 6, Taylor and Francis, New York, 1992, p. 168.
+[11] A.M. Simon, Z.J. Grzywna, Acta. Metall. Mater. 40 (1992) 3465. [12] A.M. Simon, Int. J. Hydrogen Energy 22 (1997) 27.
+[13] P. Zoltowski, in: Proc. of 4th Int. Symp. on Electrochemical Impedance Spectroscopy, 2-7 August, Rio de Janeiro, Brazil, 1998, p. 405.
+[14] Y. Sakamoto, X.Q. Tong, F.A. Lewis, Scripta Metall. Mater. 25 (1991) 1629.
+[15] K. Kandasamy, F.A. Lewis, J.P. Magennis, S.G. McKee, X.Q. Tong, Z. Phys. Chem. (NF) 171 (1991) 213.
+[16] K. Kandasamy, X.Q. Tong, F.A. Lewis, J. Phys.: Condens. Mater. 4 (1992) L439.
+[17] F.A. Lewis, X.Q. Tong, J. Alloys Comp. 179 (1992) L13.
+[18] F.A. Lewis, X.Q. Tong, K. Kandasamy, Int. J. Hydrogen Energy 18 (1993) 481.
+[19] F.A. Lewis, X.Q. Tong, K. Kandasamy, R.V. Bucur, Y. Sakamoto, Thermochim. Acta 218 (1993) 57.
+[20] X.Q. Tong, F.A. Lewis, Int. J. Hydrogen Energy 20 (1995) 641. [21] B. Baranowski, private communication.

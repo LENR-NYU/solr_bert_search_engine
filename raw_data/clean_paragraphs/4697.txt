@@ -1,0 +1,145 @@
+1
+
+Effects of self-stress produced by solute atoms on the solubility and diffusivity themselves in solids have been extensively studied in past years [1,2]. However, the available self-stress theories are for infinite (or semi-infi- nite) size solids or high symmetrical samples, e.g. plates with free-edges or semi-infinite thickness, spheres and cylinders. These theories when applied to actual experi- ments [3–8] have not given precise physical pictures in previous works [9–19], so treatments of solute self-stress effects in specific situations are important both for under- standing the self-stresses and for application of them.
+
+In an earlier work [20], we have discussed effects of self-stress developed during solute atoms diffusion across metallic cylindrical shells. From the viewpoint of physics, diffusion of solute atoms across thin plates with clamped edges (PCE) is a more general situation, e.g. hydrogen permeation across a plate under gas or electrochemical conditions is widely used to measure the diffusion coeffi- cient of hydrogen in materials [21–23]. However, very little attention has been paid to this subject up to now. In this report, we will study self-stress effects in PCEs based on theories on thin plate with large deflections [24] and thermoelasticity [25,26]. Approximations and assumptions are the same as those in previous theories [24–26] except where noted. Similarly to the earlier work [20], we will
+concentrate on the situation of hydrogen in homogeneous
+metallic materials (M), which have been studied most
+extensively [3–23,27–29].
+
+Considering a circular plate with uniform thickness h
+and radius r prior to hydrogen insertion as shown in Fig.
+1. The cylindrical coordinate system is used in this work,
+and only the central symmetrical situation is discussed.
+The origin is taken as the center of the plate midplane; z is
+the axial coordinate, i.e. the distance from the midplane of
+plate, the upstream side is z5 2h/2 and the downstream
+side is z5h/2; the deflection of plate midplane along the
+z-direction is w; the radial coordinate and displacement are
+r and u, respectively.
+
+The radial and tangential strains are [26]
+Eq. (1) and 
+Eq. (2), respectively, where w 5 2dw/dr. The radial and tangential stresses are [26]
+Eq. (3), and
+Eq. (4), respectively, where E is Young’s modulus, E = (1~2)*10^11
+Pa; n is Poisson’s ratio, v = 0.3~0.4; nH is the atomic ratio of hydrogen to metal (H/M); a is the
+expansion coefficient caused by hydrogen insertion and it
+is a dimensionless quantity, a 5V C /3; V is the partial
+molar volume of H in M, V 51.7 cm mol for f.c.c.
+metals or alloys while n ,0.75 [30,31]; C is the
+concentration of H in M corresponding to nH 51, C0 5
+0.1 | 0.15 mol H cm . The total stress is
+Eq. (5). For a clamped edge, the deflection and slope normal to the edge boundary are zero, i.e. w = q = 0 at r = r。; and the central symmetrical condition of deflection gives = 0 at r = 0. The clamped edge prohibits relative displacements of the contour in the midplane along the radial direction, i.e. u = 0 at r = 0 and r。.
+
+For simplicity, we will deal with the stress problem
+using
+the variational method. The total strain energy is
+taken to be [24]
+Eq. (6) with the strain energy induced by self-stress
+Eq. (7)
+where D is the bending rigidity of the plate per unit of
+length, DM 5Eh /12(12n ); MH is the hydrogen moment
+pure unit of length, MH 5[aE/(12n)] e nHz dz; NH is the
+hydrogen membrane force per unit of length, N 5[aE/
+(12n)] e n dz5ahEn /(12n); n is the average hydrogen content in plate. In the deduction of Eq. (7), above
+boundary conditions are used. The strain energy induced
+by the external pressure p (strictly speaking, p should be
+the pressure difference between the two sides of the PCE)
+on the plate is
+Eq. (8). The variation of total energy requires
+Eq. (9). Taking the approximation solutions [24]
+Eq. (10) and 
+Eq. (11) where r 5r /r is the reduced radial coordinate, these two
+solutions satisfy the above boundary conditions. Introducing them into Eqs. (6)–(8) and applying them to the
+variation of P with respect to a , a and b in the first
+approximation that nH is independent of r, we give a0 5
+1.42120.706n, a 5 21.88110.309n and
+Eq. (12) with c50.42510.241n 20.158n 2. If ]n 50, this equation simplifies to the central deflection of thin circular-plate under external load [24]. On the other hand, if p=0,
+the solution reduces to
+Eq. (13) with 
+Eq. (14), and b09 5[3(11n) /8c] . b90 51.004 | 1.028 for n 5 0.3 | 0.4, namely, b9 51 in an approximation. The first root of Eq. (13) is a trivial solution, which means that the
+plate does not bend while hydrogen is inserting into it, and
+this state is unstable when n > n. The last two
+solutions have the same amplitude but opposite sign, which indicates that the plate may deflect to the upstream or downstream side as shown in Fig. 2, i.e. it is a bistable system. Eq. (13) and Fig. 2 illustrate that the buckling of the plate requires a critical average H/M ratio nc, which is 3.22 × 10 in Fig. 2. The value of nнc depends mainly on the expansion coefficient a and the ratio of thickness to radius h/r。 as indicated by Eq. (14). It is qualitatively consistent with nc = [1.22/(1 − v2)a](h/r)2, deduced from the theory of buckling of circular-plate under lateral loads [24]. When ñí»nå.c, w(0)/r。≈±(añμ)1/2, which is similar to the relation obtained previously [32].
+
+The above discussion is suited to the electrolyte/plate/ electrolyte situation [4–8,21,22], in which no external load is applied to the plate. In the gas/plate/gas [23] or gas/ plate/electrolyte situation, the pressure difference between the two sides of plate makes the PCE deflect initially before bending caused by hydrogen insertion. The corre- sponding solutions of Eq. (12) are complex so we do not show them here. Similar to Eq. (13), there are only one solution when ñí‹Иí ̧c; two solutions occur when ñí nнc as shown in Fig. 2. The critical hydrogen content under a pressure difference p is
+Eq. (15) which is 0.01 in Fig. 2. It is easily seen that n is proportional to p as expectation. In this case, the deflection
+is preferred to be along the original direction except for
+external disturbance. When ñ is large enough, the contribution to the deflection caused by the external pressure decreases and w approaches that without pressure difference as shown in Fig. 2. In actual cases, the deflection direction is determined by the specific situations such as the hydrogen charging and discharging processes, and the initial and boundary conditions.
+
+The stress can be obtained from Eqs. (3)–(5), (10) and (11), and expressions of α, a1 and b。, we choose the solution for plate protruding to the downstream direction (w >0) while p = 0,
+Eq. (16), with f(p) = a + 3(a1 − a)p/2 − 2a1p2 + 4p2(1 − p2)2. An example is shown in Fig. 3, it is for a plate in equilibrium with environment and the hydrogen content should be 0.01 under the stress-free condition. The self-stress exhibits complex behavior than that in plate with free edges [9–12,17–19] or in long cylindrical shells [20] while nн.c. The bend of plate and mechanical constraint together make the self-stresses differ in different regions, the maximum value appears in the upstream region near edges. The overall stress are compressive except at the central region near the upstream side as
+shown in Fig. 3. At the same time, the deflection of plate makes the amplitude of average stress less than the value without deflection as illustrated in Fig. 3. Another interesting feature is that the stresses all have the same value at p = 1/√2 as indicated by Eq. (16) and Fig. 3.
+
+Self-stresses also affect the distribution of hydrogen content in the plate. The average hydrogen content is 8.73 × 103 in Fig. 3 which in Fig. 3 which is less than the stress-free value of 0.01 but greater than the un-deflected value 8.19 × 103. These results indicate that hydrogen contents obtained using PCEs in diffusion experiments differ from those under stress-free conditions. Similarly, other mechanical constraints on samples also affect the isothermal behavior of solute in solids by the same mechanism. However, this effect has been neglected in previous studies.
+
+Another problem is the diffusion flux in the plate, similar to earlier works [1,2,13,14,20], the hydrogen flux has two components
+Eq. (17) where j and j are fluxes induced by gradients of concentration and stress, respectively. In the first order approximation (h/r !1), the concentration gradient exists only in the thickness direction, we have
+Eq. (18), and the stress-induced flux
+Eq. (19) with
+Eq. (20),
+where D is the Fick's diffusion coefficient of H in M when nн→0; u is the self-stress factor and is a dimensionless material constant, u̟ = 13~33 at room temperature utilizing the parameters aforementioned; other symbols have their usual meanings. The first term in the bracket of Eq. (19) is zero after integrating with respect to the circular surface using the above boundary conditions. Therefore, the average current density is
+Eq. (21), which is the same as that in earlier works [1,2,20]. This equation indicates that the average flux has the same expression either for solid spheres, cylinders and plates with semi-infinite thickness [1,2], or cylindrical and spherical shells and PCEs in a first order approximation.
+
+Another feature of hydrogen permeation in plates is the
+up-hill diffusion (UHD) behavior similar to that in cylindrical shells [3] as observed experimentally [4–8].
+Analogous to the discussion in cylindrical shells [20], we will concentrate on the stress at the downstream while hydrogen is introduced at the upstream. Because stresses change
+with r, we consider only the average value. From Eqs.
+(3)–(5) and (16), and using the above boundary conditions, we get
+Eq. (22), with s0 52VHEC0 /3(12n). Prior to the concentration (or
+current) step at the upstream side, n 5n 5]n when
+t,0; and nH ¯nH,0 at the downstream side in the initial
+period of hydrogen charging before the Fickian diffusion
+wave break through, so the average stress change at the
+downstream is
+Eq. (23). Using the formula [1,2,13,14,20,33,34]
+Eq. (24), where m denotes the chemical potential of hydrogen
+under the reference state, we get the average chemical
+potential change at the downstream
+Eq. (25). Because пÃ ̧‹ÑÉ in the absorption process and н=0 equals the chemical potential of hydrogen outside the plate (electrolyte or gas), so this equation indicates that the hydrogen will be absorbed into the plate at the downstream in the initial period of hydrogen charging. Similarly, the UHD behavior in the discharging process can be understood by the same mechanism.
+
+It must be pointed out that the stress is only a local function of nã and the UHD cannot take place while HnH.C. This is the reason why a critical value of hydrogen content is required to observe the UHD phenomena in experiments [4-7]. At the same time, we mainly discuss self-stress effects for p = 0; otherwise, the stress effects are complex since the external and internal stresses together influence the solubility and diffusivity of hydro- gen in PCEs if p 0.
+
+In this work, we suppose nH is independent of r, this is the first order approximations. The accurate results must be solved numerically based on Airy's stress function as done in Ref. [26] and considering the interaction between stress and hydrogen content distributions. On the other hand, our treatment and conclusion are confined to dilute solutions. Phase transformations and plastic deformations that occur
+in concentrated solutions need to consider the plasticity and other physical processes. Detailed treatments on the PCE problem will be given in a forthcoming more extended work.
+
+Finally, although our work is focused on metal (alloy)— hydrogen systems, the present conclusions can be extended to stress problems of general interstitial or substitutional solutions (e.g. N in Fe), or to some type of point defects in solids.
+
+
+References
+
+[1] J.C.M. Li, Metall. Trans. A9 (1978) 1353.
+[2] F.C. Larche,´ J.W. Cahn, Acta Metall. 30 (1982) 1835.
+[3] F.A. Lewis, J.P. Magennis, S.G. McKee, P.J.M. Seebuwufu, Nature 306 (1983) 673.
+[4] Y. Sakamoto, H. Tanaka, F.A. Lewis, X.Q. Tong, Int. J. Hydrogen Energy 17 (1992) 965.
+[5] Y. Sakamoto, H. Tanaka, F.A. Lewis, X.Q. Tong, Z. Phys. Chem. (N.F.) 181 (1993) 219.
+[6] Y. Sakamoto, H. Tanaka, F. Sakamoto, F.A. Lewis, X.Q. Tong, Int. J. Hydrogen Energy 20 (1995) 35.
+[7] Y. Sakamoto, H. Tanaka, F.A. Lewis, X.Q. Tong, K. Kandasamy, Int. J. Hydrogen Energy 21 (1996) 1025.
+[8] H. Tanaka, Y. Sakamoto, F.A. Lewis, X.Q. Tong, Defect Diffus. Forum 141–142 (1997) 85.
+[9] K. Kandasamy, Scripta Metall. 22 (1988) 479.
+[10] K. Kandasamy, Int. J. Hydrogen Energy 20 (1995) 455.
+[11] K. Kandasamy, F.A. Lewis, Defect. Diffus. Forum 150–152 (1997) 56.
+[12] K. Kandasamy, F.A. Lewis, Int. J. Hydrogen Energy 24 (1999) 763.
+[13] B. Baranowski, J. Less-Common Met. 154 (1989) 329.
+[14] B. Baranowski, in: S. Sieniutycz, P. Salaman (Eds.), Advances in Thermodynamics, Vol. 6, Taylor and Francis, New York, 1992, p. 168.
+[15] A.M. Simon, Z.J. Grzywna, Acta Metall. Mater. 40 (1992) 3465.
+[16] A.M. Simon, Int. J. Hydrogen Energy 22 (1997) 27.
+[17] W.S. Zhang, X.W. Zhang, Z.L. Zhang, J. Alloys Comp. 302 (2000) 258.
+[18] W.S. Zhang, X.W. Zhang, Z.L. Zhang, Phys. Rev. B 62 (2000) 8884.
+[19] D. Dudek, J. Alloys Comp. 329 (2002) 1.
+[20] W.S. Zhang, Z.L. Zhang, X.W. Zhang, J. Alloys Comp. 336 (2002) 170.
+[21] B.G. Pound, in: J.O.M. Bockris, R.E. White (Eds.), Modern Aspects of Electrochemistry, Vol. 25, Plenum, New York, 1993, p. 63.
+[22] P.K. Subramanyan, in: J.OM. Bockris, B.E. Conway, E. Yeager, R.E. White (Eds.), Comprehensive Treatise of Electrochemistry, Vol. 4, Plenum, New York, 1981, p. 41.
+[23] B.D. Kay, C.H.F. Peden, D.W. Goodman, Phys. Rev. B 34 (1986) 817.
+[24] S. Timoshenko, S. Woinowsky-Krieger, Theory of Plates and Shells, McGraw-Hill, New York, 1959, Chapters 2, 3, 12 and 13.
+[25] B.O. Boley, J.H. Weiner, Theory of Thermal Stresses, Wiley, New York, 1960, Chapters 12 and 13.
+[26] J.L. Nowinski, Theory of Thermoelasticity with Applications, Sijthoff and Noordhoff International Publishers, Alphen aan den Rijn, Netherlands, 1978, Chapter 15.
+[27] J. Volkl, Ber. Bunsenges. Phys. Chem. 76 (1972) 797. ¨
+[28] J. Volkl, G. Alefeld, Z. Phys. Chem. (N.F.) 114 (1979) 129.
+[29] H. Wipf, J. Less-Common Met. 49 (1976) 291.
+[30] B. Baranowski, S. Majchrzak, T.B. Flanagan, J. Phys. F.: Met. Phys. 1 (1971) 258.
+[31] Y. Fukai, The Metal–Hydrogen System, Basic Bulk Properties, Springer-Verlag, Berlin, 1993, p. 95.
+[32] D. Fort, I.R. Harris, J. Less-Common Met. 45 (1976) 247.
+[33] H.A. Wried, R.A. Oriani, Acta Metall. 18 (1970) 753.
+[34] R. Kirchheim, Acta Metall. 34 (1986) 37.

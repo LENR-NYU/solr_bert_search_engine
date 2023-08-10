@@ -1,0 +1,1359 @@
+1. Introduction
+
+It has long been recognized that the electrical
+resistance of palladium loaded with hydrogen (taken
+to include deuterium, as below) is a function of the
+hydrogen content [1 /45]. This relationship is always
+expressed in terms of the resistance ratio of the
+palladium hydride at a particular loading (denoted by
+the atom ratio, x /H/Pd) to the initial value of the free
+hydrogen, i.e.: Eq. (1) as shown in Fig. 1. The relationships between xR and x
+have almost the same shape for both Pd /H and Pd /D
+systems but, at the same x value, the resistance is
+somewhat larger for the Pd /D system, in particular in
+the high x region.
+
+The behavior of xR with changing x can be summarized
+as follows. When a palladium sample begins to
+absorb hydrogen, the solid solution phase, a is formed
+first and the relative resistance increases almost linearly
+with increasing x up to the a phase boundary composition,
+xa [9 /11,21 /23]. Then the Pd /H system is in the
+mixed a /b phase, xR increases less sharply with x up to
+the b phase boundary composition, xb at which the
+phase transition ends [1 /3,16]. With further increase of
+x, the Pd /H system is in the pure b phase, the increase
+rate of xR gradually decreases and reaches the maximum
+xR,max at xmax [1 /4,24,30]. In the higher x region, xR
+decreases sharply up to the saturation absorption at
+which stoichiometric palladium hydride, PdH is formed
+as was confirmed in high-pressure or low-temperature
+experiments [4,27 /40].
+
+Fig. 1. Resistance vs. loading ratio for the Pd /H [30] and Pd /D
+[11,31] systems in the overall H (D) concentration range at 25 8C. The
+solid squares are data from Baranowski et al. [30], the open circles are
+data from Flanagan and Lewis [10] and the open squares are data from
+Baranowski and Filipek [31]. The contribution to the resistance
+induced by the high pressure in the original resistance data is extracted
+in this figure, and the isotherm of Wicke and Nernst [46] is used to
+obtain x instead of the logarithm relation between x and hydrogen
+pressure in the original paper [28] which can result in x /1.
+
+A polynomial can be used to fit xR as a function of x
+in the overall hydrogen concentration region (05/x5/
+1), based on the experimental data in Refs. [11,30,31,46]
+(see Fig. 1) and we obtain: Eq. (2) with correlation coefficient R2 /0.999 and standard
+deviation s2 /0.01086 for H, and R2 /0.9909 and
+s2 /0.0318 for D. Of course, this empirical approximation
+may differ from some experimental results [24,53]
+especially for x near xmax due to the peaks in Fig. 1
+becoming broad and gently rounded.
+
+The behavior of xR with changing x can be explained
+by the scattering theory in solid-state physics. When
+hydrogen atoms are inserted into the pure palladium
+lattices, the disorder increases and the number of
+scattering centres for conduction electrons increases as
+well; this makes the resistance increase linearly with x.
+On the other hand, the pure palladium has 0.36 holes in
+the d band and the s  /d scattering contributes substantially
+to the resistance [32]. This d band needs 0.55 /0.60
+hydrogen to fill it, so the resistance dependence for the
+mixed a /b phase is of course due to the combined effect
+of the opening up of the d band and the appearance of
+the a and b mixture [34,35]. At high x values (x /0.6),
+the PdHx looks more like an s type metal than a
+transition metal, which has, in general, higher resistivity
+than an s type metal, so it is easy to understand the low
+resistivity of PdHx . When x approaches 1, the scattering
+centers for conduction electrons are the vacancies in the
+hydrogen sublattices whose number is proportional to
+(1 /x) [34], so the resistance decreases with increasing x.
+
+The actual experimental data are scattered around
+those shown in Fig. 1 due to the facts below: (1) The pretreatment
+of the sample influences the amplitude of xR.
+Flanagan and Lewis have found that annealing the
+palladium at 900 8C for 1 h results in a low xR value
+whereas the quenched sample results in a high xR value
+[9]. (2) Bru¨ning and Sieverts [6] and Lewis et al. [16] have
+found hysteresis of the resistance ratio during the
+hydriding /dehydriding process; this behavior can be
+understood by the differences of xa and xb between the
+absorption and desorption processes using the method
+which will be discussed in Section 3.4.2. (3) The
+dimensional changes of the electrode in the hydrogen
+absorption and/or desorption processes affect the resistance
+ratio and these changes depend on the hydriding
+and/or dehydriding processes, but this was not given
+sufficient attention in the past. The latter situation
+forms one of the aims of this paper.
+
+The relationship between resistance and x has been
+used to infer the loading ratio in the electrolysis
+experiments [47 /57]. In comparison with ex situ methods,
+e.g. gravimetric determination [9], thermal analysis
+[58] and coulometry [59], the resistance measurement
+can monitor in situ the hydrogen content which depends
+strongly on the electrochemical parameters, and hydrogen
+escapes from the electrode when it is removed from
+the electrolysis system. Of course, there have been other
+in situ methods, e.g. the volumetric method in a closed
+system [60], X-ray diffraction [61] and neutron reflectometry
+[62] used in experiments, but they have inherent
+defects compared with the resistance measurement. The
+first technique is sensitive to impurity gases and may
+overestimate the hydrogen concentration, and the latter
+two methods reveal only the local but not the overall
+properties, especially for a thin film sample as verified in
+similar experiments [63]. The advantage of the resistance
+method is that the resistance reflects the overall bulk
+properties of the sample affected by the hydrogen
+absorption, so it does not depend on the local characteristics
+and surface impurities. At the same time it has
+a small temperature dependence that can be calibrated
+using the available experimental results as will be
+discussed subsequently.
+
+However, unlike the gravimetric, volumetric and
+coulometric techniques, the in situ resistance measurement
+(ISRM) does not give a direct measure of loading
+and hence requires calibration against one of these
+former techniques. This makes the reliability depend
+not only on the measurement of the resistance but also
+on the accuracy of the relationship between xR and x.
+On the other hand, the accepted resistance data are
+measured in the equilibrium or quasi-equilibrium state;
+the practical hydrogen distribution is non-uniform most
+of time in ISRM in the electrolysis experiments; this
+non-uniformity makes the measured hydrogen concentration
+differ from the average value. At the same time,
+the electrolyte solution surrounding the electrode affects
+the ISRM in many ways besides the co-conduction of
+the measuring current through the electrolyte. The most
+important effects are the additional potential shifts
+caused by the measuring current and the electrolysis
+current (ec). In this paper, we will discuss these problems
+in turn.
+
+
+2. Experimental
+
+The electrolysis cell consisted of a glass vessel (inner f
+12 /40 mm) and electrodes in a LiOH aqueous solution
+( /2 ml). The cathode was made of a palladium wire (f
+0.2 /50 /90 mm, 99.9% purity) wound round a PTFE
+rod; each cathode end was spot-welded to two platinum
+leads (f 0.2 /50 mm) for measuring H/Pd by ISRM.
+The anode was made of a platinum wire (f 0.02 /100
+mm) wound round another PTFE rod. All platinum
+wire leads were covered with thin-walled PTFE tubes to
+minimize their contact with the electrolyte and catalysis
+of the H2 /O2 combination. A diaphragm was used in
+the cell to separate the cathode and anode compartments
+and prevents H2 and O2 combination. LiOH (1
+M) aqueous solution was prepared by dissolving LiOH
+(No. 3 reagent plant of Shanghai, AR) in deionized
+H2O. The resistance was measured potentiometrically
+with the standard four-probe technique. The measuring
+currents used were 1 /100 mA; the potential drops were
+measured by a Keithley 15OB microvolt ammeter.
+
+
+3. Results and discussion
+
+In this section, we will discuss some of the problems
+which occurred in the ISRM. These issues can be
+classified into two groups, one group including Sections
+3.1, 3.2 and 3.3 is for the equilibrium state of the Pd /H
+system; another one including Sections 3.4, 3.5, 3.6 and
+3.7 is for the non-equilibrium state which usually occurs
+in the ISRM. In this work, the direct current (dc)
+situation is focused on the ISRM, but most of the
+conclusions can be extended to that of alternating
+current except the concentration-cell effect studied in
+Sections 3.5.2, 3.6.2 and 3.7. Although our aim is to
+investigate the Pd/H electrode, the conclusions obtained
+in Sections 3.1, 3.2, 3.3 and 3.4 can be extended to the
+Pd/H2 system and all of the results can be applied to the
+Pd/D electrode or the Pd/D2 system with some parameters
+modified.
+
+3.1. Resistivity ratio: From the viewpoint of physics, a resistivity ratio
+should be more fundamental to characterize the change
+of hydrogen concentration than the resistance ratio xR
+although the latter is always used in experiments.
+Similar to the concept of xR in Eq. (1), we define the
+resistivity ratio:
+Eq. (3)
+with rPdH
+x
+and rPd being the resistivities of PdHx and
+Pd, respectively. xr is also a function of x and has a
+similar shape to that of xR shown in Fig. 1. The
+difference arises from the expansion effect in the
+hydrogen insertion into the palladium lattice. It was
+supposed that a sample expansion is uniform in all three
+dimensions in past work [32,34,41], but this is not the
+case in practice. The actual dilation of a PdHx sample
+has two extreme situations according to whether the
+internal stresses arising from an inhomogeneous distribution
+of hydrogen (including phase transitions) in
+the absorption and/or desorption processes are removed
+or not, i.e. the coherence and incoherence expansions1.
+For the coherence situation, the lattices distort but do
+not crack so the expansion is uniform in all directions.
+In contrast, the internal stresses are released by plastic
+deformation in the small size direction (radius for a rod
+and thickness for a plate) but the large size direction
+(length for a rod, radius for a circular plate, and width
+and length for a rectangular plate) changes very little in
+the incoherence situation. For a general case, the
+expansions are between these two states. Consider a
+sample with uniform cross-section S and length l /S1/2;
+the resistances in these three situations are:
+Eq. (4), with 
+Eq. (5) where oV is the partial volume of H in Pd expressed as
+the volume fraction; its average value in the overall
+hydrogen concentration region is 0.162 and 0.157 for H
+and D, respectively [64,65]. ol is the partial length
+change. Combining Eqs. (1), (3) and (4) gives:
+Eq. (6) with the correction factor:
+Eq. (7), oRx versus x is shown in Fig. 2. It is seen that the
+acquisition of the resistivity ratio from the resistance
+ratio depends on the internal stress-state of hydrogen in
+palladium, hence the correction factor changes from 5.4
+to 16.2% for PdH. This result also indicates that the
+resistance ratios obtained under different conditions
+may differ from each other by as much as 2oVx/3,
+which is 10.8% for PdH. The general situation is a
+mixture of these two cases so we have oV/35/oR5/oV
+and the value of oR depends on the preparation process
+of the PdHx sample. In the hydrogen absorption and/or
+desorption processes at room temperature, the al/b
+phase transition results in plastic deformation and
+creation of dislocations [66,67], so the incoherence
+situation is unavoidable in the main region of hydrogen
+concentration. On the other hand, the mixed a /b phase
+is overcome while the applied hydrogen pressure is
+slowly stepped up by small increments at high temperatures
+in some experiments [56]; it is then in the coherence
+situation.
+
+In experiments, the correction factor oR can be
+obtained by the measurements of resistance, dimensions
+and hydrogen content of PdHx in conjunction. It is a
+pity that this result has not been obtained up to now
+although the dimensional changes in the hydrogen
+absorption and/or desorption processes were monitored
+in early work such as that in Refs. [3,5,68,69] and other
+work cited in Ref. [70], so we have to use the dimensional
+change alone to obtain oR. Graham has observed
+that the length of a Pd wire was elongated by 1.605% by
+an accompanying hydrogen absorption change to x 
+0.677 [68], this result corresponds to ol /2.37%; and the
+data in work by Fischer [5] gives ol /3.32%. These two
+results give oR /10.5% and this situation is also shown
+in Fig. 2 as the ‘usual case’.
+
+Fig. 2. Correction factor in acquiring the resistivity ratio from the
+resistance ratio. The dotted, solid and dashed lines are for the
+coherence, incoherence and usual cases of internal stress of H in Pd,
+respectively (detailed explanation can be found in Section 3.1).
+
+3.2. Effect of temperature on the PdHx resistance: 
+Besides the experimental results on xR versus x
+around room temperature (TR) such as those shown in
+Fig. 1, there is also similar work at other temperatures
+[6 /8,10,14 /17,19 /21,24 /26,32 /43]. However, most of
+results are concentrated on very low temperatures due to
+the phenomenon of superconductivity of PdHx (and
+PdDx) with x]/0.8 at TB/12 K found in 1972 [71 /74]
+and the anomaly of resistance and specific heat around
+50 K with x around 0.6 found in 1957 [41,75 /78].
+Although some data on the temperature effect around
+TR are available [10,17], a systematic study on the
+overall hydrogen concentration has not been carried out
+to date. Therefore we have to deduce the temperature
+coefficient from different results obtained by different
+authors [10,17,30,34] as is shown in Fig. 3.
+
+In Fig. 3(a), the temperature coefficient of resistivity
+r ?PdH
+x
+,T around TR with x5/0.685 is obtained using the
+data of Flanagan and Lewis [10] at 0 8C and McNicholl
+and Lewis [17] at 65 8C; r ?PdH
+x
+,T with x]/0.87 is
+obtained using the data of Baranowski et al. [30] at
+25 8C and Burger et al. [34] at  /77 8C. The expansion
+effect discussed above is considered in the calculation of
+r ?PdH
+x
+,T using the correction factor of the usual case. As
+a polynomial approximation, the data shown in Fig.
+3(a) are fitted by the expression below: Eq. (8) with R2 /0.9258 and s2 /0.1478. The resistivity ratio
+around TR is: Eq. (9)
+
+Fig. 3. The temperature coefficient of resistivity (a) and resistance (b)
+of PdHx around room temperature. The open squares are data of
+Flanagan and Lewis [10]; the solid squares are data calculated from
+those of Flanagan and Lewis [10] at 0 8C and McNicholl and Lewis
+[17] at 65 8C; the solid circles are data obtained from Baranowski et
+al. [30] at 25 8C and Burger et al. [34] at  /77 8C. All the data in (a)
+have been corrected for the expansion effect.
+
+From Fig. 3(a), we find r ?PdH
+x
+,T exhibits complex
+behavior with x. The maximum value appears in the
+mixed a /b phase as was observed experimentally [3]:
+this can be interpreted by the percolation theory [40], i.e.
+r ?PdH
+x
+,T in the mixed a /b phase is greater than values
+in the a and b phases. This makes the maximum value of
+xr (or xR) flatten at high temperatures [20]. Because the
+a and b phases may have different profiles in a sample
+(see Section 3.4.2) and the phase boundary compositions
+xa and xb change with temperature, it is easy to
+understand that the data in this region are severely
+scattered. Another fact which has been neglected before
+is that r ?PdHx,T in the high x region increases with x due
+to the optic-mode phonon of H in PdHx , and this opticmode
+contribution makes the resistivity of PdD greater
+than that of PdH as is shown in Fig. 1. Although the
+data in Fig. 3(a) are for hydrogen, deuterium shows an
+almost identical result according to Ref. [41].
+
+A convenient quantity, widely used in experiments, is
+the temperature coefficient of resistance aR defined as a
+dimensionless quantity [10,53,54]:
+Eq. (10). It is shown in Fig. 3(b) based on the same data in Fig.
+3(a) [10,17,30,34]; the polynomial approximation to
+these data is:
+Eq. (11) with R2 /0.98833 and s2 /0.09656. The resistance ratio
+around TR can be normalized to that at room temperature:
+Eq. (12)
+
+As experimentally, the temperature may change from
+time to time, the x value can be obtained by combining
+Eq. (12), the data of xR(TR) and aR by using the
+iterative method because aR is also a function of x it is
+not necessary to find out xR(T). Another convenient
+way to determine x is by acquiring the resistance ratio of
+PdHx at any temperature to Pd at TR:
+Eq. (13)
+
+By plotting xR(T, TR) at different temperatures, the x
+value can be obtained directly from these graphs. Of
+course, TR in Eqs. (12) and (13) may not necessarily be
+298.15 K in experiments; it can be any temperature as
+set initially.
+
+Flanagan and Lewis [10] and Barton et al. [14] have
+studied xR(T) at T /0 /55 8C with 05/x5/0.685 and
+the corresponding xR has been used in past experiments
+[53,54]. The data of Flanagan and Lewis [10] are also
+shown in Fig. 3 (open squares). Because of the narrow
+range of temperature which induces xR changes of less
+than 5% and the inherent large error in the mixed a /b
+phase, the data are scattered and the relative error is
+significant.
+
+3.3. Effect of hydriding /dehydriding cycles on the initial
+resistance of palladium:
+It is well known that if a Pd sample is hydrided and
+then dehydrided a number of times, i.e. ‘cycled’, the
+sample shape will deform strongly [1]. This deformation
+also affects the Pd resistance as was verified in our
+experiments and shown in Fig. 4. It is found that the RPd
+decreases almost linearly with the number of cycle. As a
+primary explanation, this effect can be understood by
+the dimensional changes during the hydriding /dehydriding
+cycles. Because self-stresses developed in a
+hydriding process are released by the expansion in the
+small size direction as discussed in Section 3.1 and this
+change is irreversible [3,69,79], the small size increases,
+the large size decreases and the overall volume changes
+slightly after one cycle. For a sample with uniform
+cross-section S and length l /S1/2, we have:
+Eq. (14) in one cycle, where dVPd, dSPd and dlPd denote the
+changes of volume, cross-section and length of Pd
+sample after one hydriding /dehydriding cycle, respectively.
+We define the length change: Eq. (15) in one cycle, the length after n cycles is: Eq. (16)
+
+Fig. 4. Experimental results on the initial resistance of palladium after
+seven cycles of hydriding /dehydriding. The linear fit to results gives:
+RPd,n /0.1027(1 /1.607% n ) V and 0.1027(1 /2.775% n) V for samples
+A and B, respectively. Both two samples are 0.02 cm in diameter and
+ca. 3 cm in length.
+
+Similarly, we obtain the resistance change after one
+cycle:
+Eq. (17)
+
+Besides the dimensional changes, dislocations, cracks
+and voids are produced within the cycled sample [79 /
+84], and these defects will cause an increase of the
+resistance although its magnitude is less than that
+caused by the dimensional change. To account for the
+overall effect on the resistance after one cycle, we use gR
+to replace 2gl . Integrating Eq. (17) with respect to n, we
+obtain the Pd resistance after n cycles:
+Eq. (18)
+
+If n is small this expression can be approximated by a
+linear function:
+Eq. (19)
+
+Experimental results are shown in Fig. 4 and we find
+that gR /1.61 and 2.78% for samples A and B,
+respectively. Referring to the data in Ref. [68], the
+length of a Pd wire shrank from 609.144 to 585.154 mm
+after four cycles, which corresponds to gl /0.98% from
+Eq. (16). Other similar data were obtained using a
+rectangular plate [80], the plate area of 6.0 /2.5 cm2
+diminished to 1.12 /0.53 cm2 after 92 cycles and we
+obtain gl /1.82 and 1.69% from Eq. (16). It can be
+proved that Eq. (16) is suitable for both cylindrical and
+rectangular shapes. These three sets of results are
+qualitatively consistent with each other and they indicate
+that the initial resistance must be measured after
+each cycle of hydriding /dehydriding. Even if the phase
+transition may not be complete in the hydrogen
+absorption-desorption processes, the initial electrode
+resistance also changes and its decrease depends on the
+extent of phase transition.
+
+3.4. Effect of hydrogen concentration distribution on the
+PdHx resistance ratio: In this subsection, we will discuss theoretically the
+effect of non-uniform distribution of hydrogen concentration
+in PdHx on the sample resistance: we call it the
+non-uniform effect. Consider a measuring current flowing
+through a PdHx sample with length l and uniform
+cross-section S, and the current direction is in the length
+direction. The non-uniform effect has two extreme
+situations in ISRM: one is that x changes in the
+direction perpendicular to length, e.g. a thin wire
+absorbs the hydrogen and the measuring current flows
+from one end to the other. The overall resistance is the
+parallel of those of thin layers in the length direction:
+Eq. (20). We denote this situation as case p. Another extreme
+situation is that x changes only in the length direction,
+e.g. the concentration-cell effect induces x to change in
+the current direction as will be discussed afterwards. The
+total resistance is the series of those of thin layers
+perpendicular to the length direction:
+Eq. (21). We denote this situation as case s. Then, what we need
+to do is to discuss these two extreme situations: other
+complex cases are a mixture of these and the resistance is
+a value somewhere between RPdH
+x
+,p and RPdH
+x
+,s.
+
+Referring to Fig. 1, the regions of hydrogen concentration
+in the resistance graph can be divided into four
+parts: (1) the a phase; (2) the mixed a /b phase; (3) the b
+phase with x near xmax and (4) the b phase with x near
+1. We will discuss the profile effect of these four aspects.
+
+3.4.1. The a phase: For the a phase, it was found that:
+Eq. (22) with the coefficient A1 /2.41 /3.7 for H [21 /23] and 4.1
+for D [11]. First, we discuss the non-uniform effect in
+case p. Combining Eqs. (1), (3), (4), (20) and (22) gives:
+Eq. (23) with 
+Eq. (24)
+
+For simulating the practical case, we consider a
+cylindrical PdHx sample with radius r0 and length l
+which has been loaded with uniform hydrogen concentration
+x0 as the initial value; the hydrogen concentration
+is switched to x1 at r /r0 and time t /0. x at any
+time and place is [85]:
+Eq. (25) where an is the nth root of the Bessel function of the first
+kind of order zero, i.e. J0(an ) /0; r is the radial
+coordinate; tr /Dt/r0 2 , is the reduced diffusion time in
+the radial direction, where D is the diffusion coefficient
+of H in Pd. Similarly to the deduction of Eq. (23), the
+effective resistance and the effective x value measured
+by ISRM can be obtained from Eq. (22). Fig. 5 shows an
+example of this situation with x0 /0 and x1 /0.1. The
+average hydrogen concentration at a time is [85]:
+Eq. (26) / ¯ x and the relative error are also shown in Fig. 5. We find
+that the maximum error appears in the initial period as
+expected.
+
+For the case s, by combining Eqs. (1), (3), (4), (21) and
+(22), we have:
+Eq. (27)
+
+For simulating this situation, we consider that the
+cylindrical sample absorbs hydrogen at the two end
+faces; hydrogen atoms diffuse in the axial direction with
+the first boundary condition as discussed above. The
+hydrogen concentration at any time and place is [85]:
+Eq. (28) where z is the axial coordinate; tl /Dt/l2, is the reduced
+diffusion time in the axial direction. The resistance can
+be obtained by introducing this equation into Eqs. (1),
+(3), (4), (21) and (22), and the effective hydrogen
+concentration is obtained by solving Eq. (22). The
+average hydrogen concentration in this situation is [85]:
+Eq. (29)
+
+Fig. 5. Resistance ratio, average hydrogen concentration and relative
+error of the resistance method in the a phase during the diffusion
+process. The parameters: x0 /0, x1 /0.1, A1 /2.41.
+
+A related example is also shown in Fig. 5. In this case,
+the measured x is exactly the average value due to the
+linear nature of Eqs. (21) and (22).
+
+For a general form of hydrogen distribution, the total
+resistance is between RPdH
+x
+,p and RPdH
+x
+,s, so the relative
+error arising from the non-uniform effect is:
+Eq. (30). This result indicates that the measured hydrogen content
+is some less than the average value although the error is
+not substantial.
+
+In this and the subsections below, we give examples of
+hydrogen diffusion only under the first boundary
+condition. It should be noted that actual situations are
+more complicated than here; the H concentration
+distribution depends on the bulk and surface properties
+of the electrode and the applied potential or current in
+electrochemical charging. However, the examples here
+give the limiting case because the surface process, which
+is always the rate-determining step, is very fast under the
+first boundary condition.
+
+3.4.2. The a + b phase: For the mixed a + b phase, it has been verified by
+STM that the b phase is first formed near the outer
+surface of a Pd wire and the a0/b phase transition
+accompanies the shrinkage of the a j b interface in the
+electrochemical charging process [57]. This means that
+the sample resistance can be seen as the parallel of the
+resistances of two single phases and the corresponding
+resistance ratio is:
+Eq. (31) where xR, a and xR, b are the resistance ratios while x /
+xa and xb, respectively. If the two phases occupy
+different length regions, the overall resistance is the
+series of those in two singles phases:
+Eq. (32)
+
+Fig. 6. (a) Resistance ratio of PdHx in the mixed a /b phase, the
+scattered points are experimental results cited from Flanagan and
+Lewis [10] and the solid lines are theoretical results calculated from
+Eqs. (31) and (32); (b) the relative error in the mixed a /b phase. The
+parameters: xa /0.0247, xb /0.596, xa /1.056, xb /1.654.
+
+If the mixed a /b phase is composed of homogeneously
+dispersed granules of the a and b phases, the
+overall resistance can be seen as an appropriate average
+between the resistances of the pure a and b phases as
+interpreted by the percolation theory [40,43]. A comparison
+between the experiment results [10] and Eqs. (31)
+and (32) is illustrated in Fig. 6(a), where it is shown that
+the actual resistance ratio xR is between the values of
+xR,p and xR,s. Generally speaking, in determining x by a
+given resistance ratio xR, we obtain the relative error by
+Eqs. (31) and (32):
+Eq. (33)
+where xp and xs are the x values determined by Eqs. (31)
+and (32), respectively. Fig. 6(b) shows d vs. x in the
+mixed a /b phase region. We find the maximum error
+can be as large as 30%, so in determining the hydrogen
+concentration one must be cautious. The above conclusion
+is obtained from the hydrogen absorption process,
+and can be applied to the hydrogen desorption process
+with the characteristic values in Eqs. (31) /(33) being
+replaced by the corresponding quantities in the b0/a
+phase transition.
+
+3.4.3. The b phase with x near xmax:
+When the resistance ratio is near the maximum value
+xmax, its change with x can be expanded about the point
+xmax by a power series to the second order:
+Eq. (34)
+
+Similarly to the discussion in Section 3.4.1, we obtain
+the resistance ratio for both cases p and s:
+Eq. (35) and the relative error is:
+Eq. (36)
+
+This equation indicates that the measurement error
+will be much great when ¯ x is close to xmax or the
+concentration distribution is far from uniform. An
+example of case p is shown in Fig. 7, where the
+resistance is obtained by using Eqs. (1), (3), (4), (20)
+and (34). Contrary to the empirical expectation, the
+measured hydrogen concentration is quite different from
+the practical value especially when ¯ x nears xmax as
+shown by Eq. (36). This result also indicates that care is
+needed in the determination of hydrogen concentration
+around the maximum resistance region. In the numerical
+calculation, the diffusion coefficient is understood as the
+average value over a narrow range of hydrogen concentration
+because it actually changes with x in the b
+phase [86 /88]. The case s is similar to the case p, so these
+results are not shown.
+
+3.4.4. The b phase with x near 1:
+When x approaches 1, the resistance ratio decreases
+sharply with x.We can expand xR around the point x /
+1 (stoichiometric palladium hydride):
+Eq. (37)
+
+Fig. 7. Average hydrogen concentration ¯ xp; resistance ratio xp and the
+induced hydrogen content xp in the hydrogen concentration region
+near xmax during hydrogen diffusion. The parameters: xmax /1.822,
+xmax /0.75, A2 /7.5, A3 / /6 (for the convenience of determining x,
+the polynomial series in Eq. (34) is expanded to the third order), x0 /
+0.7 and x1 /0.8.
+
+Similar to the above discussion, we obtain the
+resistance ratio for case p in the second order approximation:
+Eq. (38) and the resistance ratio for case s in the second order
+approximation:
+Eq. (39). The relative error under a general case is:
+Eq. (40)
+
+Fig. 8 shows numerical results based on Eqs. (1), (3),
+(4), (20), (21) and (37) for both cases. We find a
+substantial error appears only at the beginning, and
+the maximum error is less than 1%. These results are
+consistent with Eq. (40) and this indicates that the
+ISRM is effective in the high x region.
+
+In a word, although the non-uniform distribution of x
+may induce some errors, the most prominent effects on
+the determination of x by ISRM mainly occur while
+xaB/xB/xb or x is near xmax. These defects can be
+avoided by controlling the electrolysis current density
+(ecd) in the electrochemical hydrogen charging, e.g. the
+resistance can be treated as case p for the mixed a /b
+phase region while the ecd is high and the error will be
+very little in the phase region when small ecd steps are
+applied.
+
+It seems that the expansion effect discussed in Section
+3.1 is omitted in this section. Actually, it is shown that
+the contributions of the correction factor cancel each
+other out.
+
+Fig. 8. Resistance ratio, average hydrogen concentration and relative
+error of the resistance method in the hydrogen concentration region
+near x /1 during hydrogen diffusion. The parameters: xPdH /0.9325,
+A1 /7.665 and A2 /16.752; x0 /0.9 and x1 /1.
+
+3.5. Effect of electrolyte on the PdHx resistance in the in
+situ measurement:
+In the ISRM of the PdHx electrode, the surrounding
+electrolyte, the applied ec and the electrode configuration
+itself all influence the resistance measurements.
+First, the solution acts as a resistance in parallel with the
+electrode and the apparent PdHx resistance is reduced
+when co-conduction is in progress. Second, the potential
+drop across the electrode induced by the measuring dc
+makes it behaves as a concentration-cell, which contributes
+an additional potential shift to the signal
+measured. Thirdly, the ec contributes another potential
+drop to the electrode by the current collection into the
+electrode and the concentration-cell effect. Finally, the
+lead electrode exposed to the electrolyte or other defects
+in the electrode configuration and design can influence
+the ISRM due to the concentration-cell effect. Although
+some of these factors have been studied experimentally
+[50 /52], a detailed and complete consideration has been
+lacking up to now. In this and the subsections below, we
+will study these problems theoretically in turn. First of
+all, let us discuss the effect of the electrolyte solution on
+the ISRM.
+
+3.5.1. Co-conduction of electrolyte:
+The co-conduction of the electrolyte can be seen as
+the resistance that is in parallel with the electrode. There
+are three configurations for an electrode with length l
+and radius r0 as shown in Fig. 9 (a); the first is a straight
+rod, which we call shape I as it is in the shape of this
+letter and this was used in most previous experiments
+[52 /57]. The second is a spiral electrode as used in the
+present work, which we call shape W. The third is an
+electrode bent in the shape of a letter U; the noninduction
+loop used in Refs. [49 /51] is of this type.
+Other situations can be considered as a combination of
+these. For the shape I, the solution resistance can be
+seen as the series resistance of two hemispheres with
+radius r0; for the shape W, the resistance is equivalent to
+the series resistance of coaxial circles with diameter dW
+that is much greater than r0; for the shape U, the
+electrolyte resistance is equal to the resistance between
+two long parallel wires with length l /2, radius r0 and
+distance dU /r0. Their resistances are easily obtained
+from a textbook of electromagnetics: Eq. (41)
+where rS is the resistivity of solution. The additional
+resistance contribution to that of a PdHx electrode by
+the co-conduction of the solution, RA,S can be expressed
+as: Eq. (42)
+
+Fig. 9. Schematic diagram of a PdHx wire electrode used in the
+resistance measurement. (a) Electrodes of shapes I, W and U,
+respectively; (b) the magnification representation of the electrode used
+in the measurement and electrolysis process. r0 and l are radius and
+length of the electrode, respectively; IM and IE are the measurement
+and electrolysis currents in the z direction, respectively; electrolysis
+current density jE is distributed uniformly on the electrode and is
+collected at z /l .
+
+For example, l /r0 /102, dW/r0 /dU/r0 /10, rPdH
+x
+ /
+10 5 V cm and rS /10 V cm and the amplitudes of
+RA,S/RPdH
+x
+are 10 4, 4.3 /10 4 and 2.2 /10 3 for
+shapes I, W and U, respectively. From Eq. (42), we find
+that a long and/or thin electrode, good conduction of
+the solution will give a significant co-conduction effect
+as expected.
+
+3.5.2. Concentration-cell effect in the resistance
+measurement:
+Knorr and Schwartz [47,48] and Carson et al. [49 /51]
+have found that the apparent PdHx resistance drifts
+upward to a larger value when a measuring dc passes
+through a sample immersed in electrolyte. This phenomenon
+can be interpreted by the concentration-cell effect
+[49 /51]. When a potential difference is applied between
+the two ends of the electrode, the loss of hydrogen from
+the positive electrode will result in an electrode potential
+above 0 V and simultaneously the electrode potential of
+the negative electrode will correspondingly decrease
+below 0 V. Proton transfer ceases, apart from the leak
+current, when the potential developed between the two
+ends equals the applied potential. The final concentration
+of hydrogen in the electrode may be calculated from
+the available relationship between hydrogen content and
+electrode potential. At the same time, this polarization
+will contribute an additional potential fall, which makes
+the apparent resistance greater than the actual value. We
+will discuss this effect quantitatively below.
+
+Consider a measurement current IM passing through
+an electrode as shown in Fig. 9(b); the electromotive
+force (emf) of the concentration-cell is the potential drop
+IMRPdH
+x
+, which is built up over a period time [50] and
+can be expressed as:
+Eq. (43) as shown in Fig. 10(a), where the fraction 1/2 in the
+parentheses ensures that the average potential is zero.
+The emf makes the hydrogen concentration in the
+electrode redistribute in the current direction. From
+the isotherm of hydrogen in the b phase PdHx electrode
+[46,89,90], we have:
+Eq. (44) where mH,0 is the chemical potential of hydrogen in the
+reference state, Ub /49 kJ mol 1, is the H /H interaction
+energy [46] and the other symbols have their usual
+meanings. We can obtain the concentration departure
+from the average value at a point by the differential of
+Eq. (44) with respect to potential:
+Eq. (45) with
+Eq. (46) and f /F/RT. The numerical example is shown in Fig.
+10(b). Introducing Eq. (45) into Eq. (24) gives the
+standard deviation:
+Eq. (47)
+
+Fig. 10. The concentration-cell effect induced by the measurement
+current. (a) The potential distribution; (b) the hydrogen concentration
+distribution; (c) the current distribution and (d) the current density
+distribution in the PdHx electrode in the current direction. jM /IM/
+2pr0l . Parameter: k /1.
+
+For example, for RPdH
+x
+ /10 1 V, IM /10 1 A, Ub/
+RT /18.1 and ¯ x/ /0.7, we obtain s2 /1.4 /10 3 which
+is much less than the average value, so the concentration
+redistribution does not induce any noticeable error as
+was concluded from the discussion in Section 3.4.
+
+The overall emf is comprised of the ohmic potential
+drop of the external circuit (i.e. the PdHx electrode
+itself) DEPdH
+x
+,C, the ohmic polarization of the inner
+resistance (i.e. the electrolyte solution) DES,C and the
+electrochemical overpotential hC. The potential drop
+across the small distance dz at point z in the PdHx
+electrode is:
+Eq. (48)
+
+The electrolyte resistance in the small distance dz can
+be seen as the resistance of a part of the cylindrical
+electrode with radius r0 and surface area 2pr0dz in the
+solution for the shapes I and W or the resistance of two
+parallel electrodes with distance dU and length dz for the
+shape U. These two situations can be treated individually
+as:
+Eq. (49) with
+Eq. (50) RS,C is equivalent to the resistance between two parallel
+wires with length 4l , radius r0 and distance l for shapes I
+and W, or distance dU for shape U. By comparison with
+Eq. (41), we find that RS,C is much less than RS. Using
+the parameters in Section 3.5.1 and l /10 cm, we obtain
+RS,C /0.73 V for shapes I and W, and 0.37 V for shape
+U.
+
+From the relationship between the overall ecd jE and
+overpotential h on the Pd/H electrode [89,90], we
+obtain:
+Eq. (51)
+where j0V and j0T are the exchange current densities of
+the Volmer and Tafel reactions, b is the stoichiometric
+number of the electrochemical reaction and it is
+connected with the Tafel slop b by the relation b /
+2.303/bf . The symbol of the absolute value in this
+equation ensures that the anodic and cathodic processes
+are expressed by a unified form. Eq. (51) is more
+empirical than fundamental because the actual overpotential-
+ecd relation is complex [89,90]. In general, b is
+between 0 and 2 and its value depends on the mechanism
+of the electrode reaction. For the hydrogen evolution
+reaction (her), b /2 when the reaction follows the fast
+Volmer /slow Tafel mechanism, b /1/3 when the reaction
+follows the coupled Volmer /Tafel mechanism and
+b /0 when the ecd approaches the limiting value. For
+the anodic oxide reaction, 0B/bB/2 [89]. In this paper,
+the sign of jE is determined by the direction of the ec
+relative to the measuring dc in the electrode as shown in
+Fig. 9(b). If they are in the same direction (i.e. IE/IM /
+0), jE /0; otherwise, jEB/0 while IE/IMB/0. This choice
+of sign differs from the conventional treatment where
+the positive and negative ecds are for the anodic and
+cathodic processes, respectively.
+
+The overpotential of the concentration-cell can be
+obtained by the differential of the ecd with respect to h:
+Eq. (52) with the current density of the concentration-cel
+Eq. (53) and
+Eq. (54)
+
+The potential at point z is the sum of the above three
+terms:
+Eq. (55)
+
+This equation can be simplified to an ordinary
+differential equation of second order:
+Eq. (56) with
+Eq. (57),
+Eq. (58) and
+Eq. (59)
+
+The effective internal resistance RC is composed of
+two terms: one is the resistance of solution, RS,C, as
+shown in Eq. (50) and the other is the polarization
+resistance, Rh,C. The polarization resistance depends on
+the exchange current density of the Volmer reaction and
+the ecd as shown in Eq. (54). When jE is great enough
+the polarization resistance will be very small. Applying
+the boundary condition:
+Eq. (60). We obtain the solution of Eq. (56):
+Eq. (61) and the current density of the concentration-cell from
+Eq. (53):
+Eq. (62) with
+Eq. (63) 
+
+Of course, the definition jM has only a formal meaning.
+The potential drop contributed to the PdHx
+electrode is:
+Eq. (64) with the definition of h(k) and its series expansion to the
+fourth order
+Eq. (65) 
+
+It is 0.0926 for the parameter in Fig. 10. The
+additional resistance contributed to the original value
+induced by the measuring dc is:
+Eq. (66)
+
+Referring to Eqs. (50), (54), (58), (59), (65) and (66),
+we find there are many factors that can influence RPdH
+RC and hence RA,M. The first factor as usually expected
+is the conduction of the electrolyte; a high conduction of
+electrolyte results in small RS,C and RC (see Eqs. (50)
+and (58)), and a large RA,M as is observed experimentally
+[50]. Contrary to one’s expectation, the size,
+configuration and surface properties of the electrode
+also affect RS,C, RC and RA,M, e.g. a long wire induces a
+large value of RA,M and this is one of the reasons for the
+high value of RA,M observed by Carson et al. [50]
+although they had not predicted it. An electrode with a
+rough surface results in a large value of j0V, hence large
+values of j0C, small values of RC and high values of RA,M
+(see Eqs. (54), (58) and (65)). At the same time, some
+additives such as H2S and thiourea can inhibit the
+reaction rate of the Pd/H electrode, so it is easy to
+understand that they can diminish RA,M as is observed
+experimentally [50]. Another factor is the ecd; a large
+ecd results in high values of j0C and RA,M similar to the
+effect of j0V. Because the ecd will induce an additional
+resistance as will be discussed in the subsection below,
+the effect of the ecd on the ISRM is more complex than
+expected.
+
+On the other hand, if the electrode radius is very small
+or the length is very large, l /r0 will be very great and the
+co-conduction of the solution will be substantial as is
+shown in Eq. (42). In this case, the effects of the
+electrolyte solution will be complicated. First, the coconduction
+reduces the measurement resistance and
+hence the potential drop across the electrode. Second,
+the concentration-cell effect will be noticeable and the
+apparent resistance should be greater than the actual
+value. Therefore, this situation should be avoided in
+experiments.
+
+The above discussion is suitable only if the measuring
+current is not high enough; otherwise, the hydrogen gas
+produced at the negative end cannot convert to atomic
+hydrogen at the positive end and the system is not
+reversible as was observed experimentally [50].
+
+3.6. Effect of electrolysis current on resistance
+measurement:
+
+It is well known that the electrolysis process will
+disturb the electrode resistance measurement when the
+dc method is used [52]. To cancel this interference, a
+delta-mode current has been used to eliminate the
+deviation [52,54]. In this subsection we will discuss two
+aspects of the potential drop and additional resistance
+caused by the ec: one is that every electrode also acts as a
+current collector and hence bears a potential fall in the
+electrolysis process; the other is the concentration-cell
+effect induced by this potential shift.
+
+3.6.1. Potential drop caused by the electrolysis current:
+In the ISRM of the electrode in the electrolysis
+process, the ec that is collected in the electrode will
+contribute a potential drop to the measuring signal
+because the electrode has a resistance (see Fig. 9(b)). As
+a first approximation [91], we suppose that the ec (IE) is
+uniformly distributed on the electrode. From a small
+distance dz at a point z as shown in Fig. 9(b), we obtain
+the relationship between the increment of current in the
+electrode and jE:
+Eq. (67) where the ecd jE is related to IE by:
+Eq. (68)
+
+The potential drop across the small distance dz is:
+Eq. (69)
+
+Combining these three equations and integrating
+dEPdH
+x
+,E with respect to z, we obtain the potential at
+a point z caused by the electrolysis current collection:
+Eq. (70) as shown in Fig. 11(a), where the fraction 1/3 in the
+parentheses ensures that the average potential is zero.
+The corresponding potential drop across the electrode
+is:
+Eq. (71). This means that the electrode behaves as that with a half
+value of the original resistance.
+
+Fig. 11. The concentration-cell effect induced by the electrolysis
+current. (a) The potential distribution; (b) the hydrogen concentration
+distribution; (c) the current distribution and (d) the current density
+distribution in the PdHx electrode in the current direction. Parameter:
+k /1.
+
+Of course, the above conclusion is appropriate only
+when the ecd is uniformly distributed in the length
+direction (but radial symmetry need not be applied, in a
+general situation, 2pr0 in Eq. (68) should be replaced by
+the rod perimeter); this assumption is difficult to
+preserve when H2 bubbles are produced and the ecd
+increases in the her [92,93]. However, DEPdH
+x
+,E must not
+be greater than IRPdH
+x
+which means that the ec is so
+non-uniform that it is concentrated only at one end.
+
+3.6.2. Concentration-cell effect caused by the electrolysis
+current:
+Because the ec contributes a potential drop between
+the ends of electrode, it also has a concentration-cell
+effect as discussed in Section 3.5.2. First, we give the
+hydrogen concentration departure from the uniform
+distribution by replacing EC in Eq. (45) with EPdH
+x
+,E in
+Eq. (70): Eq. (72) with g(x) defined in Eq. (46), the hydrogen distribution
+is shown in Fig. 11(b). Introducing Eq. (72) into Eq. (24)
+gives the standard deviation:
+Eq. (73). For example for IE /10 1 A and other parameters
+being the same as in the discussion of Eq. (47), we have
+s2 /7.5 /10 4 which is much less than x¯:
+
+Similarly to Eq. (56), we obtain an ordinary differential
+equation of second order:
+Eq. (74). The solution is:
+Eq. (75) and
+Eq. (76)
+
+The potential shift contributed to the external circuit
+is:
+Eq. (77)
+
+The corresponding additional resistance contributed
+to the measurement value is the sum of these resistances
+caused by the electrolysis current collection and its
+concentration-cell effect as shown in Eqs. (71) and (77):
+Eq. (78)
+
+From this equation, it is found that the contribution
+of the electrolysis process to the ISRM depends on the
+direction and magnitude of the ec in addition to the
+factors discussed in Section 3.5.2. If the ec is in the
+direction of the measuring dc in the PdHx electrode, i.e.
+IE/IM /0, it will contribute another positive shift besides
+RA,M to the measured resistance. Otherwise, it will
+diminish the magnitude of the measured value when
+IE/IMB/0. In experiments, its influence can be avoided
+through an appropriate choice of the measuring current.
+If the measuring current is much greater than the ec,
+RA,E will be 
+/RA,M and RA,E can be omitted. On the
+other hand, we can use the delta-mode current; i.e. at
+time t1 for the positive current and at t2 for the negative
+current, the compensated value (Vt 1 /Vt 2)/2 ensures
+that the true value is readily displayed. The current
+direction changes periodically and this delta mode can
+be programmed using the front panel controls. Of
+course, the magnitude of IM must not be much less
+than IE in this case; otherwise, the error will be very
+marked because (Vt 1 /Vt 2)/2 is a subtraction of two
+large numbers, Vt 1 and Vt 2.
+
+It must be pointed out that DEPdH
+x
+,E appears
+instantly when the ec is applied, whereas DEPdH
+x
+,C is
+delayed by a time interval which depends on the
+electrode diameter and surface properties [49 /51].
+
+The above deduction is for the perfect electrode. In
+the practical case there are two factors causing the
+results to depart from the ideal value. One is that the
+electrode resistance RPdH
+x
+is of the same order as the
+solution resistance RS; the ecd on electrode is nonuniform
+and it changes with position as discussed in
+Ref. [91]. The other is that H2 gas bubbles produced on
+the erect PdHx electrode in the her make the ecd in the
+bottom region greater than that in the top region, hence
+the non-uniformity of the ecd increases. These two
+situations make the magnitude of RA,E differ from, but
+not go beyond twice the value of RA,E in Eq. (78).
+Because the extremely inhomogeneous cases are that the
+overall ec passes from one end to the other, as does the
+measuring current, or only passes through one end, so
+we have:
+Eq. (79)
+
+When the ecd is very high, the volume and number of
+H2 bubbles adhering to the PdHx surface will be so
+numerous that bubbles are positioned closer and finally
+interfere with each other and impede the solution
+contact with the electrode. The system becomes electrically
+unstable since no definite potential can be linked
+to the ecd [92,93], and the stable emf of the concentration-
+cell cannot be established in this case, hence
+DEPdH
+x
+,E changes at random. In experiments, stirring
+the solution around the electrode will enhance the mass
+transfer in the electrolyte and minimize the effect of
+bubbles. However, the usual method for enhancing the
+mass transfer, such as the rotating disc electrode, cannot
+be used because its technique requirements contradict
+those of the ISRM.
+
+3.7. Concentration-cell effect caused by the imperfect
+configuration of the electrode:
+In addition to the potential drops caused by the
+applied currents as discussed in Sections 3.5 and 3.6,
+another similar concentration-effect arises from the
+imperfect configuration of the electrode. There may be
+two cases: (1) a PdHx electrode acts as the anode and its
+one or more leads exposed to the electrolyte as the
+cathode form a concentration-cell; (2) one end of the
+electrode exposed to the gas may behave as drainage for
+preserving the fugacity of hydrogen in the electrode; the
+hydrogen concentration in the electrode near the
+electrolyte surface is then less than the average value
+and the electrode itself forms a concentration-cell. All
+these concentration differences may induce an emf:
+Eq. (80) where Dx is the hydrogen concentration difference
+between the PdHx electrode and its equilibrium value
+for case (1), or the concentration difference exists in the
+PdHx electrode itself in case (2). Similarly to Eqs. (64)
+and (77), we obtain the additional potential drop:
+Eq. (81) where SC is a shape factor of the order of 1 and its value
+depends on the geometrical characteristics of the electrode
+and its leads. The induced additional resistance is:
+Eq. (82). The sign of RA,I depends on which lead(or leads) and its
+(or their) area exposed to the electrolyte. Using the
+parameters: Dx /0.3, ¯ x/ /0.7, IM /0.1 A, RPdH
+x
+/RC /
+1, it is about 9/0.163 SCRPdH
+x
+, so it is important to
+avoid these defects in experiments.
+
+Combining Eqs. (42), (66), (78) and (82), we obtain
+the apparent resistance in the ISRM during the electrolysis
+process:
+Eq. (83). From this equation, we find that four measurement
+errors with different origins can be incorporated into a
+more uniform expression. On the whole, two ratios, i.e.
+IE/IM and RPdH
+x
+/RS have the most important influence
+on the resistance measurement as was discussed above.
+
+On the other hand, we can obtain the condition below
+from Eq. (83) for a perfect electrode (RA,I /0):
+Eq. (84) as a first approximation. The contributions of RA,S,
+RA,M and RA,E cancel each other out, and the measured
+resistance is exactly the actual value. This means one can
+modify the measuring current during the electrolysis
+process to minimize the error. Because RC depends on IE
+according to Eq. (54), so Eq. (84) is not a strict linear
+function as expected, but it provides a suggestion for
+diminishing the measurement error in the ISRM.
+
+The concentration-cell effect appears only in the
+single phase PdHx electrode. In the mixed a /b phase,
+the chemical potential of hydrogen does not change in
+PdHx under the external potential drop [50,51]. The
+apparent resistance is:
+Eq. (85). Even in this case, the electrolysis current collection and
+electrolyte co-conduction still make contributions to the
+ISRM, so a low value of IE/IM is a necessary condition
+in the dc method.
+
+The results of Sections 3.5, 3.6 and 3.7 are mainly
+theoretical and their qualitative aspects are consistent
+with available experimental results [47 /52,54]. Their
+quantitative verification needs to be carried out in future
+experimental work.
+
+
+4. Conclusions
+
+In this paper, some problems on the resistance
+method in determining the hydrogen content in PdHx
+electrodes are discussed. First, the resistivity ratio, the
+temperature coefficient of resistance and resistivity, and
+the resistance of palladium subjected to hydriding /
+dehydriding cycles are discussed. It is found that the
+resistivity ratio is somewhat higher than the resistance
+ratio for the same x value and its magnitude depends on
+the self-stress state caused by hydrogen insertion. The
+temperature coefficient increases with x when x /0.7
+which was omitted in previous work. The Pd resistance
+decreases with the number of hydriding /dehydriding
+cycles. Second, the effect of the inhomogeneous distribution
+of x in the electrode on determining the
+hydrogen content is discussed theoretically. It is proved
+that the errors are particularly significant when the Pd /
+H system is in the mixed a /b phase or when the
+resistance is near the maximum value. Finally, we
+discuss the additional potential shift and hence the
+apparent resistance of the PdHx electrode caused by
+the co-conduction of the electrolyte, the concentrationcell
+effect and collection of the electrolysis current and
+imperfections of the electrode configuration in the
+ISRM. The quantitative expression of these effects is
+given and some of the theoretical predications are
+consistent with available experimental results. Some
+advice is given for measuring the resistance in experiments.
+
+
+References
+
+[1] F.A. Lewis, The Palladium Hydrogen System, Academic Press,
+London, 1967, p. 50.
+[2] F.A. Lewis, Plat. Met. Rev. 26 (1982) 20.
+[3] F.A. Lewis, Plat. Met. Rev. 26 (1982) 70.
+[4] B. Baranowski, in: G. Alefeld, J. Vo¨ lkl (Eds.), Hydrogen in
+Metals II, Application-Oriented Properties, Topics in Applied
+Physics, vol. 29, Springer, Berlin, 1978, p. 157.
+[5] F. Fischer, Ann. Phys. 20 (1906) 503.
+[6] H. Bru¨ ning, A. Sieverts, Z. Phys. Chem. A 163 (1933) 409.
+[7] H. Hagen, A. Sieverts, Z. Phys. Chem. A 165 (1933) 1.
+[8] A. Sieverts, W. Danz, Z. Phys. Chem. B 38 (1938) 61.
+[9] T.B. Flanagan, F.A. Lewis, Trans. Faraday Soc. 55 (1959) 1400.
+[10] T.B. Flanagan, F.A. Lewis, Z. Phys. Chem. (N.F.) 27 (1961) 104.
+[11] T.B. Flanagan, J. Phys. Chem. 65 (1961) 280.
+[12] J.C. Barton, F.A. Lewis, Z. Phys. Chem. (N.F.) 33 (1962) 99.
+[13] J.C. Barton, F.A. Lewis, Trans. Faraday Soc. 58 (1962) 103.
+[14] J.C. Barton, F.A. Lewis, I. Woodward, Trans. Faraday Soc. 59
+(1963) 1201.
+[15] J.C. Barton, W.F.N. Leitch, F.A. Lewis, Trans. Faraday Soc. 59
+(1963) 1208.
+[16] F.A. Lewis, W.D. McFall, T.C. Witherspoon, Z. Phys. Chem.
+(N.F.) 114 (1979) 239.
+[17] R.-A. McNicholl, F.A. Lewis, Z. Phys. Chem. (N.F.) 181 (1993)
+239.
+[18] F.A. Lewis, K. Kandasamy, R.-A. McNicholl, X.Q. Tong, Int. J.
+Hydrogen Energy 20 (1995) 369.
+[19] P. Wright, Proc. Phys. Soc. A 63 (1950) 727.
+[20] P.L. Levine, K.E. Weale, Trans. Faraday Soc. 56 (1960) 357.
+[21] W.T. Lindsay, F.W. Pement, J. Chem. Phys. 36 (1962) 1229.
+[22] K. Baba, U. Miyagawa, K. Watanabe, Y. Sakamoto, T.B.
+Flanagan, J. Mater. Sci. 25 (1990) 3910.
+[23] Y. Sakamoto, F.L. Chen, M. Kinoshita, M. Minamikawa, J.
+Alloy. Compd. 192 (1993) 141.
+[24] Y. Sakamoto, K. Takai, I. Takashima, M. Imada, J. Phys.:
+Condens. Mater 8 (1996) 3399.
+[25] A.K.M.F. Kibria, Y. Sakamoto, Int. J. Hydrogen Energy 23
+(1998) 475.
+[26] A.K.M.F. Kibria, T. Tanaka, Y. Sakamoto, Int. J. Hydrogen
+Energy 23 (1998) 891.
+[27] B. Baranowski, R. Wis´niewski, J. Phys. Chem. Solids 29 (1968)
+1275.
+[28] B. Baranowski, R. Wis´niewski, Phys. Status Solidi 35 (1969) 593.
+[29] A.W. Szafranski, B. Baranowski, Phys. Status Solidi A 9 (1972)
+435.
+[30] B. Baranowski, F.A. Lewis, W.D. McFall, S.M. Filipek, T.C.
+Witherspoon, Proc. Roy. Soc. London A 386 (1983) 309.
+[31] B. Baranowski, S.M. Filipek, J. Less-Comm. Met. 158 (1990) 347.
+[32] G. Bamkakidis, R.J. Smith, D.A. Otterson, Phys. Rev. 177 (1969)
+1044.
+[33] R.J. Smith, D.A. Otterson, J. Phys. Chem. Solids 31 (1970) 187.
+[34] J.P. Burger, D.S. MacLachlan, R. Mailfert, B. Souffache´, Solid
+State Commun. 17 (1975) 277.
+[35] D.S. MacLachlan, R. Mailfert, J.P. Burger, Solid State Commun.
+17 (1975) 281.
+[36] J.P. Burger, S. Senoussi, B. Soufache´, J. Less-Comm. Met. 49
+(1976) 213.
+[37] J.P. Burger, J. Less-Comm. Met. 130 (1987) 1.
+[38] M. Nicolas, H. Raffy, L. Dumoulin, J.P. Burger, J. Less-Comm.
+Met. 130 (1987) 61.
+[39] D.S. MacLachlan, J.P. Burger, Solid State Commun. 65 (1988)
+159.
+[40] J.P. Burger, Z. Phys. Chem. (N.F.) 179 (1993) 365.
+[41] N.S. Ho, F.D. Manchester, Can. J. Phys. 46 (1968) 1341.
+[42] C.T. Haywood, L. Verdini, Can. J. Phys. 46 (1968) 2065.
+[43] R. Fletcher, N.S. Ho, F.D. Manchester, J. Phys. C: Solid State
+Phys. 3 (1970) S59.
+[44] G.A. Frazier, R. Glosser, J. Less-Comm. Met. 74 (1980) 89.
+[45] M.-W. Lee, R. Glosser, Z. Phys. Chem. (N.F.) 147 (1986) 27.
+[46] E. Wicke, G.H. Nernst, Ber. Bunsenges. Phys. Chem. 68 (1964)
+224.
+[47] C.A. Knorr, E. Schwartz, Z. Elektrochem. 39 (1933) 281.
+[48] C.A. Knorr, E. Schwartz, Z. Elektrochem. 40 (1934) 36.
+[49] A.W. Carson, T.B. Flanagan, F.A. Lewis, Naturwiss 46 (1959)
+374.
+[50] A.W. Carson, T.B. Flanagan, F.A. Lewis, Trans. Faraday Soc. 56
+(1960) 1311.
+[51] A.W. Carson, T.B. Flanagan, F.A. Lewis, Trans. Faraday Soc. 56
+(1960) 1324.
+[52] D.J. Gillespie, G.N. Kamm, A.C. Ehrlich, P.L. Mart, Fusion
+Technol. 16 (1989) 526.
+[53] M.C.H. McKubre, S. Crouch-Baker, R.C. Rocha-Filho, S.I.
+Smedley, F.L. Tanzella, T. Passell, J. Santucci, J. Electroanal.
+Chem. 368 (1994) 55.
+[54] T.A. Green, T.I. Quickenden, J. Electroanal. Chem. 368 (1994)
+121.
+[55] A. Wark, S. Crouch-Baker, M.C.H. McKubre, F.L. Tanzella, J.
+Electroanal. Chem. 418 (1996) 199.
+[56] A. De Ninno, A. La Barbera, V. Violante, J. Alloy. Compd. 253 /
+254 (1997) 181.
+[57] T. Senjuh, H. Kamimura, T. Uehara, M. Sumi, S. Miyasita, T.
+Sigemitsu, N. Asami, J. Alloy. Compd. 253 /254 (1997) 617.
+[58] L.E.A. Berlouis, P.J. Hall, A.J. MacKinnon, A.W. Wark, D.
+Manuelli, V. Gervais, J.E. Robertson, J. Alloy. Compd. 253 /254
+(1997) 207.
+[59] A. Czerwin´ ski, I. Kiersztyn, M. Grden´ , J. Czapla, J. Electroanal.
+Chem. 471 (1999) 190.
+[60] A.M. Riley, J.D. Seader, D.W. Pershing, C. Walling, J. Electrochem.
+Soc. 139 (1992) 1342.
+[61] R. Felici, L. Bertalot, A. De Ninno, A. La Barbera, V. Violante,
+Rev. Sci. Instrum. 66 (1995) 3344.
+[62] A.E. Munter, B.J. Heuser, Phys. Rev. B 58 (1998) 678.
+[63] M.R. Hawkesworth, J. Electroanal. Chem. 119 (1981) 49.
+[64] B. Baranowski, S. Majchrzak, T.B. Flanagan, J. Phys. F: Met.
+Phys. 1 (1971) 258.
+[65] J.E. Schirber, B. Morosin, Phys. Rev. B 12 (1975) 117.
+[66] H.C. Jamieson, G.C. Weatherly, F.D. Manchester, J. Less-
+Comm. Met. 50 (1976) 85.
+[67] T.B. Flanagan, B.S. Bowerman, G.E. Biehl, Scr. Metall. 14 (1980)
+443.
+[68] T. Graham, Proc. Roy. Soc. London 17 (1869) 212.
+[69] F.M. Mazzolai, P.G. Bordoni, F.A. Lewis, J. Phys. F 11 (1981)
+337.
+[70] D.P. Smith, Hydrogen in Metals, University of Chicago Press,
+Chicago, IL, 1948, p. 247.
+[71] B. Stritzker, W. Buckel, Z. Phys. 257 (1972) 1.
+[72] B. Stritzker, H. Wu¨ hl, in ref. 4, p. 243
+[73] T. Skos´kiewicz, Phys. Status Solidi A 11 (1972) K123.
+[74] T. Skos´kiewicz, A.W. Szafran´ ski, W. Bujnowski, B. Baranowski,
+J. Phys. C: Solid State Phys. 7 (1974) 2670.
+[75] P. Mitacek, J.G. Aston, J. Am. Chem. Soc. 85 (1963) 137.
+[76] G.M. Nace, J.G. Aston, J. Am. Chem. Soc. 79 (1957) 3619.
+[77] G.M. Nace, J.G. Aston, J. Am. Chem. Soc. 79 (1957) 3623.
+[78] G.M. Nace, J.G. Aston, J. Am. Chem. Soc. 79 (1957) 3627.
+[79] E. Storms, C. Talcott-Storms, Fusion Technol. 20 (1991)
+246.
+[80] W. Krause, L. Kahlenberg, Trans. Electrochem. Soc. 68 (1935)
+449.
+[81] F.M. Mazzolai, P.G. Bordoni, F.A. Lewis, J. Phys. F 10 (1980)
+781.
+[82] F.M. Mazzolai, P.G. Bordoni, F.A. Lewis, J. Less-Comm. Met.
+74 (1980) 137.
+[83] T.B. Flanagan, J.F. Lynch, J.D. Clewley, B. Von Turkovich, J.
+Less-Comm. Met. 49 (1976) 13.
+[84] J.F. Lynch, J.D. Clewley, T. Curran, T.B. Flanagan, J. Less-
+Comm. Met. 55 (1977) 153.
+[85] J. Crank, The Mathematics of Diffusion (Ch. 4 and 5), Clarendon
+Press, Oxford, 1975.
+[86] S. Majorowski, B. Baranowski, J. Phys. Chem. Solids 43 (1982)
+1119.
+[87] S. Majorowski, B. Baranowski, in: P. Jean, C.H. Satterthwaite
+(Eds.), Electronic Structure and Properties of Hydrogen in
+Metals, Plenum Press, New York, 1983, p. 519.
+[88] W.S. Zhang, Z.L. Zhang, X.W. Zhang, F. Wu, J. Electroanal.
+Chem. 474 (1999) 123.
+[89] M. Enyo, in: B.E. Conway, J.O.’M. Bockris, E. Yeager, S.U.M.
+Khan, R.E. White (Eds.), Kinetics and Mechanisms of Electrode
+Processes, vol. 7, Plenum Press, New York, 1983, p. 241.
+[90] W.S. Zhang, X.W. Zhang, H.Q. Li, J. Electroanal. Chem. 434
+(1997) 31.
+[91] N. Ibl, in: E. Yeager, J.O.’M. Bockris, B.E. Conway, S.
+Sarangapani (Eds.), Comprehensive Treatise of Electrochemistry,
+vol. 6, Plenum Press, New York, 1983, p. 239.
+[92] H. Vogt, in: E. Yeager, J.O.’M. Bockris, B.E. Conway, S.
+Sarangapani (Eds.), Comprehensive Treatise of Electrochemistry,
+vol. 6, Plenum Press, New York, 1983, p. 445.
+[93] P.J. Sides, in: R.E. White, J.O.’M. Bockris, B.E. Conway (Eds.),
+Modern Aspects of Electrochemistry, vol. 18, Plenum Press, New
+York, 1986, p. 303.
+
+

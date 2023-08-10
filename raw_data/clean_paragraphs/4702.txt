@@ -1,0 +1,207 @@
+1. Introduction
+
+In an earlier work [1], we discussed some problems on
+the resistance measurement of palladium hydride to
+determine the hydrogen content in it in situ. However,
+we found recently that there are some mistakes in discussions
+on the electrochemical effects in [1]. The expressions
+of additional resistance caused by the
+concentration-cell effect will induce non-physical pictures,
+and some important factors were omitted. In this
+paper, we will treat the electrochemical effects in a unified
+manner. Similarly to the earlier paper, we focus only
+on the direct current situation; the model and symbols
+are the same as before [1] except as noted otherwise.
+
+
+2. Model
+
+The model for measurement of the resistance of a
+PdjH electrode during electrolysis is the same as that in
+Sections 3.5–3.7 and shown in Fig. 9 of [1]. Because
+most of the mistakes appeared in discussions on the
+concentration-cell effect of measurement and electrolysis
+currents, we will discuss these in turn.
+
+2.1. Co-conduction of electrolyte:
+The co-conduction is the same as in Section 3.5.1 of
+[1]. In addition, the current in the electrode for a measurement
+current IM is equation
+where RPdþH and RS are the resistances of the PdjH
+electrode and electrolytic solution, respectively; values
+of RS for different shapes of electrode were shown in Eq.
+(41) of [1]. The corresponding potential drop across the
+electrode is
+DEM ¼ IM;PdþHRPdþH
+
+2.2. Concentration-cell effect of measurement current:
+This subsection corresponds to Section 3.5.2 in [1].
+The potential balance equation for the concentrationcell
+effect of the measurement current is equaion
+where IM;C is the concentration-cell current in the electrode,
+the other symbols are the same as before [1]. The
+left-hand side of this equation is the electromotive force
+of the concentration-cell relative to the point z ¼ l. The
+first term in the right-hand side of this equation is the
+ohmic polarization of the electrolytic solution and the
+electrochemical overpotential (see Eqs. (49)–(54) in [1]);
+the second term is the ohmic potential drop of the PdjH
+electrode. This equation differs from Eq. (55) of [1] in
+both sides; on one side, IM is replaced by IM;PdþH; on the
+other, the range of integration of the ohmic polarization
+of the PdjH electrode, i.e. 0 to z, is replaced by z to l.
+
+Eq. (3) can be simplified to equation. The meaning of k is the same as that defined in Eqs.
+(57)–(59) of [1]. Applying the boundary condition IM;C ¼ 0 at z ¼ 0
+and l, we obtain the solution of Eq. (4). The potential drop across the PdjH electrode contributed
+by the concentration-cell effect of the measurement
+current is Eq. (5). By comparison with Eqs. (64) and (65) in [1], we find
+they are different. The divergence of DEM;C at
+k ¼ p; 2p; 3p; . . . in Eq. (64) of [1] is avoided, the function
+1   2 tanhðk=2Þ=k increases with k and approaches
+1 when k is large enough as expected; however, its primary
+approximation, k2=12, is the same as before and
+the physical pictures of Fig. 10 in [1] are qualitatively
+correct.
+
+2.3. Collection effect of electrolysis current:
+This subsection corresponds to Section 3.6.1 in [1].
+Provided that the counter electrode is far away from the
+PdjH electrode and the electrolysis current is collected at
+the point z ¼ l as shown in Fig. 9(b) of [1], the potential
+at a point z is composed of the overpotential, and the
+ohmic potential drops of solution and electrode resistances.
+We can obtain a relationship similar to Eq. (3)
+constant = Eq. (7).
+where IE;PdþH is the current collected in the PdjH electrode
+during electrolysis with current IE In this equation,
+the polarization resistance is the same as that in Eq. (3)
+because we consider only the shift of overpotential and
+solution resistance at a point from the average values
+over the whole electrode, which are included in the lefthand
+side of Eq. (7). Eq. (7) can be simplified to Eq. (8). Applying the boundary condition: IE;PdþH ¼ 0 at z ¼ 0
+and IE;PdþH ¼ IE at z ¼ l, we obtain the solution Eq. (9).
+
+In the primary approximation, it is a linear distribution
+as was supposed before [1]. The electrolysis current
+density is Eq. (10). where jE;PdþH is a constant in the primary approximation
+as indicated in Eq. (68) of [1]. The potential drop across
+the PdjH electrode contributed by the collection of the
+electrolysis current is Eq. (11). In the zero order approximation, it is IERPdþH=2 as indicated
+in Eq. (71) of [1].
+
+2.4. Concentration-cell effect of electrolysis current:
+This subsection corresponds to Section 3.6.2 in [1].
+Similarly to Eq. (3), we have Eq. (12). Utilizing Eq. (9), we can simplify Eq. (12) to Eq. (13). Applying the boundary condition IE;C ¼ 0 at z ¼ 0 and l,
+we obtain the solution of Eq. (13).
+The potential drop across the PdjH electrode caused by
+the concentration-cell effect of the electrolysis current is Eq. (15).
+This equation differs from Eq. (77) in [1]; however, their
+primary approximations are the same and Fig. 11 in [1]
+is appropriate when k is small.
+
+
+3. Results and discussion
+
+Combining Eqs. (2), (6), (11) and (15), we obtain the
+overall potential drop across the PdjH electrode while
+the measurement current IM is applied during electrolysis
+with current IE, Eq. (16). The apparent resistance can be expressed as Eq. (17). Applying Eq. (1), we obtain the series expansion of Eq.
+(17) Eq. (18). From this equation, we find that there are three parameters,
+RPdþH=RC; RPdþH=RS and IE=IM, influencing the
+measured value of the electrode resistance. For convenience, we illustrate their effects for a straight rod electrode
+(shape I in Fig. 9(a) of [1]); the dimensionless
+parameters RPdþH=RC and RPdþH=RS are Eq. (19) and Eq. (20) respectively. On the whole, the above measurement errors
+with different origins can be expressed by four dimensionless
+quantities, IE=IMl=r0; qPdþH=qS and r0f qSj0C: Eq. (21). The corresponding numerical results are shown in
+Fig. 1.
+
+First of all, it is found that the contribution of the
+electrolysis process to resistance measurements depends
+on the direction and magnitude of the electrolysis current
+as shown in Fig. 1(a). If IE=IM > 0, it will contribute
+a positive shift to the measured resistance. Otherwise, it
+will diminish the magnitude of the measured value while
+IE=IM < 0. This is the reason for the delta-mode current
+being utilized to cancel out the electrolysis contribution
+in the experiments given in [2,3] and discussed previously
+[1]. However, the period of the delta current must
+be much less than the diffusion time of hydrogen along
+the radial direction; otherwise, concentration-cell effects
+of the measurement current also exist.
+
+Fig. 1(b) illustrates the effects of l=r0 When l=r0 is
+small, Rappa increases with l=r0 because the concentration-
+cell effect increases with increasing l=r0 as indicated
+by Eqs. (17) and (19). However, the co-conduction of
+electrolyte will dominate the resistance measurement
+while l=r0 is enough large as indicated by Eqs. (17), (19)
+and (20). For an electrolyte with large conductance, the
+co-conduction effect is prominent and its concentrationcell
+effect is relatively small.
+
+Fig. 1(c) shows dependences of Rappa on r0f qSj0C This
+indicates that the electrode diameter, temperature,
+electrolyte conductance, electrode roughness and exchange
+current density of the electrode reaction all affect
+Rappa. An electrode with a rough surface results in a
+large value of j0V hence large values of j0C. At the same
+time, some additives such as H2S and thiourea can inhibit
+the reaction rate of the PdjH electrode, so it is easy
+to understand that they can diminish Rappa as was observed
+experimentally [4–6]. Another factor is the electrolysis
+current density; a large magnitude of electrolysis
+current density results in high values of j0C and Rappa as
+the effect of j0V. When r0fSj0C is small enough, the
+concentration-cell effect can be neglected, but the coconduction
+effect is prominent especially while the solution
+conductance is large.
+
+Fig. 1 also shows that the resistivity ratio qPdþH=qS
+has the most important effect. If qPdþH=qS < 10 6, it has
+only a slight influence on Rappa with other parameters
+being fixed; otherwise, the additional resistance may not
+be neglected.
+
+For the electrodes with shapes of W and U in
+Fig. 9(a) of [1], Rappa=RPdþH depends dW=r0 and dU=r0
+respectively, besides the four dimensionless parameters
+indicated in Eq. (21). Their apparent resistances differ
+from that of shape I mainly by the co-conduction effect
+because RPdþH=RS depends more strongly on the shape
+of the electrode than RPdþH=RC with the same length and
+radius as indicated by Eqs. (41), (50), (57)–(59) in [1].
+This means the apparent resistance has the maximum
+value for shape I.
+
+Although our treatments are focused on the PdjH
+electrode, the main conclusions can be extended to other
+metal (and/or alloy) hydride electrodes with some parameters
+modified. On the other hand, the actual samples
+may be spheres, plates and other shapes but not
+cylinders, as here, the apparent resistance must be calculated
+specifically. However, the qualitative aspects are
+the same as here. Finally, the present results are mainly
+theoretical; the qualitative aspects are consistent with
+available experiments [4–6]. The quantitative verifications
+need to be carried out in future experimental work.
+
+
+References
+
+[1] W.S. Zhang, Z.F. Zhang, Z.L. Zhang, J. Electroanal. Chem. 528
+(2002) 1.
+[2] D.J. Gillespie, G.N. Kamm, A.C. Ehrlich, P.L. Mart, Fusion
+Technol. 16 (1989) 526.
+[3] T.A. Green, T.I. Quickenden, J. Electroanal. Chem. 368 (1994)
+121.
+[4] A.W. Carson, T.B. Flanagan, F.A. Lewis, Naturwissenschaften 46
+(1959) 374.
+[5] A.W. Carson, T.B. Flanagan, F.A. Lewis, Trans. Faraday Soc. 56
+(1960) 1311.
+[6] A.W. Carson, T.B. Flanagan, F.A. Lewis, Trans. Faraday Soc. 56
+(1960) 1324.
+
+
+
+

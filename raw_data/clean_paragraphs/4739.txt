@@ -1,0 +1,319 @@
+INTRODUCTION
+
+Analysis for trace components in the products of an electrode reaction taking
+place at a solid electrode/electrolyte solution interface is a challenge to the
+experimenter. Common spectroelectrochemical methods do not have the sensitivity
+or resolution necessary to quantify species present at concentrations very much
+less than that (those) of the major product(s) of any given electrode reaction. An
+exception to this statement is the mass spectroscopy/electrochemical technique
+pioneered by Bruckenstein [1,2] and elegantly employed by Heitbaum and his
+colleagues [3,4]. Even so, the literature examples of MS/ECHEM applications
+usually describe detection of major components of electrode product mixtures.
+
+In this paper we describe a MS/ECHEM interface designed to detect minor
+components of an electrode reaction. The method is applied to a palladium + silver
+alloy working cathode in dilute LiOD + D,O, a system chosen for its similarity to
+the “cold fusion” experiment of Fleischmann, Pons and Hawkins [5,6]. Of course it
+is realized that the Pd + Ag cathode used in these experiments did not correspond
+exactly to the Fleischmann-Pons experimental conditions where a pure palladium
+cathode was used; for that reason a direct comparison is impossible. The present
+experiments were designed to detect possible production of helium and tritium
+atoms in the bulk phase of an electrode undergoing the hydrogen evolution
+reaction in a heavy water medium. In a separate series of experiments reported
+elsewhere [7] calorimetric measurements of energy production during long-term
+electrolysis were carried out using an automated diathermal calorimeter. In
+neither series of experiments have we detected evidence for “cold-fusion” events.
+
+The principle of the method of analysis is simple. Deuterium can be introduced
+into the crystal lattice of a number of metals, including palladium and titanium to
+form thermodynamically stable phases. For example, for Pd at a stoichiometric
+ratio of PdD,,, the stable beta phase is formed [8]. This condition is readily
+achieved by electrolysis. If the inside and outside surfaces of a palladium membrane
+are maintained at different deuterium activities, a deuterium atom flux can
+be induced through the membrane. In this way processes can be sampled that
+occur in the bulk phase of the metal. Schematically the process may be written
+D,/D+/Pd surface I/bulk PdDJPd surface II/D,. In the experiments described
+below, the “outside electrode surface, I, was in contact with LiOD(H) solution and
+the “inside” electrode surface, II, was exposed to a low pressure mixture of
+gaseous products “ = vacuum”. At the inside surface D atoms can combine, then
+desorb, since D, activity in the low-pressure vapor phase is small. Thus a steady
+flux of D atoms is established through the metal electrode. In the experiments
+described below, the flux was analyzed using a high-resolution mass spectrometer,
+either (1) directly on-line, or (2) after long-term electrolyses and preconcentration
+by oxidation of the D,. Particular attention was paid to the low-mass region where
+possible fusion products such as helium or tritium would appear.
+
+
+EXPERIMENTAL
+
+Most of the electrolyses were performed at approximately constant current
+using a load resistor and a 12 V battery, others employed a PAR Model 173
+potentiostat/galvanostat. The on-line electrolyses were performed with a 12 V
+battery source where the working electrode was electrically connected to the
+spectrometer ground and directly attached to a GC-type spectrometer inlet.
+
+Apparatus: A schematic diagram of the apparatus and vacuum line used for long-term
+electrolyses is shown in Fig. 1. The palladium + silver alloy cathode (81 Pd + 19
+Ag atom fraction) was made from a thin walled tube (thickness = 85 pm, 1.6 mm
+o.d.1, 75 mm long and plugged at one end. The electrode was insulated with a
+Teflon cap, and connected to the stainless steel vacuum line with a Swagelok
+fitting. In order to displace occluded helium from the Pd + Ag lattice prior to the
+electrolyses, hydrogen was flushed through the Pd + Ag tube for several hours by
+pulling a vacuum on the tube while heating (= 870 K) in a hydrogen atmosphere.
+
+Fig. 1. Apparatus for collecting that gaseous effluent which passes through a Pd+Ag cathode during
+D,O electrolysis. (1) Hollow palladium/silver cathode, 1.6 mm o.d. (2) Concentric nickel anode, 3 cm
+o.d. (3) Electrolysis cell, LiOD electrolyte, 75 cm3 volume. (4) Vent to burette collecting electrolysis
+products gassing from the anode and outer cathode surfaces. (5) Pelletized CuO/clay reactor to oxidize
+isotopic hydrogen gases desorbing from the inner cathode surface. (6) Thermostatting electric furnace
+maintained at 560 K. (7) Thermocouple vacuum gauge. (8) High vacuum values. (9) To pump. (10)
+Stainless steel collection vessel. (11) Liquid nitrogen Dewar vessel.
+
+Mass spectrometric analysis of the gaseous electrolysis products for trace 4He
+requires separation of the 4He+ peak from the Dl peak. The VG ZAB-EQ used
+for these experiments is easily capable of that resolution, but in the presence of an
+extremely large excess of D,, the 4He+ line appears on the shoulder of the Dz
+signal. In order to increase the mass spectral sensitivity for 4He, the hydrogen
+(D2, HD and H,) desorbed during the long-term electrolyses was oxidized to
+water which was condensed on the walls of the sample container with liquid
+nitrogen. The oxidation (at 560 f 1 K) was carried out in a 19 mm diameter
+stainless steel reactor placed on-line with the electrolysis cell and charged with
+clay-supported CuO [9]. With CuO as oxidizer, the procedure can be conveniently
+carried out at low pressure in a sealed system. Temperature control is important. It
+must be kept high enough to insure efficient oxidation, but not so high as to allow
+appreciable thermal decomposition of the CuO. Before each l- to 3-week electrolysis
+run, the CuO reactor was regenerated in flowing oxygen at 870 K for 24 h,
+then evacuated to 1 mTorr or less at 560 K.
+
+Electrolyses were performed at approximately constant current density using a
+suitable load resistor. During the course of an electrolysis the vacuum line (i.e. the
+inner electrode volume, CuO reactor and sample storage vessel) was isolated from
+the pumps. Make-up water was added periodically to the electrolysis cell so that
+the cathode remained totally submerged in solution. After completion of each run,
+samples were collected for radiometric analysis.
+
+Mass spectrometer inlet system: Quantification of the 4He concentration in the electrolysis gas mixture required
+comparison with mixtures of known concentration. Accordingly, the all steel
+sample inlet system shown in Fig. 2 was constructed. The sample container (B, Fig.
+2; charged mainly with D,O formed from CuO oxidation of D, desorbed from the
+inner electrode surface, and containing traces of non-condensable gas) was transferred
+from the apparatus of Fig. 1 after completion of the electrolysis. The
+evacuated calibration compartment (A, Fig. 2) was charged via the septum with an
+appropriate amount of deaerated D,O and a measured Ar/He mixture that
+yielded a 4He signal near the sensitivity limit of the mass spectrometer. (Thus, lg.1
+of an STP mixture of 1 ~1 He in 0.05 1 Ar contains approximately 5 X 10” atoms of
+4He.) Appropriate manipulation of valves vz and v3 allowed gas from either
+compartment to equilibrate with the buffer vessel D. The molecular sieve (C, Fig.
+2) served to remove water from the gas. During analysis we chose to keep the
+sample vessel at room rather than liquid nitrogen temperature in order to minimize
+the fraction of trace gas held in solution or trapped in the ice lattice. Isolating
+the buffer vessel from the sample container and opening valve v6 introduced the
+gas into the mass spectrometer. Needle valve vs controlled the leak-rate from the
+buffer vessel, and was set to allow a mass spectrometer acquisition time of 1 min
+(i.e. the 4He+ signal declined to about 30% of its original value after 1 min).
+
+The mass spectrometer used for 4He detection, the VG ZAB-EQ, is a high
+resolution (ultimate resolution m/Am 125,000), high mass instrument (m/z 8000
+at 10 kV accelerating voltage). However, for the experiments described here it was
+operated with open slits (m/Am ca. 1000) and tuned to maximum sensitivity at
+very low mass (m/z l-6). Gas samples were introduced into the chemical ionization
+source via a 1.6 mm i.d. Teflon tube threaded through a modified flow-FAB
+inlet rod (E, Fig. 2). The “gas-tight” CI source (the only openings to the pumped
+source housing are the 0.1 mm x 10 mm exit slit and the 0.2 mm diameter electron
+beam entrance hole) inhibits fast diffusion of the introduced gas out of the source,
+thus enhancing sensitize. Data were acquired during 60 s after opening the inlet
+valve (vg, Fig. 2) by scanning the accelerating voltage to encompass the ions at
+m/z = 4. Dz and 4He” were well separated (resolution required, 156; resolution
+used, 1000). (When electrolysis samples were oxidized using the apparatus of Fig. 1
+the large Dl peak was shown to result predominantly from fragmentation of D,O,
+and not from introduction of gaseous D, (i.e. D,O vapor introduced into the mass
+spectrometer via a separate reference inlet system produced similar Dl signals).
+Peak intensities were time-integrated using the MCA mode of the VG-250J data
+system, a computer simulation of true multi-channel acquisition. Under these
+acquisition conditions, instrument sensitivity exceeded the observed “He background
+signal by an estimated order of magnitude.
+
+Scintillation counter: A Beckman Model No. 3801 liquid scintillation counter was used for the tritium
+activity measurements.
+
+
+RESULTS AND DlSCUSSION
+
+Initial experiments, in which the electrode was connected directly to the mass
+spectrometer (i.e. not preconcentrating with the CuO oxidation apparatus of Figs.
+1 and 2) were performed using a Pd -t- Ag tube which had not been flushed at
+= 870 K with hydrogen gas prior to the electrolysis. Upon initiation of the
+electrolysis in a LiOD -t D,O solution, peaks at m/z values of 1, 2, 3, 4, 5 and 6
+immediately appeared which could readily be assigned to various H,Dz ions fn
+and m=O-3, n+m= l-3) and which approached steady state intensity after
+30-60 min. Careful examination of the m/z = 4 peak revealed a weak 4He+ signal
+that grew in intensity when the electrolysis was on, and decreased when the
+electrolysis was off. Based on the relative intensities of the peaks and a .crude
+estimation of the sensitivity factors for detection of Dz and 4Hef, the 4He content
+of the gas was estimated to be 2 ppm. However, the origin of the helium in this
+experiment was easily shown to be a residual impurity occluded into the electrode
+from the laboratory and storeroom atmosphere and not from “cold-fusion”. Thus
+(1) repetition of the experiment with LiOH + H,O gave similar results and (2) the
+electrode purification treatment described in the experimental section eliminated
+the 4He+ signal.
+
+The experiments that concentrated trace gases in the all stainless steel vacuum
+reactor and sample introduction system of Figs. 1 and 2 were motivated by the
+above results. In this technique an electrolysis run of as much as 700 h can be
+compressed into an analysis time of 1 min, representing a time compression (and
+therefore a mass spectrometric sensitivity enhancement) of = 4 X lo4 as compared
+with the real-time, on-line analysis. Since equilibration of the gas in container B
+(Fig. 2) to the system B + C + D transferred only about half the sample to D, the
+actual gain was about 2 X 104. Furthermore since the equilibration depleted the
+original gas content of B by slightly more than half, only one analysis run per
+electrolysis was practical.
+
+Upon initiation of an electrolysis, the pressure inside the apparatus increased to
+several hundred millitorr after 30-60 min and then remained constant for the
+remainder of the run. When the electrolysis was turned off by disconnecting the
+working electrode from the battery source, the pressure slowly dropped as residual
+D, (or Hz) gas reacted with CuO to give condensable water. Tables 1 and 2 report
+constant current coulometric data for six runs at different current densities using
+this apparatus. The electrolyses, which were designed to produce a detectable
+amount of helium and tritium, typically lasted for l-4 weeks.
+
+The permeability data in Tables 1 and 2 for the transport of deuterium or
+hydrogen through the working electrode were calculated in two ways. Method A
+gives an integrated value based on the weighed amount of D,O (or H,O) collected
+in the liquid nitrogen trap at the end of an electrolysis. This value should
+underestimate the true value since it does not take into account the water
+absorbed in the clay/CuO particles, or the deuterium which remains dissolved in
+the Pd/Ag electrode. Permeabilities calculated by method B were based on
+Faraday’s law and assumed that the gas collected over the solution was ideal; eqn.
+(1) gives the amount, in moles, of D, (or H,) taken up and/or passing through the
+electrode in t s.
+ninside = (3/2) c ft/2F) - nwtside. This equation assumes 100% current efficiency for the electrolysis reaction. In
+Tables 1 and 2 the permeabilities are expressed as ml(STP) h-‘. The tables also
+report the fraction of deuterium passing into or through the electrode, f, =
+2Fni,,id,/(n), as a function of current density.
+
+Deuterium flux through the Pd + Ag membrane, (1/2t;)f,, is shown vs. electrolysis
+time for a run at 500 mA in Fig. 3. A rapid decrease in flux occurred in the
+first hour, then the system settled down apparently to steady state. Similar
+behavior was seen at lower current densities. We associate the large initial values
+of deuterium flux with charging of the electrode lattice. The magnitude of the
+initial value of p in Fig. 3 was consistent with a l-to-l ratio of Pd to D in the
+Pd + Ag working electrode. For example, the electrode mass corresponded to a
+STP equivalent of 59 ml of D2.
+
+Fig. 3. Permeability of D, (or H,) through the hollow Pd+ Ag cathode vs. time. Run IV (LiOD in
+D,O), I = 500 mA.
+
+In run VI of Table 1 the dependence of D atom flux on current was explored
+(see Table 2). The results show that the flux decreased with increasing current.
+After steady state was established at 100 mA or more, deuterium flw through the
+electrode was only a small fraction (less than 1%) of total deuterium generated. In
+contrast, as much as 10% of the deuterium was absorbed into the lattice during the
+initial charging process. Finally, the data in Tables 1 and 2 indicate a significant
+isotope effect on the lattice permeability, pri > CL,,, but are not precise enough to
+define that isotope effect quantitatively with useful precision.
+
+Wicke and coworkers [lO,ll], Volkl [12] and others [13,14] have measured H/D
+diffusion coefficients in several metals including Pd and Pd + Ag alloys. In the
+latter materials the isotope effect is generally opposite to that which we observe
+for the overall permeabilities: ph/pd = 1.5 + 0.5 (Tables 1 and 2). For example
+Holleck and Wicke [ll] report lo7 D, = 1.55 f 0.3 and D, = 1.05 f 0.2 cm2 s-l at
+25°C in Pd,,, + Ag,,z. Of course the present experiments do not measure the
+diffusion coefficient in the lattice itself, but rather the total gas permeability at
+constant electrolysis current. Because one expects an isotope effect on overpotential,
+and thus on the hydrogen atom activity at the solution side of the metal
+membrane, our experiments are not directly comparable with such literature
+values.
+
+Analysis for helium-4 and tritium in the reaction products:
+Data for runs where quantitative analysis for 4He was possible are reported in
+Table 3. (Of the six runs in Table 1, numbers I and III contained large amounts of
+air due to a leak and could not be analyzed in the mass-4 region with useful
+sensitivity, number II was an H,O blank run.) In each of the three experiments in
+Table 3, the total amount of 4He was on the order of magnitude of 10” atoms in
+the ca. 50 ml sample flask which also contained several hundred millitorr non-condensables.
+For each of these experiments the 4He fraction of the non-condensable
+gases was not significantly different from the value for dry air, 5.2 ppm. We
+conclude that the 4He in these samples was from air contamination, most likely by
+degassing of the clay/CuO reactor, or from a very small leak, over the l- to 2-week
+electroIyses. We note that the sensitivity of the 4He analysis could be improved by
+lowering the CuO-clay/air degassing or the leak rates during the electrolysis, but
+that effort would not be useful unless the 4He background in the mass spectrometer
+were also lowered. For the data of Table 3, the signal-to-background ratio was
+between 3 and 20. Thus it would not be useful to Iower the degassing/air leak rate
+in the electrolyses by more than a factor of about 2 to 5 unless the background
+signal coutd be reduced by an equivalent amount.
+
+It is also of interest to calculate the ratio of 4He atoms in the collection flask to
+the number of deuterium or hydrogen atoms present as water. For example, from
+Tables 1 and 3 the 4He/D(H) ratio was 4 X 10V1’ for the H,O electrolysis at 100
+mA, 3.5 X lo- I1 for the D,O electrolysis at 100 mA, and larger for the D,O
+electrolysis at 500 mA where the amount of heavy water collected was unaccountably
+much smaller. These ratios represent a significant improvement over the
+direct mass spectral detection of 4He in a deuterium sample, where as noted
+above, the 4He+ signal appeared on the shoulder of the D$ signal. It is important
+to note the He/D ratios measured in these experiments do not set an upper limit
+for possible 4He production by a “cold fusion” process since they are fuIIy
+consistent with degassing of atmospheric gases from the CuO/clay train.
+
+The initial D,O or H,O solutions, the electrolyzed solutions, and the D,O
+formed by CuO oxidation of the D, which had passed through the electrode were
+analyzed for tritium by liquid scintillation counting. After mixing the samples with
+an aqueous scintillation cocktail, 20 min counting periods were repeated three
+times for each of the four samples for each electrolysis (Table 4). The observed
+tritium Ievels in the commercial D,O sampIes were within the range specified by
+the supplier. The data indicate that the LiOD + D,O solutions were enriched in
+tritium as expected. The observed enrichment was consistent with the known
+isotope effect for the hydrogen evolution reaction and the amount of make-up
+water added during the electrolyses. On the other hand, the tritium activity of the
+CuO oxidized permeate was less than that of the initial solutions, indicating that
+the isotope effect on the mass transport of hydrogen through the Pd + Ag lattice
+was normal, i.e. H > D > T. Had any tritium been produced in the lattice, our
+expectation was that it would be swept into the CuO reactor. Within the precision
+of the measurements reported in Table 4, no such enrichment was observed.
+
+Our failure to observe 4He production during electrolysis of Li + DOD solutions
+with a palladium + silver electrode is in contrast to the recent Bush, Lagowski,
+Miles and Ostrom (BLMO) report [15]. While this might be a consequence of the
+fact that the electrodes are not identical, we think a more likely explanation is that
+BLMO failed to pretreat their electrodes to remove occluded helium. As pointed
+out above we have found that such contaminating helium is electrolytically degassed.
+
+
+CONCLUSION
+
+A mass spectral method is described for the analysis of trace amounts of helium
+in a deuterium sample formed by electrolysis of a heavy water solution. The limit
+of detection for 4He was approximately 1 X 1011 atoms. The deuterium collected
+permeated a thin palladium/silver cathode operating in the hydrogen evolution
+region. The fraction of the product gas that permeates the electrode (relative to
+the total gas produced) was a function of the duration of the electrolyses and
+decreased with increasing current density. No evidence was found for the production
+of unusually large amounts of either 4He or tritium in electrolyses in
+LiOD + D,O. That observation is consistent with calorimetric results reported
+elsewhere [7].
+
+
+REFERENCES
+
+1 S. Bruckenstein and R.M. Gadde, J. Am. Chem. Sot., 93 (1971) 5941.
+2 M. Petek, S. Bruckenstein, B. Feinberg and R.N. Adams, J. Electroanalytical Chem., 42 (1973) 397.
+3 0. Walter and J. Heitbaum, Ber. Bunsenges. Phys. Chem., 88 (1984) 2.
+4 D. Tegtmeyer and J. Heitbaum, Ber. Bunsenges. Phys. Chem., 93 (1989) 201.
+5 M. Fleischmann, S. Pons and M. Hawkins, J. Electroanal. Chem., 261 (1989) 301; 263 (1989) 187.
+6 M. Fleischmann, S. Ports, M.W. Anderson, L.J. Li and M. Hawkins, J. Electroanal. Chem., 287
+(1990) 293.
+7 A. Zywocinski, H.L. Li, A.A. Tuinman, P. Campbell, J.Q. Chambers and W.A. Van Hook,
+Thermochimica Acta, in press.
+8 H.M. Mueller, J.P. Blackledge and G.G. Libowitz, Metal Hydrides, Academic Press, New York,
+1968.
+9 A. Arneil, J. Sot. Chem. Ind., 53 (1934) 897.
+10 G. Bohmholdt and E. Wicke, Zeit. Phys. Chem. N.F., 56 (1967) 133.
+11 G. Holleck and E. Wicke, Zeit. Phys. Chem. N.F., 56 (1967) 155.
+12 J. Volkl, Ber. Bunsenges Phys. Chem., 76 (1972) 797.
+13 R.V. Bucur, Zeit. Phys. Chem. N.F., 146 (1985) 613.
+14 R.C.J. Willeman, M. Boyle and I.R. Harris, Zeit. Phys. Chem. N.F., 164 (1989) 797.
+15 B.F. Bush, J.J. Lagowski, M.H. Miles and G.S. Ostrom, J. EiectroanaI. Chem., 304 (1991) 271.
+
+
+

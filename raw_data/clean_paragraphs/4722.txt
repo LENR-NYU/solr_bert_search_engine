@@ -1,0 +1,54 @@
+1. INTRODUCTION
+
+In the traditional quantum mechanics, factor r
+−l was always neglected in the solving the Schrödinger equation
+of the hydrogen-like atom because the wave function diverges while r approaches to zero. Based on the previous
+works, the Schrödinger equation of the hydrogen-like atom is analytically solved further here.
+
+
+2. MODEL AND RESULTS
+
+For the simplest system of two bodies with a Coulomb interaction being similar to that of the hydrogen atom,
+the corresponding Schrödinger equation is. The wave function (r) is an eigen-solution of energy E and angular momentum (l, m) in the form of.
+Let Rn(r) = R(r)/rˈthe radial equation is. 
+
+
+3. DISCUSSION
+
+From the results obtained above, it is not necessary to abnegate the factor r−l
+just in the traditional quantum
+mechanics to solve the Schrödinger equation of the hydrogen-like atom. Because there is not the problem about
+the wave function to be divergence while r approaches to zero. Based on the previous works, the Schrödinger
+equation of the hydrogen-like atom could be analytically solved further. When the finite size (existing a radius r0)
+of a nucleus is considered the factor r−l could not be necessary to neglect. If the wave function is even existed in
+the region of less than radius r0, the electron should be captured by the nucleus. In this case it seems that a nuclear
+process is generated and a dineutron could be confirmed on this work as the observation of beta-delayed
+two-neutron radioactivity in 1979. If not, the probability of electron in the close-by the radius r0 of nucleus
+should be very large that a nuclear reaction could be generated very easily.
+
+In this work three sets of analytical solution are obtained if the factor r−l
+is not neglected. The first solution is
+the same as the traditional radial wave function; another one diverges; the last one is far different from the
+traditional solution. On the consideration of the finite size of the nuclear, the third wave function does not diverge
+while r approaches to zero. Its radial wave function has below characteristics: (1) the angular-momentum
+quantum number l must be greater than the principal quantum number n; (2) l must not be 0 or 1; (3) the
+electron-cloud distribution differs from the traditional one; (4) the electron is closer to the nuclear by comparison
+with that in traditional results. On the other hand, the validity of solutions needs to be verified experimentally.
+
+
+4. CONCLUSION
+
+The radial wave function obtained by us in this work has below characteristics: (1) The angular-momentum
+quantum number l must be greater than the principal quantum number n; (2) l must not be 0 or 1; (3) The
+electron-cloud distribution differs from the traditional one; (4) The electron is closer to the nuclear by comparison
+with that in traditional results. On the other hand, the validity of solutions needs to be verified experimentally.
+
+
+REFERENCES
+
+[1] Z.L. Zhang: “Possibility of generated nuclear reaction under some special chemical conditions”, Progress in
+Physical Chemistry Mechanics (in Chinese) 4 (1997) 87.
+[2] Z.L. Zhang, M.H. Zhong, and Z.Q. Zhang: “Modification of the hydrogen-like atom model and a probably
+existing solution of its Schrödinger equation”, HUAXUE TONGBAO (Chemistry) 3 (1998) 41.
+[3] R.E. Azuma, L.C. Carraz, P.G. Hansen, B. Jonson, K.L. Kratz, S. Mattsson, G. Nyman, H.L. Ravn, A.
+Schröder and W. Ziegert, Phys. Rev. Lett. 43 (1979) 1652

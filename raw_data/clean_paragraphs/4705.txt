@@ -1,0 +1,129 @@
+1. Introduction
+
+A Seebeck Envelope Calorimeter (SEC) is a powerful tool for measuring excess heat in low
+energy nuclear reaction experiments [13]. In previous works we used an SEC made by
+Thermonetics Corporation [1,2]. However, this device had some intrinsic defects in our
+experience: (1) The device constant was unstable. We found that it shifted by 20% in three
+months; the SEC had to be calibrated before and after every experiment. (2) The heat insulation
+around the calorimeter was insufficient; thus the baseline and output signal shifted daily with the
+ambient temperature. This SEC had to be put into another, larger insulated box to prevent
+temperature fluctuations [1,2].
+
+In this paper, we will describe a new SEC; its merits are simplicity, stability, and accuracy.
+Preliminary results on reproducibility of excess heat in the Pd-D2O system are also reported.
+
+
+2. Construction of calorimeter
+
+A schematic of the calorimeter and accessories is similar to that which was published
+previously [1]. The calorimeter core consists of two aluminum alloy boxes. The inner box is the
+measuring vessel with interior dimensions of 26 × 26 × 26 cm3 (17.576 L). The thicknesses of
+inner and outer box walls are 4 mm and 6 mm, respectively. Thermoelectric modules (TM, 5.4 ×
+40 × 40 mm3), each with 127 thermocouples, are mounted between the inner and outer walls with
+screws. Thermal conductive silicone is wiped on both sides of each TM to improve thermal
+conductivity. 25 TMs are distributed uniformly on each wall, except for the two facing sidewalls
+which have 24 TMs because there is one hole in the center of each wall. Altogether, 148 TMs
+with a total of 18,796 thermocouples are used in this calorimeter. All of the TMs are connected
+in series. The heat flow during experiments is proportional to the measured emf (electromotive
+force) of the TMs. The two holes ( = 2cm) in the two sidewalls mentioned above permit multifunctionality
+of this calorimeter; i.e., measurements of temperature, internal resistance and
+voltage of the unit-under-test (UUT). The thermal emf of the calorimeter and other signals of
+UUT are measured with a Keithley 2000 multimeter which is connected to a PC through a GPIB
+card, to automatically register the data.
+
+The outer aluminum box is wired with copper tubing (in = 8 mm, out = 10 mm). Thermal
+conductive adhesive is used to mount the copper tubing and the aluminum walls. The outlet of
+the copper tubing is connected with the hose of a refrigerating/heating circulator (PolyScience
+9112). The temperature range of this circulator is 20 to 200°C; the temperature stability is
+± 0.01°C; and the pump outlet flow rate of the working fluid is 15 to 22 liters per minute. The
+inlet of the copper tube around the outer box is connected with a small cylindrical heat sink (in
+20 mm  hin 50 mm); a remote, circular temperature probe is placed in it. This arrangement of
+the temperature probe ensures that the fluctuation of ambient temperature does not affect the
+calorimeter. The inlet of the small heat sink is connected to the circular probe with another hose.
+The hoses are wrapped with a polystyrene foam tubing to prevent heat losses. The calorimeter
+core is placed in a larger box with inner dimension of 70 × 70 × 70 cm3. Heat insulation
+materials fill the gap between these two boxes.
+
+
+3. Calibration of the calorimeter
+
+Calibration is conducted with a 6 ohm electrical heater. The four-wire Kelvin bridge method
+was used to eliminate lead resistance in the measurements. Applied current was measured with a
+0.1  ( 0.01%) standard resistor as shunt. A Sanyo Denki brushless fan (12 V  0.21 A, 2.5 W)
+was used to make the temperature in the vessel homogeneous. The power of the fan was also
+measured in a similar manner. The calibration results are shown in Fig. 1. These results are
+simulated by a quadratic equation:
+P /W  0.0743 0.0038  (5.899  0.0053)E /V  (0.0017  0.0014)( E /V )2
+with 2 = 1.2  104, R2 = 1. P is the input power, and E is the output emf of the SEC. The device
+constant is about 6, or about 30 times more sensitive than the Thermonetics SEC. The device
+constant changed only 1.7% over a 9 month period. The time constant of this SEC is 5 minutes.
+
+
+4. Excess heat of Pd-D2O system
+
+A schematic of the electrolytic cell is shown in Fig. 2(a). The cell is a cylinder of borosilicate
+glass (capacity is about 250 ml, in = 42 mm and out = 45 mm, wall thickness = 1.5 mm, h = 180
+mm). A PTFE male cap is tapered from  47 × 5 mm2 at the top, and  41 × 15 mm2 at the
+bottom. A groove of 4 mm width and 2.5 mm depth is made for O-ring in the middle of bottom
+part. The O-ring (in = 31.5 mm, width = 3.55 mm) made of nitrile butadiene rubber (NBR,
+resistant to acid) is used to seal the top cap against the top inner wall of glass cylinder. The top
+cap has two holes, 7 mm diameter each, for the electrode lead wires. A PTFE plate ( 41 mm × 8
+mm) is used to suspend the recombination catalyst above the electrode. It has 24 holes of  2 mm
+for fluid (D2, O2, D2O and its vapor) passing, and also has two holes, 7 mm diameter each, for
+the electrode lead wires. A PTFE rod ( 6  90 mm2) is fastened to the perforated plate and the
+top cap ensures that the perforated plate is at a fixed distance above the electrolyte.
+
+The Pd cathode was prepared from Alfa Aesar Stock # 11514, Lot # G15Q17, 99.9% purity
+palladium foil (metals basis). It was cold rolled from 15  25  0.5 mm3 to 25  25  0.3 mm3.
+Its surface area is 12.5 cm2 and weight is 2.1891 g. The same Pd cathode was used for all
+experiments, with both isoperibolic calorimetry (IPC) and SEC.
+
+Three platinum electrodes (two anodes and one cathode) are foils 22 × 28 × 0.02 mm3, 11.5
+cm2 surface area. Four electrode lead wires are made of Pt ( 1 mm × 40  60 mm). The Pt foils
+(99.95% Pt) are from General Research Institute for Nonferrous Metals. These Pt leads are
+connected with copper tubes and encapsulated with glass tubes (in = 2 mm, out = 7 mm, length
+= 170 mm) as shown in Fig. 2(a). The gaps between the glass tubes and the PTFE cap are filled
+with glass cement.
+
+The electrolyte contains heavy water (Beijing Chemical Reagent Company, > 99.9% isotopic
+purity) mixed with H2SO4 in the mass ratio of 110:27.5 (20:3 of volume ratio or 20% of mass
+concentration). The catalyst contains 0.5% Pt on 1/8 inch diameter alumina pellets (Alfa Aesar).
+Three grams (62 to 64 pellets) are used in each cell.
+
+4.1. Excess heat measured by isoperibolic calorimetry (IPC): Before samples were tested with the SEC, excess heat production from the samples was first
+verified with an isoperibolic calorimeter (IPC) shown in Fig. 2(b). Two cells were connected in
+series: the E cell (experimental cell, heavy water electrolyte and Pd cathode) and C cell (control
+cell, light water electrolyte and Pt electrodes) [2,4]. The mass concentration of H2SO4 in light
+water electrolyte is 13%. The distance between two electrodes in the C cell is adjusted to make
+its voltage close to that of the E cell. These two cells are embedded in a 5 cm thick polystyrene
+block in a plexiglass box (14  18  23 cm3, 4 mm wall thickness) as shown in Fig. 2(b). One Ktype
+thermocouple was attached on the bottom of each cell to measure the temperature. The
+output power of the E-cell was calculated using the temperature difference between it and
+ambient, and the device constant deduced from the C-cell, as described in Refs. [2,4]. One
+example of excess heat is illustrated in Fig. 3(a) and all results are summarized in Table I. The
+excess power is 0.22 to 0.79 W in 7 runs. These results indicate this sample can produce excess
+heat during electrolysis at 0.24 A cm2.
+
+4.2. Excess heat measured by SEC: After excess heat was verified with the IPC method, the entire isoperibolic calorimeter with
+the two cells installed in it (shown in Fig. 2(b)) was placed inside the SEC, where calorimetry
+was again performed. One example of excess heat is shown in Fig. 3(b). We performed 11
+experimental runs. Six of these produced excess heat, ranging from 0.15 to 0.41 W, as shown in
+Table II. Run #3 had only the E (experimental) cell and not the C (control) cell; it also showed
+the excess heat. The total excess heat was 54 kJ and average excess power was 0.22 W in these 6
+positive runs. Excess power measured by IPC and SEC were qualitatively consistent as shown in
+Table II.
+
+
+5. Conclusion
+
+A Seebeck Envelope Calorimeter was designed and constructed. It is sensitive; it has a fast
+response, and a stable device constant. Excess heat in Dash-type cells was verified with this
+calorimeter. Further work on this subject is in progress in our lab.
+
+
+References
+
+1. W.-S. Zhang, J. Dash, Q. Wang, Proc. ICCF12, Yokohama, Nov 27 to Dec 2, 2005, p. 86.
+2. W.-S. Zhang, J. Dash, Proc. ICCF13, Dagomys, Sochi, Russia, June 25 to July 1, 2007.
+3. E. Storms, Proc. ICCF12, Yokohama, Nov 27 to Dec 2, 2005, p. 108.
+4. Q. Wang, J. Dash, Proc. ICCF12, Yokohama, Nov 27 to Dec 2, 2005, p. 140
