@@ -39,18 +39,19 @@ def process_txt_files(input_folder, csv_file, output_folder):
 
                 data = {
                     'index': index,
-                    'document_link': str(row['document_link']) if row['document_link'] else '',
-                    'abstract': str(row['abstract']) if row['abstract'] else '',
-                    'all_authors': str(row['all_authors']).split('; ') if row['all_authors'] else [],
-                    'pdf_path': str(row['pdf_path']) if row['pdf_path'] else '',
-                    'title': str(row['title']) if row['title'] else '',
-                    'publisher': str(row['publisher']) if row['publisher'] else '',
-                    'year_published': str(row['year_published']) if row['year_published'] else '',
-                    'volume': str(row['volume']) if row['volume'] else '',
-                    'date_uploaded': str(row['date_uploaded']) if row['date_uploaded'] else '',
-                    'keywords': str(row['keywords']).split(', ') if row['keywords'] else [],
+                    'document_link': str(row['document_link']) if not pd.isna(row['document_link']) else '',
+                    'abstract': str(row['abstract']) if not pd.isna(row['abstract']) else '',
+                    'all_authors': str(row['all_authors']).split('; ') if not pd.isna(row['all_authors']) else [],
+                    'pdf_path': str(row['pdf_path']) if not pd.isna(row['pdf_path']) else '',
+                    'title': str(row['title']) if not pd.isna(row['title']) else '',
+                    'publisher': str(row['publisher']) if not pd.isna(row['publisher']) else '',
+                    'year_published': str(row['year_published']) if not pd.isna(row['year_published']) else '',
+                    'volume': str(row['volume']) if not pd.isna(row['volume']) else '',
+                    'date_uploaded': str(row['date_uploaded']) if not pd.isna(row['date_uploaded']) else '',
+                    'keywords': str(row['keywords']).split(', ') if not pd.isna(row['keywords']) else [],
                     'text_content': txt_content 
                 }
+
                 
                 json_path = os.path.join(output_folder, f'{index}.json')
                 with open(json_path, 'w', encoding='utf-8') as json_file:

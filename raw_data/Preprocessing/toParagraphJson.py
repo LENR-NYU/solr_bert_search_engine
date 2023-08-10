@@ -23,7 +23,6 @@ for filename in os.listdir(input_folder):
                 'document_link': data['document_link'],
                 'abstract': data['abstract'],
                 'all_authors': data['all_authors'],
-                'pdf_path': data['pdf_path'],
                 'title': data['title'],
                 'publisher': data['publisher'],
                 'year_published': data['year_published'],
