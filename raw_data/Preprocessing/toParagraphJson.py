@@ -20,7 +20,6 @@ for filename in os.listdir(input_folder):
             paragraph_data = {
                 'paragraph_index': paragraph_index,
                 'article_index': article_index,
-                'paragraph': paragraph,
                 'document_link': data['document_link'],
                 'abstract': data['abstract'],
                 'all_authors': data['all_authors'],
@@ -31,7 +30,7 @@ for filename in os.listdir(input_folder):
                 'volume': data['volume'],
                 'date_uploaded': data['date_uploaded'],
                 'keywords': data['keywords'],
-                'text_content': txt_content 
+                'paragraph': paragraph,
             }
             
             jsonl_data.append(paragraph_data)
