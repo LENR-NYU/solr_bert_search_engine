@@ -1,6 +1,7 @@
 import pysolr
 import json
 import os
+import requests
 
 class SolrClient:
     def __init__(self, solr_url):
@@ -30,6 +31,22 @@ class SolrClient:
         self.solr.delete(q='*:*')
         self.solr.commit()
 
+    def modify_solr_schema(self, solr_url, field_name, new_field_type):
+    # Define the new field type
+        field_definition = {
+            "replace-field-type": {
+                "name": field_name,
+                "class": new_field_type
+            }
+        }
+
+        response = requests.post(f"{solr_url}/schema", json=field_definition)
+
+        if response.status_code == 200:
+            print(f"Schema modification successful for field '{field_name}'")
+        else:
+            print(f"Schema modification failed: {response.status_code} - {response.text}")
+
 solr_url = 'http://localhost:8983/solr/search_lenr_0'
 jsonl_file = '/Users/yw511/Desktop/LENR/sample0.jsonl'
 jsonl_folder = '/Users/yw511/Desktop/LENR_solr_react/data_paragraph'
@@ -38,3 +55,7 @@ solr_client = SolrClient(solr_url)
 # solr_client.inject_data_from_jsonl(jsonl_file)
 # solr_client.delete_all_documents()
 solr_client.inject_data_from_folder(jsonl_folder)
+
+# field_name = "volume"
+# new_field_type = "string"
+# solr_client.modify_solr_schema(solr_url, field_name, new_field_type)
