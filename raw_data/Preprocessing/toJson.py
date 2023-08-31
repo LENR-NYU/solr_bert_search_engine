@@ -7,8 +7,11 @@ def preccess_txt(txt):
     sections = txt.strip().split('\n\n\n')
     results = []
     for section in sections:
+        content = ''
         paragraphs = section.strip().split('\n\n')
         section_name = paragraphs[0]
+        if "reference" in section_name.lower():
+            continue
         paragraphs = paragraphs[1:]
         for paragraph in paragraphs:
             lines = paragraph.strip().split('\n')
