@@ -7,7 +7,6 @@ def preccess_txt(txt):
     sections = txt.strip().split('\n\n\n')
     results = []
     for section in sections:
-        content = ''
         paragraphs = section.strip().split('\n\n')
         section_name = paragraphs[0]
         if "reference" in section_name.lower():
@@ -16,7 +15,7 @@ def preccess_txt(txt):
         for paragraph in paragraphs:
             lines = paragraph.strip().split('\n')
             content = ' '.join(lines)
-        results.append(content)
+            results.append(content)
     return results
 
 def process_txt_files(input_folder, csv_file, output_folder):
@@ -30,14 +29,12 @@ def process_txt_files(input_folder, csv_file, output_folder):
     for filename in os.listdir(input_folder):
         if filename.endswith('.txt'):
             index = int(os.path.splitext(filename)[0])
-            print("Process index ", index)
             if index in df['index'].values:
-                print("Processing")
                 txt_path = os.path.join(input_folder, filename)
                 with open(txt_path, 'r', encoding='utf-8') as txt_file:
                     txt_content = txt_file.read()
                 row = df.loc[index]
-
+                print("Process index ", index)
                 txt_content = preccess_txt(txt_content)
 
                 data = {
@@ -59,7 +56,6 @@ def process_txt_files(input_folder, csv_file, output_folder):
                 json_path = os.path.join(output_folder, f'{index}.json')
                 with open(json_path, 'w', encoding='utf-8') as json_file:
                     json.dump(data, json_file, ensure_ascii=False, indent=4)
-                print("Processed")
                 
 
 # Example usage
