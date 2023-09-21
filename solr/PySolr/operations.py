@@ -2,13 +2,15 @@ import pysolr
 import json
 import os
 import requests
-from sentence_transformers import SentenceTransformer
+# from sentence_transformers import SentenceTransformer
+from _dprEncoder import DprQueryEncoder
 import faiss
 
 class SolrClient:
     def __init__(self, solr_url):
         self.solr = pysolr.Solr(solr_url)
-        self.encoder = SentenceTransformer("bert-base-nli-mean-tokens")
+        # self.encoder = SentenceTransformer("bert-base-nli-mean-tokens")
+        self.encoder = DprQueryEncoder('facebook/dpr-question_encoder-multiset-base')
     
     def inject_data_from_jsonl(self, jsonl_file):
         # Open the JSONL file
@@ -76,31 +78,45 @@ class SolrClient:
         print("Vectors updated in Solr")
     
     def search_with_query(self, query):
-        sentence_embedding = self.encoder.encode([query])
+
+        # sentence_embedding = self.encoder.encode([query])
         # print(sentence_embedding.shape)
+        # d = sentence_embedding.shape[1]
+        # index = faiss.IndexFlatL2(d)
+        # index.add(sentence_embedding)
+        # search_list = index.reconstruct(0).tolist()
+        # print(len(search_list))
+
+        sentence_embedding = self.encoder.encode(query)
+        sentence_embedding = sentence_embedding.reshape((1, len(sentence_embedding)))
         d = sentence_embedding.shape[1]
         index = faiss.IndexFlatL2(d)
         index.add(sentence_embedding)
         search_list = index.reconstruct(0).tolist()
+        # print(len(search_list))
+
         # print("Encoded Query:", search_list)
-        knn_query = '&q={!knn f=vector topK=5}' + str(search_list)
-        results = self.solr.search(q='*:*',raw_query=knn_query)
+        knn_query = '{!knn f=vector topK=15}' + str(search_list)
+        # print(knn_query)
+        results = self.solr.search(q=knn_query, rows=15)
         print(len(results))
         for r in results:
-            print(r['paragraph'])
+            print(r['paragraph'][0])
+        for r in results:
+            print(r['paragraph_index'][0])
 
 
 solr_url = 'http://localhost:8983/solr/search_lenr_0'
-jsonl_file = '/Users/yw511/Desktop/LENR/sample0.jsonl'
+# jsonl_file = '/Users/yw511/Desktop/LENR/sample0.jsonl'
 jsonl_folder = '/Users/yw511/Desktop/LENR_solr_react/data_paragraph'
-index_jsonl_folder = '/Users/yw511/Desktop/LENR_solr_react/index'
+index_jsonl_folder = '/Users/yw511/Desktop/LENR_solr_react/index_paragraph'
 
 solr_client = SolrClient(solr_url)
 # solr_client.inject_data_from_jsonl(jsonl_file)
 # solr_client.delete_all_documents()
 # solr_client.inject_data_from_folder(jsonl_folder)
 # solr_client.inject_index(index_jsonl_folder)
-solr_client.search_with_query("what is excess heat?")
+solr_client.search_with_query("What is excess heat")
 
 # field_name = "volume"
 # new_field_type = "string"
