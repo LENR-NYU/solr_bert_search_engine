@@ -50,11 +50,11 @@ class FaissVectorizer:
 
 
 
-jsonl_folder = '/Users/yw511/Desktop/LENR_solr_react/data_paragraph'
-output_file = '/Users/yw511/Desktop/LENR_solr_react/index/index.jsonl'
+# jsonl_folder = '/Users/yw511/Desktop/LENR_solr_react/data_paragraph'
+# output_file = '/Users/yw511/Desktop/LENR_solr_react/index_paragraph/index.jsonl'
 
-ids = []
-paragraphs = []
+# ids = []
+# paragraphs = []
 
 def load_jsonl_files(folder_path):
     for filename in os.listdir(folder_path):
@@ -68,13 +68,38 @@ def load_jsonl_files(folder_path):
                     ids.append(id)
                     paragraphs.append(paragraph)
 
-load_jsonl_files(jsonl_folder)
-print("Numbers of paragraphs:", len(paragraphs))
-print("Numbers of ids:", len(ids))
-faiss_vectorizer = FaissVectorizer(ids, paragraphs)
-faiss_vectorizer.add_paragraphs(paragraphs)
+json_folder = '/Users/yw511/Desktop/LENR_solr_react/data_fulltext'
+output_file = '/Users/yw511/Desktop/LENR_solr_react/index_fulltext/index.jsonl'
+
+ids = []
+fulltext = []
+
+def load_json_files(folder_path):
+    for filename in os.listdir(folder_path):
+        if filename.endswith(".json"):
+            with open(os.path.join(folder_path, filename), "r") as file:
+                json_data = json.load(file)  # Load the entire JSON file
+                paragraph = json_data.get("paragraph", "")
+                id = json_data.get("paragraph_index", "")
+                ids.append(id)
+                fulltext.append(paragraph)
+
+load_json_files(json_folder)
+print("Number of paragraphs:", len(fulltext))
+print("Number of ids:", len(ids))
+
+faiss_vectorizer = FaissVectorizer(ids, fulltext)
+faiss_vectorizer.add_paragraphs(fulltext)
 faiss_vectorizer.indexing()
 faiss_vectorizer.outputIndex(output_file)
+
+# load_jsonl_files(jsonl_folder)
+# print("Numbers of paragraphs:", len(paragraphs))
+# print("Numbers of ids:", len(ids))
+# faiss_vectorizer = FaissVectorizer(ids, paragraphs)
+# faiss_vectorizer.add_paragraphs(paragraphs)
+# faiss_vectorizer.indexing()
+# faiss_vectorizer.outputIndex(output_file)
 
 # for idx in search_results:
 #     print(f"Index: {idx}, Vector: {faiss_vectorizer.vectors[idx]}")
