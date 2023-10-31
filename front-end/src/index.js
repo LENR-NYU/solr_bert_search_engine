@@ -3,7 +3,7 @@ import { createRoot } from 'react-dom/client';
 import { BrowserRouter as Router } from 'react-router-dom';
 
 import App from './App';
-// import { StateContextProvider } from './contexts/StateContextProvider';
+import { ResultContextProvider } from './contexts/ResultContextProvider';
 import './global.css';
 
 // ReactDom.render(
@@ -19,6 +19,8 @@ const domNode = document.getElementById('root');
 const root = createRoot(domNode);
 
 root.render(
-    <Router>
-        <App />
-    </Router>);
+    <ResultContextProvider>
+        <Router>
+            <App />
+        </Router>
+    </ResultContextProvider>);

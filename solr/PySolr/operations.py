@@ -10,7 +10,7 @@ class SolrClient:
     def __init__(self, solr_url):
         self.solr = pysolr.Solr(solr_url)
         # self.encoder = SentenceTransformer("bert-base-nli-mean-tokens")
-        self.encoder = DprQueryEncoder('facebook/dpr-question_encoder-multiset-base')
+        self.encoder = DprQueryEncoder('/Users/yw511/Desktop/LENR_solr_react/dpr-question_encoder-multiset-base')
     
     def inject_data_from_jsonl(self, jsonl_file):
         # Open the JSONL file
@@ -107,16 +107,17 @@ class SolrClient:
 
 
 solr_url = 'http://localhost:8983/solr/search_lenr_0'
+solr_url_1 = 'http://localhost:8983/solr/search_lenr_1'
 # jsonl_file = '/Users/yw511/Desktop/LENR/sample0.jsonl'
-jsonl_folder = '/Users/yw511/Desktop/LENR_solr_react/data_paragraph'
+jsonl_folder = '/Users/yw511/Desktop/LENR_solr_react/data_fulltext'
 index_jsonl_folder = '/Users/yw511/Desktop/LENR_solr_react/index_paragraph'
 
-solr_client = SolrClient(solr_url)
+solr_client = SolrClient(solr_url_1)
 # solr_client.inject_data_from_jsonl(jsonl_file)
 # solr_client.delete_all_documents()
-# solr_client.inject_data_from_folder(jsonl_folder)
+solr_client.inject_data_from_folder(jsonl_folder)
 # solr_client.inject_index(index_jsonl_folder)
-solr_client.search_with_query("What is excess heat")
+# solr_client.search_with_query("What is excess heat")
 
 # field_name = "volume"
 # new_field_type = "string"

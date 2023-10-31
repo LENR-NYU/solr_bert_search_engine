@@ -1,17 +1,17 @@
 import React, { useEffect, useState } from 'react';
-// import { useDebounce } from 'use-debounce';
+import { useDebounce } from 'use-debounce';
 
-// import { useStateContext } from '../contexts/StateContextProvider';
+import { useResultContext } from '../contexts/ResultContextProvider';
 import { Links } from './Links';
 
 export const Search = () => {
-//   const { setSearchTerm } = useStateContext();
+  const { setSearchTerm } = useResultContext();
   const [text, setText] = useState('What is excess heat?');
-//   const [debouncedValue] = useDebounce(text, 300);
+  const [debouncedValue] = useDebounce(text, 300);
 
-//   useEffect(() => {
-//     if (debouncedValue) setSearchTerm(debouncedValue);
-//   }, [debouncedValue]);
+  useEffect(() => {
+    if (debouncedValue) setSearchTerm(debouncedValue);
+  }, [debouncedValue]);
 
   return (
     <div className="relative sm:ml-48 md:ml-72 sm:-mt-10 mt-3">

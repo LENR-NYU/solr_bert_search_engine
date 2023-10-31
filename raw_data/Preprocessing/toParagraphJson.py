@@ -2,7 +2,8 @@ import os
 import json
 
 input_folder = '/Users/yw511/Desktop/LENR_solr_react/data'  # Update with the actual path
-output_folder = '/Users/yw511/Desktop/LENR_solr_react/data_paragraph'   # Update with the desired output path
+# output_folder = '/Users/yw511/Desktop/LENR_solr_react/data_paragraph'   # Update with the desired output path
+output_folder = '/Users/yw511/Desktop/LENR_solr_react/data_paragraph_anserini'
 
 for filename in os.listdir(input_folder):
     if filename.endswith('.json'):
@@ -18,18 +19,20 @@ for filename in os.listdir(input_folder):
             article_index = index
             
             paragraph_data = {
-                'paragraph_index': paragraph_index,
-                'article_index': article_index,
-                'document_link': data['document_link'],
-                'abstract': data['abstract'],
-                'all_authors': data['all_authors'],
-                'title': data['title'],
-                'publisher': data['publisher'],
-                'year_published': data['year_published'],
-                'volume': data['volume'],
-                'date_uploaded': data['date_uploaded'],
-                'keywords': data['keywords'],
-                'paragraph': paragraph,
+                # 'paragraph_index': paragraph_index,
+                'id': paragraph_index,
+                # 'article_index': article_index,
+                # 'document_link': data['document_link'],
+                # 'abstract': data['abstract'],
+                # 'all_authors': data['all_authors'],
+                # 'title': data['title'],
+                # 'publisher': data['publisher'],
+                # 'year_published': data['year_published'],
+                # 'volume': data['volume'],
+                # 'date_uploaded': data['date_uploaded'],
+                # 'keywords': data['keywords'],
+                # 'paragraph': paragraph,
+                'contents': paragraph,
             }
             
             jsonl_data.append(paragraph_data)

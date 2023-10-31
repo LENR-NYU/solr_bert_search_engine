@@ -39,3 +39,14 @@ encoder \
   --fields text \
   --batch 32 \
   --device cpu
+
+npm start run
+conda activate LENR1
+flask --app app.py --debug run
+filter fields: all_authors, publisher, year_published
+
+References:
+https://www.youtube.com/watch?v=NDbruK1fzG8&t=2434s
+https://github.com/adrianhajdin/project_google_clone
+https://github.com/django-haystack/pysolr
+https://github.com/castorini/pyserini/blob/master/docs/usage-index.md#building-a-bm25-index-embeddable-python-implementation

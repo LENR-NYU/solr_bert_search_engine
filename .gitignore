@@ -4,6 +4,8 @@
 /data_paragraph_anserini
 /index_fulltext
 /index_paragraph
-/index_paragraph_anserini
-/raw_data
+/index_paragraph_anserin
+/raw_data/clean_paragraphs
 /anserini
+/dpr-question_encoder-multiset-base
+/solr
