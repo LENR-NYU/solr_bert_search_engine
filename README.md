@@ -40,9 +40,18 @@ encoder \
   --batch 32 \
   --device cpu
 
+1. Start Front-end
 npm start run
+
+2. Start Back-end
 conda activate LENR1
 flask --app app.py --debug run
+
+3. Start Solr
+export solr_home=/Users/yw511/Solr/solr-9.2.1
+cd $solr_home
+bin/solr start -p 8983
+
 filter fields: all_authors, publisher, year_published
 
 References:
