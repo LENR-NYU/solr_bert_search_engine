@@ -27,6 +27,20 @@ jobs:
         with:
           submodules: 'recursive'
 
+      - name: Setup Node
+          uses: actions/setup-node@v3
+          with:
+            node-version: v16.x
+
+      - name: Build Front-end
+        env:
+          CI: false
+          SITE_URL: ${{ inputs.site-url }}
+        run: |
+          cd front-end
+          npm ci
+          npm run build
+
 # Please do not touch the following action
       - name: Store deployment content
         uses: ionos-deploy-now/artifact-action@v1
@@ -36,6 +50,6 @@ jobs:
           project-id: 4e303f00-dc69-42b3-8093-af67e9d4e768
           branch-id: ${{ inputs.branch-id }}
           version: ${{ github.sha }}
-          folder: ${{ env.DEPLOYMENT_FOLDER }}
+          folder: front-end/build
           config-file: .deploy-now/solr_bert_search_engine/config.yaml
           action: upload
