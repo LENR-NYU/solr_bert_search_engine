@@ -28,9 +28,9 @@ jobs:
           submodules: 'recursive'
 
       - name: Setup Node
-          uses: actions/setup-node@v3
-          with:
-            node-version: v16.x
+        uses: actions/setup-node@v3
+        with:
+          node-version: v16.x
 
       - name: Build Front-end
         env:
